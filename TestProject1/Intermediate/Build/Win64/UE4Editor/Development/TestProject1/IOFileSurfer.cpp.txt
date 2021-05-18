@@ -1,0 +1,3 @@
+C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\Definitions.TestProject1.h
+C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Source\TestProject1\IOFileSurfer.h
+C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Inc\TestProject1\IOFileSurfer.generated.h

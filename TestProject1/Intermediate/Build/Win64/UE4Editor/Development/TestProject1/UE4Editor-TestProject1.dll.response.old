@@ -34,9 +34,9 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\TestProject1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\ReadWrite.cpp.obj"
+"C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\ReadWriter.cpp.obj"
 "C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\TestProject1.cpp.obj"
-"C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\ReadWrite.gen.cpp.obj"
+"C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\ReadWriter.gen.cpp.obj"
 "C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\TestProject1.init.gen.cpp.obj"
 "C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\Default.rc2.res"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"

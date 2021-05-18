@@ -1,0 +1,19 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak).
+  Building TestProject1...
+  Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 12 processes...
+    [1/3] IOFileSurfer.cpp
+C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Source\TestProject1\IOFileSurfer.cpp(19): error C2065: 'FLocalTimestampDirectoryVisitor': undeclared identifier
+C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Source\TestProject1\IOFileSurfer.cpp(19): error C2146: syntax error: missing ';' before identifier 'Visitor'
+C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Source\TestProject1\IOFileSurfer.cpp(19): error C3861: 'Visitor': identifier not found
+C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Source\TestProject1\IOFileSurfer.cpp(20): error C2065: 'Visitor': undeclared identifier
+C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Source\TestProject1\IOFileSurfer.cpp(23): error C2065: 'Visitor': undeclared identifier
+C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Source\TestProject1\IOFileSurfer.cpp(23): error C2512: 'TMapBase<KeyType,ValueType,SetAllocator,KeyFuncs>::TIterator::TIterator': no appropriate default constructor available
+            with
+            [
+                KeyType=FString,
+                ValueType=FDateTime,
+                SetAllocator=FDefaultSetAllocator,
+                KeyFuncs=TDefaultMapHashableKeyFuncs<FString,FDateTime,false>
+            ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_4.26\Engine\Build\BatchFiles\Build.bat" TestProject1 Win32 Development -Project="C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\TestProject1.uproject" -WaitMutex -FromMsBuild" exited with code 6.
