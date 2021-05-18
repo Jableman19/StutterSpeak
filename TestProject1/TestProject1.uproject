@@ -3,6 +3,12 @@
 	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
