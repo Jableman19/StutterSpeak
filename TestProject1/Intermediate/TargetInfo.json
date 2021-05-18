@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TestProject1",
+			"Path": "C:\\Users\\jonah\\OneDrive\\Desktop\\Projects\\StutterSpeak\\TestProject1\\Source\\TestProject1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TestProject1Editor",
+			"Path": "C:\\Users\\jonah\\OneDrive\\Desktop\\Projects\\StutterSpeak\\TestProject1\\Source\\TestProject1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
