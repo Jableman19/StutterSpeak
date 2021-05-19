@@ -920,3 +920,299 @@ But I'm cooler B)
 But I'm cooler B)
 [2021.05.18-21.48.08:468][514]PIE: Server logged in
 [2021.05.18-21.48.08:469][514]PIE: Play in editor total start time 0.155 seconds.
+[2021.05.18-21.50.53:880][660]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.18-21.50.53:939][660]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.18-21.50.53:939][660]LogAudioMixer: Display: 1: FrontRight
+[2021.05.18-21.50.54:056][660]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.18-21.50.54:100][660]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.18-21.50.54:100][660]LogAudioMixer: Display: 1: FrontRight
+[2021.05.18-22.23.12:447][683]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4ab52ebc-c90d-41e9-86cf-ed7f4d7ba587}.
+[2021.05.18-22.23.12:447][683]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4ab52ebc-c90d-41e9-86cf-ed7f4d7ba587}.
+[2021.05.18-22.23.12:447][683]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.18-22.23.12:531][683]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.18-22.23.12:531][683]LogAudioMixer: Display: 1: FrontRight
+[2021.05.18-22.23.12:596][683]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.18-22.23.12:682][683]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.18-22.23.12:682][683]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-14.09.55:038][392]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.19-14.09.55:130][392]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-14.09.55:130][392]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-14.09.55:176][392]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.19-14.09.55:237][392]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-14.09.55:237][392]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-14.09.55:286][393]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.05.19-14.10.14:711][452]LogHttp: Warning: 000001F007BCB900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.19-14.10.14:711][452]LogHttp: Warning: 000001F007BCB900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.05.19-14.10.14:712][452]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1efbb9c3eb0 [can pipeline])
+[2021.05.19-14.10.14:712][452]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2021.05.19-14.10.14:712][452]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.161.159.14) port 443 (#1))
+[2021.05.19-14.10.14:712][452]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.05.19-14.10.14:712][452]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.05.19-14.10.14:712][452]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.05.19-14.10.14:712][452]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.05.19-14.10.14:712][452]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 7 (Closing connection 1)
+[2021.05.19-14.10.14:712][452]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.19-14.11.13:074][626]LogHttp: Warning: 000001F007BCB900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.19-14.11.13:074][626]LogHttp: Warning: 000001F007BCB900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.05.19-14.11.13:074][626]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.05.19-14.11.13:074][626]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 1 (Closing connection 2)
+[2021.05.19-14.11.13:074][626]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.19-14.12.13:123][805]LogHttp: Warning: 000001F007BCB900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.19-14.12.13:123][805]LogHttp: Warning: 000001F007BCB900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.05.19-14.12.13:123][805]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.05.19-14.12.13:123][805]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 1 (Closing connection 3)
+[2021.05.19-14.12.13:455][806]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.19-14.13.13:188][984]LogHttp: Warning: 000001F007BCB900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.19-14.13.13:188][984]LogHttp: Warning: 000001F007BCB900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.05.19-14.13.13:188][984]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.05.19-14.13.13:188][984]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 1 (Closing connection 4)
+[2021.05.19-14.13.13:188][984]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.19-14.14.13:274][163]LogHttp: Warning: 000001F007BCB900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.19-14.14.13:274][163]LogHttp: Warning: 000001F007BCB900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.05.19-14.14.13:274][163]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.05.19-14.14.13:274][163]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 1 (Closing connection 5)
+[2021.05.19-14.14.13:614][164]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.19-14.15.13:019][341]LogHttp: Warning: 000001F007BCB900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.19-14.15.13:019][341]LogHttp: Warning: 000001F007BCB900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.05.19-14.15.13:019][341]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.05.19-14.15.13:019][341]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 1 (Closing connection 6)
+[2021.05.19-14.15.13:350][342]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.19-14.16.13:027][520]LogHttp: Warning: 000001F007BCB900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.19-14.16.13:027][520]LogHttp: Warning: 000001F007BCB900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.05.19-14.16.13:027][520]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.05.19-14.16.13:027][520]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 1 (Closing connection 7)
+[2021.05.19-14.16.13:027][520]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.19-14.17.13:305][700]LogHttp: Warning: 000001F007BCB900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.19-14.17.13:305][700]LogHttp: Warning: 000001F007BCB900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.05.19-14.17.13:305][700]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.05.19-14.17.13:305][700]LogHttp: Warning: 000001F007BCB900: libcurl info message cache 1 (Closing connection 8)
+[2021.05.19-14.17.13:305][700]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2008FE8-4677-5148-1465-17B6CE88AD13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=982f6c3448e53055a04b999fd5756268%7C4d4799f7d59949628972b84b0df868f3%7Cad546062-248a-42df-8906-3e0f627bb73c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.05.19-14.24.29:444][129]LogSlate: Window 'Plugins' being destroyed
+[2021.05.19-14.24.29:455][129]LogSlate: Window 'Plugins' being destroyed
+[2021.05.19-14.24.29:456][129]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.05.19-14.24.32:517][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-14.24.32:517][343]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.05.19-14.24.32:518][343]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-14.24.32:520][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-14.24.32:527][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-14.24.32:553][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-14.24.32:579][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-14.24.32:580][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-14.24.32:581][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-14.24.32:626][343]LogUObjectHash: Compacting FUObjectHashTables data took  13.48ms
+[2021.05.19-14.24.32:678][344]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.05.19-14.24.34:256][471]LogTemp: Repeating last play command: Simulate
+[2021.05.19-14.24.34:264][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-14.24.34:264][471]PIE: New page: SIE session: MotionControllerMap (May 19, 2021, 4:24:34 AM)
+[2021.05.19-14.24.34:265][471]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.05.19-14.24.34:286][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021061s)
+[2021.05.19-14.24.34:287][471]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.05.19-14.24.34:288][471]LogPlayLevel: PIE: World Init took: (0.002614s)
+[2021.05.19-14.24.34:288][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.023889s)
+[2021.05.19-14.24.34:312][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.05.19-14.24.34:313][471]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.19-14.24.34:313][471]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-14.24.34:313][471]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-14.24.34:313][471]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-14.24.34:313][471]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-14.24.34:313][471]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-14.24.34:313][471]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-14.24.34:313][471]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-14.24.34:313][471]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-14.24.34:314][471]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-14.24.34:314][471]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-14.24.34:320][471]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-14.24.34:320][471]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-14.24.34:333][471]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2021.05.19-14.24.34:334][471]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-14.24.34:334][471]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-14.24.34:334][471]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-14.24.34:335][471]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-14.24.34:335][471]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-14.24.34:335][471]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-14.24.34:348][471]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-14.24.34:348][471]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-14.24.34:348][471]LogInit: FAudioDevice initialized.
+[2021.05.19-14.24.34:348][471]LogAudio: Display: Audio Device (ID: 4) registered with world 'MotionControllerMap'.
+[2021.05.19-14.24.34:354][471]LogLoad: Game class is 'GameModeBase'
+[2021.05.19-14.24.34:357][471]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.05.19-09.24.34
+[2021.05.19-14.24.34:357][471]LogWorld: Bringing up level for play took: 0.002482
+[2021.05.19-14.24.34:358][471]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.05.19-14.24.34:359][471]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.19-14.24.34:363][471]LogBlueprintUserMessages: [MotionControllerPawn_5] Hell yeah it works
+[2021.05.19-14.24.34:363][471]LogBlueprintUserMessages: [MotionControllerPawn_5] LoremIpsumSitDolorAmet
+[2021.05.19-14.24.34:363][471]LogBlueprintUserMessages: [MotionControllerPawn_5] Robbie Eads is a pretty cool guy I'm not gonna lie.
+
+But I'm cooler B)
+[2021.05.19-14.24.34:363][471]PIE: Server logged in
+[2021.05.19-14.24.34:364][471]PIE: Play in editor total start time 0.102 seconds.
+[2021.05.19-14.24.37:122][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-14.24.37:122][691]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.05.19-14.24.37:123][691]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-14.24.37:123][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-14.24.37:132][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-14.24.37:145][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-14.24.37:167][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-14.24.37:167][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-14.24.37:168][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-14.24.37:187][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.05.19-14.24.37:210][692]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.05.19-14.25.10:064][116]LogTemp: Repeating last play command: Simulate
+[2021.05.19-14.25.10:071][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-14.25.10:072][116]PIE: New page: SIE session: MotionControllerMap (May 19, 2021, 4:25:10 AM)
+[2021.05.19-14.25.10:072][116]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.05.19-14.25.10:152][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080063s)
+[2021.05.19-14.25.10:153][116]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.05.19-14.25.10:154][116]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2021.05.19-14.25.10:154][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.081664s)
+[2021.05.19-14.25.10:178][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.05.19-14.25.10:180][116]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.19-14.25.10:180][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-14.25.10:180][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-14.25.10:180][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-14.25.10:180][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-14.25.10:180][116]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-14.25.10:180][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-14.25.10:180][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-14.25.10:180][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-14.25.10:181][116]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-14.25.10:181][116]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-14.25.10:186][116]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-14.25.10:186][116]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-14.25.10:199][116]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2021.05.19-14.25.10:199][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-14.25.10:199][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-14.25.10:199][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-14.25.10:200][116]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-14.25.10:200][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-14.25.10:200][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-14.25.10:214][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-14.25.10:214][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-14.25.10:214][116]LogInit: FAudioDevice initialized.
+[2021.05.19-14.25.10:214][116]LogAudio: Display: Audio Device (ID: 5) registered with world 'MotionControllerMap'.
+[2021.05.19-14.25.10:220][116]LogLoad: Game class is 'GameModeBase'
+[2021.05.19-14.25.10:222][116]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.05.19-09.25.10
+[2021.05.19-14.25.10:222][116]LogWorld: Bringing up level for play took: 0.001829
+[2021.05.19-14.25.10:223][116]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.05.19-14.25.10:224][116]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.19-14.25.10:226][116]LogBlueprintUserMessages: [MotionControllerPawn_5] Hell yeah it works
+[2021.05.19-14.25.10:230][116]LogBlueprintUserMessages: [MotionControllerPawn_5] LoremIpsumSitDolorAmet
+[2021.05.19-14.25.10:235][116]LogBlueprintUserMessages: [MotionControllerPawn_5] Robbie Eads is a pretty cool guy I'm not gonna lie.
+
+But I'm cooler B)
+[2021.05.19-14.25.10:235][116]PIE: Server logged in
+[2021.05.19-14.25.10:236][116]PIE: Play in editor total start time 0.166 seconds.
+[2021.05.19-14.25.45:571][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-14.25.45:571][231]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.05.19-14.25.45:571][231]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-14.25.45:571][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-14.25.45:582][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-14.25.45:600][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-14.25.45:620][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-14.25.45:621][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-14.25.45:622][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-14.25.45:640][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.05.19-14.25.45:711][233]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.05.19-14.31.47:527][350]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8dd096a4-58e6-46ce-9fd5-36629ba1f9a3}.
+[2021.05.19-14.31.47:534][350]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.19-14.31.47:826][350]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-14.31.47:826][350]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-14.32.23:579][768]LogSlate: Took 0.008153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.05.19-14.35.25:084][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.05.19-14.35.25:130][368]LogSavePackage: Moving '../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/MotionControllerMap_Auto19394CCB94C76CB454DDBD8A197E82AEB.tmp' to '../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2021.05.19-14.35.25:132][368]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.091
+[2021.05.19-14.35.25:132][368]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.091
+[2021.05.19-14.35.25:133][368]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2021.05.19-14.35.25:133][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2021.05.19-14.35.25:195][368]LogSavePackage: Moving '../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/MotionControllerPawn_Auto1F61828C447ED38AD04B511AD82133798.tmp' to '../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto1.uasset'
+[2021.05.19-14.35.25:196][368]LogFileHelpers: Auto-saving content packages took 0.064
+[2021.05.19-14.35.53:402][590]LogSavePackage: Moving '../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/MotionControllerPawn438085A94BD5470AE98F8E80D54C8105.tmp' to '../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.05.19-14.35.53:419][590]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2021.05.19-14.35.53:419][590]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.05.19-14.35.54:768][704]BlueprintLog: New page: Compile MotionControllerPawn
+[2021.05.19-14.35.54:839][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.05.19-14.36.11:071][883]LogTemp: Repeating last play command: Simulate
+[2021.05.19-14.36.11:079][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-14.36.11:079][883]PIE: New page: SIE session: MotionControllerMap (May 19, 2021, 4:36:11 AM)
+[2021.05.19-14.36.11:079][883]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.05.19-14.36.11:099][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020733s)
+[2021.05.19-14.36.11:101][883]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.05.19-14.36.11:102][883]LogPlayLevel: PIE: World Init took: (0.002623s)
+[2021.05.19-14.36.11:102][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.023676s)
+[2021.05.19-14.36.11:140][883]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.05.19-14.36.11:142][883]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.19-14.36.11:142][883]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-14.36.11:142][883]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-14.36.11:142][883]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-14.36.11:142][883]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-14.36.11:142][883]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-14.36.11:142][883]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-14.36.11:142][883]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-14.36.11:142][883]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-14.36.11:143][883]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-14.36.11:143][883]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-14.36.11:150][883]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-14.36.11:150][883]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-14.36.11:170][883]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2021.05.19-14.36.11:171][883]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-14.36.11:171][883]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-14.36.11:171][883]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-14.36.11:171][883]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-14.36.11:171][883]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-14.36.11:172][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-14.36.11:192][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-14.36.11:192][883]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-14.36.11:192][883]LogInit: FAudioDevice initialized.
+[2021.05.19-14.36.11:192][883]LogAudio: Display: Audio Device (ID: 6) registered with world 'MotionControllerMap'.
+[2021.05.19-14.36.11:205][883]LogLoad: Game class is 'GameModeBase'
+[2021.05.19-14.36.11:209][883]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.05.19-09.36.11
+[2021.05.19-14.36.11:209][883]LogWorld: Bringing up level for play took: 0.002645
+[2021.05.19-14.36.11:209][883]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.05.19-14.36.11:211][883]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.19-14.36.11:214][883]PIE: Server logged in
+[2021.05.19-14.36.11:215][883]PIE: Play in editor total start time 0.138 seconds.
+[2021.05.19-14.36.13:013][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-14.36.13:014][  2]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.05.19-14.36.13:014][  2]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-14.36.13:014][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-14.36.13:028][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-14.36.13:049][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-14.36.13:080][  2]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-14.36.13:080][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-14.36.13:081][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-14.36.13:103][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-14.36.13:107][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.05.19-14.36.13:136][  3]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.05.19-14.36.16:986][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2021.05.19-14.36.21:168][468]LogSavePackage: Moving '../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/MotionControllerPawn01F0A870436C429715AF0AB2DBA98C6A.tmp' to '../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.05.19-14.36.21:186][468]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2021.05.19-14.36.21:186][468]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.05.19-14.36.24:264][622]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2021.05.19-14.36.25:277][622]LogSlate: Took 0.011904 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.19-14.36.47:881][506]LogRHI: Error: Present Fail Count 1
+[2021.05.19-14.36.47:881][506]LogRHI: Error: SyncInterval 0
+[2021.05.19-14.36.47:881][506]LogRHI: Error: SwapChainDesc.BufferDesc.Width 923
+[2021.05.19-14.36.47:881][506]LogRHI: Error: SwapChainDesc.BufferDesc.Height 923
+[2021.05.19-14.36.47:881][506]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.05.19-14.36.47:881][506]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.05.19-14.36.47:881][506]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.05.19-14.36.47:881][506]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.05.19-14.36.47:881][506]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.05.19-14.36.47:881][506]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.05.19-14.36.47:882][506]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.05.19-14.36.47:882][506]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.05.19-14.36.47:882][506]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.05.19-14.36.47:882][506]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000091076
+[2021.05.19-14.36.47:882][506]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.05.19-14.36.47:882][506]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.05.19-14.36.47:882][506]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.05.19-14.36.47:882][506]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:356 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2021.05.19-14.36.47:882][506]LogD3D11RHI: [Aftermath] GDynamicRHI=000001EFBF6ECE00, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.05.19-14.36.47:882][506]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.05.19-14.37.00:844][506]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.05.19-14.37.00:844][506]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.05.19-14.37.00:844][506]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.05.19-14.37.00:844][506]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2021.05.19-14.37.00:854][506]Log file closed, 05/19/21 09:37:00
