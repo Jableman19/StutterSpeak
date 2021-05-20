@@ -1,0 +1,1422 @@
+﻿Log file open, 05/19/21 13:31:14
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: TestProject1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.416005
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin BlueprintFileUtils
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogXGEController: Cleaning working directory: C:/Users/jonah/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.19-18.31.15:702][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.19-18.31.15:702][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.19-18.31.15:702][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Engine.ini]
+[2021.05.19-18.31.15:702][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.19-18.31.15:702][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.05.19-18.31.15:702][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2021.05.19-18.31.15:702][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2021.05.19-18.31.15:702][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.05.19-18.31.15:702][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2021.05.19-18.31.15:702][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[r.MobileMSAA:2]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:1]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Engine.ini]
+[2021.05.19-18.31.15:703][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Engine.ini]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Engine.ini]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.19-18.31.15:703][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Engine.ini]
+[2021.05.19-18.31.15:703][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Engine.ini]
+[2021.05.19-18.31.15:719][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.19-18.31.15:719][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.19-18.31.15:720][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.19-18.31.15:720][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.19-18.31.15:720][  0]LogHAL: Display: Platform has ~ 16 GB [16869195776 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.19-18.31.15:720][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.19-18.31.15:720][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.19-18.31.15:720][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.19-18.31.15:721][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:721][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.19-18.31.15:722][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.19-18.31.15:722][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-18.31.15:722][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.19-18.31.15:722][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.19-18.31.15:722][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.19-18.31.15:722][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.19-18.31.15:722][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.19-18.31.15:722][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.19-18.31.15:722][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.19-18.31.15:722][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Engine.ini]
+[2021.05.19-18.31.15:722][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Config/Windows/Editor.ini]
+[2021.05.19-18.31.15:723][  0]LogInit: Computer: DESKTOP-EVTDR37
+[2021.05.19-18.31.15:723][  0]LogInit: User: jonah
+[2021.05.19-18.31.15:723][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.19-18.31.15:723][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.19-18.31.15:723][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2021.05.19-18.31.15:723][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.19-18.31.15:723][  0]LogMemory: Process Physical Memory: 133.11 MB used, 133.11 MB peak
+[2021.05.19-18.31.15:723][  0]LogMemory: Process Virtual Memory: 110.72 MB used, 110.72 MB peak
+[2021.05.19-18.31.15:723][  0]LogMemory: Physical Memory: 9203.01 MB used,  6884.71 MB free, 16087.72 MB total
+[2021.05.19-18.31.15:723][  0]LogMemory: Virtual Memory: 134211912.00 MB used,  5819.77 MB free, 134217728.00 MB total
+[2021.05.19-18.31.15:728][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.19-18.31.15:778][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.19-18.31.15:780][  0]LogInit: Using OS detected language (en-US).
+[2021.05.19-18.31.15:780][  0]LogInit: Using OS detected locale (en-US).
+[2021.05.19-18.31.15:787][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.05.19-18.31.16:069][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.19-18.31.16:085][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.19-18.31.16:121][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.19-18.31.16:121][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.19-18.31.19:489][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.19-18.31.19:489][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.19-18.31.19:489][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.19-18.31.19:489][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.19-18.31.19:597][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 Ti with Max-Q Design' (Feature Level 11_0)
+[2021.05.19-18.31.19:597][  0]LogD3D11RHI:       3962/0/8043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.19-18.31.19:629][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.05.19-18.31.19:629][  0]LogD3D11RHI:       128/0/8043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.05.19-18.31.19:632][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.19-18.31.19:632][  0]LogD3D11RHI:       0/0/8043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.19-18.31.19:632][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.19-18.31.19:639][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.19-18.31.19:639][  0]LogD3D11RHI:     GPU DeviceId: 0x1f95 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.19-18.31.19:639][  0]LogWindows: EnumDisplayDevices:
+[2021.05.19-18.31.19:639][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2021.05.19-18.31.19:639][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.05.19-18.31.19:639][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.05.19-18.31.19:640][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 Ti with Max-Q Design' (P:0 D:0)
+[2021.05.19-18.31.19:640][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650 Ti with Max-Q Design' (P:0 D:0)
+[2021.05.19-18.31.19:640][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650 Ti with Max-Q Design' (P:0 D:0)
+[2021.05.19-18.31.19:640][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1650 Ti with Max-Q Design' (P:0 D:0)
+[2021.05.19-18.31.19:641][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.05.19-18.31.19:641][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 Ti with Max-Q Design
+[2021.05.19-18.31.19:641][  0]LogD3D11RHI:   Driver Version: 457.63 (internal:27.21.14.5763, unified:457.63)
+[2021.05.19-18.31.19:641][  0]LogD3D11RHI:      Driver Date: 12-8-2020
+[2021.05.19-18.31.19:641][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2021.05.19-18.31.19:710][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.19-18.31.19:710][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.19-18.31.19:710][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.19-18.31.19:727][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.19-18.31.19:729][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.19-18.31.20:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.19-18.31.20:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.19-18.31.20:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.19-18.31.20:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.19-18.31.20:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.19-18.31.20:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.19-18.31.20:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.19-18.31.20:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.19-18.31.20:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.19-18.31.20:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.19-18.31.20:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.19-18.31.20:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.19-18.31.20:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.19-18.31.20:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.19-18.31.20:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.19-18.31.20:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.19-18.31.20:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.19-18.31.20:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.19-18.31.20:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.19-18.31.20:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.19-18.31.20:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.19-18.31.20:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.19-18.31.20:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.19-18.31.20:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.19-18.31.20:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.19-18.31.20:644][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.19-18.31.20:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.19-18.31.20:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.19-18.31.20:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.19-18.31.20:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.19-18.31.20:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.19-18.31.20:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.19-18.31.20:709][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.19-18.31.20:718][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.19-18.31.20:788][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.19-18.31.20:788][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Intermediate/Shaders/WorkingDirectory/8364/).
+[2021.05.19-18.31.20:789][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jonah/AppData/Local/Temp/UnrealShaderWorkingDir/2BCB430847DEDE6A0CBDA1A1AFDC797B/'.
+[2021.05.19-18.31.20:789][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.19-18.31.20:789][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.19-18.31.24:862][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.19-18.31.24:923][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/jonah/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.19-18.31.24:924][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jonah/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.19-18.31.24:924][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.19-18.31.24:924][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.19-18.31.24:924][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.19-18.31.24:924][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.19-18.31.24:947][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.19-18.31.24:947][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.19-18.31.24:947][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.19-18.31.24:958][  0]LogDerivedDataCache: Speed tests for C:/Users/jonah/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.19-18.31.24:958][  0]LogDerivedDataCache: Display: Performance to C:/Users/jonah/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=192.61MBs, RandomWriteSpeed=161.46MBs. Assigned SpeedClass 'Local'
+[2021.05.19-18.31.24:959][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jonah/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.19-18.31.24:959][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.19-18.31.24:959][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.19-18.31.25:019][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.19-18.31.25:019][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.19-18.31.25:048][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2021.05.19-18.31.25:346][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.19-18.31.25:346][  0]LogInit: Active device profile: [00000155D16A3700][00000155D037E200 49] Windows
+[2021.05.19-18.31.25:346][  0]LogInit: Profiles: [00000155D16A3700][00000155D037E200 49] Windows, [00000155D165CB00][00000155D0386380 49] WindowsNoEditor, [00000155D16A0C00][00000155D038A500 49] WindowsServer, [00000155D165F100][00000155D038E680 49] WindowsClient, [00000155D16A3200][00000155D0392800 49] IOS, [00000155D165D100][00000155D0396980 49] iPadAir, [00000155D16A1200][00000155D039AB00 49] iPadAir2, [00000155D161CD00][00000155D03A2DC0 49] IPadPro, [00000155D161CE00][00000155D039EE00 49] iPadAir3, [00000155D16A2C00][00000155D03A6F80 49] iPadAir4, [00000155D161FB00][00000155D03AB100 49] iPadMini2, [00000155D16A1500][00000155D03AF280 49] iPadMini3, [00000155D161E000][00000155D03B3400 49] iPadMini4, [00000155D16A2700][00000155D03B7580 49] iPadMini5, [00000155D165F200][00000155D03BB7C0 49] iPhone6, [00000155D165F300][00000155D0383800 49] iPodTouch6, [00000155D161FE00][00000155D0D8BA40 49] iPhone7, [00000155D161DB00][00000155D0D87A80 49] iPodTouch7, [00000155D165F700][00000155D0D93C00 49] iPhone5S, [00000155D161CA00][00000155D0D960C0 49] iPhone6Plus, [00000155D165F900][00000155D0D9A240 49] iPhone6S, [00000155D161F200][00000155D0D9E3C0 49] iPhone6SPlus, [00000155D165C100][00000155D0DA2540 49] iPhone7Plus, [00000155D161DA00][00000155D0DA66C0 49] iPhoneSE, [00000155D165CF00][00000155D0DAA840 49] iPhone8, [00000155D161FF00][00000155D0DAE9C0 49] iPhone8Plus, [00000155D165FE00][00000155D0DB2B40 49] iPhoneX, [00000155D161E800][00000155D0DB6CC0 49] iPhoneXS, [00000155D165FB00][00000155D0DBAE40 49] iPhoneXSMax, [00000155D161DF00][00000155D0DBEFC0 49] iPhoneXR, [00000155D165E400][00000155D0DC3140 49] iPhone11, [00000155D161C800][00000155D0DC72C0 49] iPhone11Pro, [00000155D165E800][00000155D0DCB440 49] iPhone11ProMax, [00000155D161F500][00000155D0DCF5C0 49] iPhoneSE2, [00000155D165C700][00000155D0D8F700 49] iPhone12Mini, [00000155D161E700][00000155D0DD3840 49] iPhone12, [00000155D165D000][00000155D0DD7980 49] iPhone12Pro, [00000155D161D900][00000155D0DDBAC0 49] iPhone12ProMax, [00000155D165FA00][00000155D0DE3C40 49] iPadPro105, [00000155D161F700][00000155D0DE6100 49] iPadPro129, [00000155D165C300][00000155D0DEA280 49] iPadPro97, [00000155D161D700][00000155D0DEE400 49] iPadPro2_129, [00000155D165CA00][00000155D0DF2580 49] iPad5, [00000155D161EF00][00000155D0DF6700 49] iPad6, [00000155D165E700][00000155D0DFA880 49] iPad7, [00000155D161D000][00000155D0DFEA00 49] iPad8, [00000155D165E200][00000155D0E02B80 49] iPadPro11, [00000155D161EB00][00000155D0E06D00 49] iPadPro2_11, [00000155D165FC00][00000155D0E0AE80 49] iPadPro3_129, [00000155D161F100][00000155D0E0F000 49] iPadPro4_129, [00000155D165D400][00000155D0E13180 49] AppleTV, [00000155D161EC00][00000155D0E17300 49] AppleTV4K, [00000155D165D500][00000155D0E1B480 49] TVOS, [00000155D161DC00][00000155D0E1F600 49] Mac, [00000155D165D800][00000155D0E23780 49] MacClient, [00000155D161F800][00000155D0DDF8C0 49] MacNoEditor, [00000155D165D900][00000155D0E27A00 49] MacServer, [00000155D161D100][00000155D0E2BB40 49] Linux, [00000155D16E1300][00000155D0E33CC0 49] LinuxAArch64, [00000155D16A2500][00000155D0E36180 49] LinuxNoEditor, [00000155D16E1900][00000155D0E3A300 49] LinuxAArch64NoEditor, [00000155D16A2E00][00000155D0E3E480 49] LinuxClient, [00000155D16E0200][00000155D0E42600 49] LinuxAArch64Client, [00000155D16A0700][00000155D0E46780 49] LinuxServer, [00000155D16E0500][00000155D0E4A900 49] LinuxAArch64Server, [00000155D16A2800][00000155D0E4EA80 49] Android, [00000155D16E0600][00000155D0E52C00 49] Android_Low, [00000155D16A2400][00000155D0E56D80 49] Android_Mid, [00000155D16E1700][00000155D0E5AF00 49] Android_High, [00000155D16A0800][00000155D0E5F080 49] Android_Default, [00000155D16E0C00][00000155D0E63200 49] Android_Adreno4xx, [00000155D16A0E00][00000155D0E67380 49] Android_Adreno5xx_Low, [00000155D16E0B00][00000155D0E6B500 49] Android_Adreno5xx, [00000155D16A2A00][00000155D0E6F680 49] Android_Adreno6xx, [00000155D161E300][00000155D0E73800 49] Android_Adreno6xx_Vulkan, [00000155D165DB00][00000155D0E2F940 49] Android_Mali_T6xx, [00000155D161F600][00000155D0E77A80 49] Android_Mali_T7xx, [00000155D165C200][00000155D0E7BBC0 49] Android_Mali_T8xx, [00000155D161F400][00000155D0E7FD00 49] Android_Mali_G71, [00000155D165CD00][00000155D0E861C0 49] Android_Mali_G72, [00000155D161D400][00000155D0E8A340 49] Android_Mali_G72_Vulkan, [00000155D165E100][00000155D0E8E4C0 49] Android_Mali_G76, [00000155D161F300][00000155D0E92640 49] Android_Mali_G76_Vulkan, [00000155D165F000][00000155D0E967C0 49] Android_Mali_G77, [00000155D161D800][00000155D0E9A940 49] Android_Mali_G77_Vulkan, [00000155D165C400][00000155D0E9EAC0 49] Android_Vulkan_SM5, [00000155D161C200][00000155D0EA2C40 49] Android_PowerVR_G6xxx, [00000155D165E300][00000155D0EA6DC0 49] Android_PowerVR_GT7xxx, [00000155D161E600][00000155D0EAAF40 49] Android_PowerVR_GE8xxx, [00000155D165E900][00000155D0EAF0C0 49] Android_PowerVR_GM9xxx, [00000155D161D500][00000155D0EB3240 49] Android_PowerVR_GM9xxx_Vulkan, [00000155D165EC00][00000155D0EB73C0 49] Android_TegraK1, [00000155D161C900][00000155D0EBB540 49] Android_Unknown_Vulkan, [00000155D165DC00][00000155D0EBF6C0 49] Lumin, [00000155D161CB00][00000155D0EC3840 49] Lumin_Desktop, [00000155D165D700][00000155D0E83980 49] HoloLens, 
+[2021.05.19-18.31.25:600][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.19-18.31.25:600][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.19-18.31.25:600][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.19-18.31.25:600][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.19-18.31.25:601][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.19-18.31.25:661][  0]LogNetVersion: TestProject1 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3349062705)
+[2021.05.19-18.31.27:243][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.19-18.31.27:306][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.062441 seconds
+[2021.05.19-18.31.27:312][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.19-18.31.27:312][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.19-18.31.27:312][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.19-18.31.28:015][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.19-18.31.28:019][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.19-18.31.28:212][  0]SourceControl: Source control is disabled
+[2021.05.19-18.31.28:212][  0]SourceControl: Source control is disabled
+[2021.05.19-18.31.28:215][  0]SourceControl: Source control is disabled
+[2021.05.19-18.31.28:218][  0]SourceControl: Source control is disabled
+[2021.05.19-18.31.28:227][  0]SourceControl: Source control is disabled
+[2021.05.19-18.31.28:232][  0]LogUProjectInfo: Found projects:
+[2021.05.19-18.31.28:436][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.19-18.31.28:455][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.19-18.31.28:455][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.19-18.31.28:705][  0]LogOcInput: OculusInput pre-init called
+[2021.05.19-18.31.28:721][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.19-18.31.28:721][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.19-18.31.28:735][  0]LogCollectionManager: Loaded 0 collections in 0.002647 seconds
+[2021.05.19-18.31.28:855][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/Collections/' took 0.00s
+[2021.05.19-18.31.28:855][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Content/Developers/jonah/Collections/' took 0.00s
+[2021.05.19-18.31.28:855][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Content/Collections/' took 0.00s
+[2021.05.19-18.31.28:855][  0]LogEngine: Initializing Engine...
+[2021.05.19-18.31.28:857][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.19-18.31.28:857][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.19-18.31.28:858][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.19-18.31.29:302][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.19-18.31.29:310][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.19-18.31.29:311][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.19-18.31.29:315][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.19-18.31.29:315][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.19-18.31.29:315][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-18.31.29:315][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-18.31.29:315][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-18.31.29:315][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-18.31.29:315][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-18.31.29:315][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-18.31.29:315][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-18.31.29:315][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-18.31.29:315][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-18.31.29:315][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-18.31.29:363][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-18.31.29:363][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-18.31.29:848][  0]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2021.05.19-18.31.29:849][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-18.31.29:876][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-18.31.29:876][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-18.31.29:877][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-18.31.29:877][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-18.31.29:877][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-18.31.29:878][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-18.31.29:878][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-18.31.29:878][  0]LogInit: FAudioDevice initialized.
+[2021.05.19-18.31.29:878][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.19-18.31.29:879][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.19-18.31.29:935][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/jonah/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.19-18.31.29:935][  0]LogInit: Texture streaming: Enabled
+[2021.05.19-18.31.29:947][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.19-18.31.29:952][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.19-18.31.29:952][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={CF21833C-421A-0F51-E612-4E83256DD358}
+[2021.05.19-18.31.29:952][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.19-18.31.29:954][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.19-18.31.29:981][  0]LogInit: Transaction tracking system initialized
+[2021.05.19-18.31.30:002][  0]BlueprintLog: New page: Editor Load
+[2021.05.19-18.31.30:070][  0]LocalizationService: Localization service is disabled
+[2021.05.19-18.31.30:093][  0]TimingProfiler: Initialize
+[2021.05.19-18.31.30:093][  0]TimingProfiler: OnSessionChanged
+[2021.05.19-18.31.30:093][  0]LoadingProfiler: Initialize
+[2021.05.19-18.31.30:093][  0]LoadingProfiler: OnSessionChanged
+[2021.05.19-18.31.30:093][  0]NetworkingProfiler: Initialize
+[2021.05.19-18.31.30:094][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.19-18.31.30:094][  0]MemoryProfiler: Initialize
+[2021.05.19-18.31.30:094][  0]MemoryProfiler: OnSessionChanged
+[2021.05.19-18.31.30:736][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.19-18.31.30:736][  0]LogCook: Display: Mobile HDR setting 0
+[2021.05.19-18.31.30:946][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Content/' took 0.00s
+[2021.05.19-18.31.31:148][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.19-18.31.31:152][  0]SourceControl: Source control is disabled
+[2021.05.19-18.31.31:152][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.055
+[2021.05.19-18.31.31:152][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.19-18.31.31:153][  0]LightingResults: New page: Lighting Build
+[2021.05.19-18.31.31:153][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-18.31.31:154][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-18.31.31:154][  0]MapCheck: New page: Map Check
+[2021.05.19-18.31.31:154][  0]LightingResults: New page: Lighting Build
+[2021.05.19-18.31.31:162][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.05.19-18.31.31:535][  0]LogBlueprint: Warning: [AssetLog] C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Content\VirtualRealityBP\Blueprints\BP_MotionController.uasset: [Compiler] OnComponentHit (ControllerMesh)  does not have a valid matching component!
+[2021.05.19-18.31.31:863][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MotionControllerMap'.
+[2021.05.19-18.31.31:865][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.05.19-18.31.31:890][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.19-18.31.31:905][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.05.19-18.31.31:905][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.19-18.31.31:906][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.281ms to complete.
+[2021.05.19-18.31.31:906][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 0.754
+[2021.05.19-18.31.31:911][  0]LogUnrealEdMisc: Total Editor Startup Time, took 19.814
+[2021.05.19-18.31.32:147][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-18.31.32:161][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-18.31.32:178][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-18.31.32:191][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-18.31.32:234][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0211 seconds. Added 3604 classes and 864 folders.
+[2021.05.19-18.31.32:239][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.05.19-18.31.32:259][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.19-18.31.32:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.19-18.31.32:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.05.19-18.31.32:275][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.19-18.31.32:275][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:275][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.19-18.31.32:275][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.19-18.31.32:287][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.19-18.31.32:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.19-18.31.32:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.05.19-18.31.32:297][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.19-18.31.32:297][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:297][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.19-18.31.32:297][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.05.19-18.31.32:308][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.19-18.31.32:309][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:309][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.19-18.31.32:309][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.05.19-18.31.32:321][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.19-18.31.32:321][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:321][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.19-18.31.32:321][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.05.19-18.31.32:331][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.19-18.31.32:331][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:331][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.19-18.31.32:331][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.05.19-18.31.32:342][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.19-18.31.32:342][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:342][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.19-18.31.32:342][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.05.19-18.31.32:356][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.19-18.31.32:356][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:356][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.19-18.31.32:356][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.05.19-18.31.32:366][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.19-18.31.32:366][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:366][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.19-18.31.32:366][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.05.19-18.31.32:376][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.19-18.31.32:376][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:376][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.19-18.31.32:376][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.05.19-18.31.32:386][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.19-18.31.32:386][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:386][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.19-18.31.32:386][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2021.05.19-18.31.32:396][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.19-18.31.32:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.19-18.31.32:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.05.19-18.31.32:406][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.19-18.31.32:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.19-18.31.32:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2021.05.19-18.31.32:416][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.19-18.31.32:416][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:416][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.19-18.31.32:416][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2021.05.19-18.31.32:427][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.19-18.31.32:427][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:427][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.19-18.31.32:427][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2021.05.19-18.31.32:437][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.19-18.31.32:437][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:437][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.19-18.31.32:437][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2021.05.19-18.31.32:447][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.19-18.31.32:447][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.19-18.31.32:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2021.05.19-18.31.32:456][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.19-18.31.32:456][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:456][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.19-18.31.32:456][  0]LogPakFile: OnPakFileMounted2Time == 0.000117
+[2021.05.19-18.31.32:471][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.19-18.31.32:471][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:471][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.19-18.31.32:471][  0]LogPakFile: OnPakFileMounted2Time == 0.000123
+[2021.05.19-18.31.32:483][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.19-18.31.32:483][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:483][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.19-18.31.32:483][  0]LogPakFile: OnPakFileMounted2Time == 0.000128
+[2021.05.19-18.31.32:492][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.19-18.31.32:492][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:492][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.19-18.31.32:492][  0]LogPakFile: OnPakFileMounted2Time == 0.000133
+[2021.05.19-18.31.32:502][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.19-18.31.32:502][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:502][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.19-18.31.32:502][  0]LogPakFile: OnPakFileMounted2Time == 0.000138
+[2021.05.19-18.31.32:510][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.19-18.31.32:511][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:511][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.19-18.31.32:511][  0]LogPakFile: OnPakFileMounted2Time == 0.000143
+[2021.05.19-18.31.32:519][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.19-18.31.32:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.19-18.31.32:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000148
+[2021.05.19-18.31.32:529][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.19-18.31.32:529][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-18.31.32:529][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.19-18.31.32:529][  0]LogPakFile: OnPakFileMounted2Time == 0.000153
+[2021.05.19-18.31.32:740][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.05.19-18.31.32:741][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.05.19-18.31.32:899][  0]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.19-18.31.32:902][  0]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.19-18.31.32:921][  0]LogSlate: Took 0.010908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.19-18.31.33:219][  0]LogRenderer: Reallocating scene render targets to support 1072x496 Format 26 NumSamples 1 (Frame:1).
+[2021.05.19-18.31.33:565][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.05.19-18.31.33:566][  0]LogLoad: (Engine Initialization) Total time: 21.47 seconds
+[2021.05.19-18.31.33:566][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.19-18.31.33:566][  0]LogInit: First time updating LLM stats...
+[2021.05.19-18.31.33:626][  0]LogAssetRegistry: Asset discovery search completed in 8.5786 seconds
+[2021.05.19-18.31.33:628][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.05.19-18.31.33:691][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.19-18.31.33:827][  4]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2021.05.19-18.31.33:827][  4]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2021.05.19-18.31.34:621][ 49]LogSlate: Took 0.012852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.19-18.33.11:048][744]LogSlate: Window 'Plugins' being destroyed
+[2021.05.19-18.33.11:057][744]LogSlate: Window 'Plugins' being destroyed
+[2021.05.19-18.33.11:057][744]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.05.19-18.33.17:491][118]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2021.05.19-18.33.18:560][118]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.05.19-18.33.19:691][118]LogBlueprint: Error: [AssetLog] C:\Users\jonah\OneDrive\Desktop\Projects\StutterSpeak\TestProject1\Content\Widgets\VRMenuWidget.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.05.19-18.33.19:715][118]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/VRMenuWidget.VRMenuWidget
+[2021.05.19-18.33.20:484][118]LogSlate: Took 0.006625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.19-18.33.20:512][118]LogSlate: Took 0.011014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.19-18.33.34:363][615]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.19-18.33.56:538][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/VRMenuWidget" FILE="../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Content/Widgets/VRMenuWidget.uasset" SILENT=true
+[2021.05.19-18.33.56:554][446]LogSavePackage: Moving '../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/VRMenuWidget1FF26923411A4564561ACFA6ED09FAA9.tmp' to '../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Content/Widgets/VRMenuWidget.uasset'
+[2021.05.19-18.33.56:574][446]AssetCheck: New page: Asset Save: VRMenuWidget
+[2021.05.19-18.33.56:574][446]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/VRMenuWidget.VRMenuWidget
+[2021.05.19-18.39.54:667][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/VRMenuWidget" FILE="../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Content/Widgets/VRMenuWidget.uasset" SILENT=true
+[2021.05.19-18.39.54:689][ 75]LogSavePackage: Moving '../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/VRMenuWidget6C30A8C64BF80D45DC8906A4494AEA85.tmp' to '../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Content/Widgets/VRMenuWidget.uasset'
+[2021.05.19-18.39.54:711][ 75]AssetCheck: New page: Asset Save: VRMenuWidget
+[2021.05.19-18.39.54:711][ 75]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/VRMenuWidget.VRMenuWidget
+[2021.05.19-18.39.55:564][112]BlueprintLog: New page: Compile VRMenuWidget
+[2021.05.19-18.39.55:695][112]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2021.05.19-18.40.16:105][859]LogSlate: Window 'VRMenuWidget' being destroyed
+[2021.05.19-18.40.24:032][297]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2021.05.19-18.40.24:109][297]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Test.Test
+[2021.05.19-18.40.24:110][297]Cmd: MAP LOAD FILE="../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.19-18.40.24:110][297]LightingResults: New page: Lighting Build
+[2021.05.19-18.40.24:110][297]LoadErrors: New page: Loading map: Test.umap
+[2021.05.19-18.40.24:112][297]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-18.40.24:112][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-18.40.24:112][297]MapCheck: New page: Map Check
+[2021.05.19-18.40.24:112][297]LightingResults: New page: Lighting Build
+[2021.05.19-18.40.24:154][297]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-18.40.24:162][297]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.05.19-18.40.24:164][297]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test'.
+[2021.05.19-18.40.24:175][297]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.19-18.40.24:175][297]LogAIModule: Creating AISystem for world Test
+[2021.05.19-18.40.24:220][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.05.19-18.40.24:226][297]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.19-18.40.24:226][297]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
+[2021.05.19-18.40.24:226][297]LogFileHelpers: Loading map 'Test' took 0.117
+[2021.05.19-18.40.27:762][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.05.19-18.40.27:817][498]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MenuWorld.MenuWorld
+[2021.05.19-18.40.27:817][498]Cmd: MAP LOAD FILE="../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Content/Maps/MenuWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.19-18.40.27:817][498]LightingResults: New page: Lighting Build
+[2021.05.19-18.40.27:817][498]LoadErrors: New page: Loading map: MenuWorld.umap
+[2021.05.19-18.40.27:818][498]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-18.40.27:818][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-18.40.27:818][498]MapCheck: New page: Map Check
+[2021.05.19-18.40.27:818][498]LightingResults: New page: Lighting Build
+[2021.05.19-18.40.27:873][498]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-18.40.27:880][498]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2021.05.19-18.40.27:880][498]LogAudio: Display: Audio Device (ID: 1) registered with world 'MenuWorld'.
+[2021.05.19-18.40.27:888][498]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.19-18.40.27:888][498]LogAIModule: Creating AISystem for world MenuWorld
+[2021.05.19-18.40.27:950][498]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2021.05.19-18.40.27:958][498]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.19-18.40.27:958][498]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.249ms to complete.
+[2021.05.19-18.40.27:958][498]LogFileHelpers: Loading map 'MenuWorld' took 0.141
+[2021.05.19-18.40.30:332][628]LogEditorViewport: Clicking on Actor (LMB): BPWorld_C (BPWorld)
+[2021.05.19-18.40.45:864][516]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.05.19-18.40.45:874][516]LogSavePackage: Moving '../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Saved/MenuWorldF47605844AFC88C916F34B8F547E201F.tmp' to '../../../../../../Users/jonah/OneDrive/Desktop/Projects/StutterSpeak/TestProject1/Content/Maps/MenuWorld.umap'
+[2021.05.19-18.40.45:902][516]AssetCheck: New page: Asset Save: MenuWorld
+[2021.05.19-18.40.45:902][516]LogContentValidation: Display: Validating World /Game/Maps/MenuWorld.MenuWorld
+[2021.05.19-18.40.46:667][553]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-18.40.46:683][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-18.40.46:683][553]PIE: New page: PIE session: MenuWorld (May 19, 2021, 8:40:46 AM)
+[2021.05.19-18.40.46:685][553]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.19-18.40.46:687][553]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.19-18.40.46:687][553]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuWorld
+[2021.05.19-18.40.46:688][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001649s)
+[2021.05.19-18.40.46:690][553]LogAIModule: Creating AISystem for world MenuWorld
+[2021.05.19-18.40.46:690][553]LogPlayLevel: PIE: World Init took: (0.001460s)
+[2021.05.19-18.40.46:690][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuWorld.MenuWorld to /Game/Maps/UEDPIE_0_MenuWorld.MenuWorld (0.003288s)
+[2021.05.19-18.40.46:730][553]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.05.19-18.40.46:731][553]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.19-18.40.46:731][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-18.40.46:731][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-18.40.46:731][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-18.40.46:731][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-18.40.46:731][553]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-18.40.46:731][553]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-18.40.46:732][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-18.40.46:732][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-18.40.46:732][553]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-18.40.46:732][553]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-18.40.46:741][553]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-18.40.46:741][553]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-18.40.46:765][553]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2021.05.19-18.40.46:765][553]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-18.40.46:765][553]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-18.40.46:766][553]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-18.40.46:766][553]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-18.40.46:766][553]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-18.40.46:766][553]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-18.40.46:789][553]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-18.40.46:789][553]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-18.40.46:789][553]LogInit: FAudioDevice initialized.
+[2021.05.19-18.40.46:789][553]LogAudio: Display: Audio Device (ID: 2) registered with world 'MenuWorld'.
+[2021.05.19-18.40.46:802][553]LogLoad: Game class is 'GameModeBase'
+[2021.05.19-18.40.46:803][553]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuWorld.MenuWorld up for play (max tick rate 60) at 2021.05.19-13.40.46
+[2021.05.19-18.40.46:803][553]LogWorld: Bringing up level for play took: 0.001123
+[2021.05.19-18.40.46:804][553]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.05.19-18.40.46:818][553]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2021.05.19-18.40.46:824][553]PIE: Server logged in
+[2021.05.19-18.40.46:834][553]PIE: Play in editor total start time 0.154 seconds.
+[2021.05.19-18.40.47:263][554]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:297][555]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:334][556]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:350][557]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:368][558]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:383][559]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:403][560]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:418][561]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:436][562]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:453][563]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:470][564]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:486][565]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:504][566]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:520][567]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:536][568]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:551][569]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:570][570]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:584][571]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:603][572]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:618][573]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:634][574]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:651][575]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:668][576]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:684][577]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:701][578]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:718][579]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:735][580]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:751][581]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:768][582]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:785][583]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:801][584]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:817][585]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:834][586]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:851][587]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:869][588]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:885][589]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:902][590]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:919][591]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:937][592]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:952][593]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:969][594]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.47:985][595]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:001][596]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:018][597]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:035][598]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:052][599]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:069][600]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:085][601]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:101][602]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:118][603]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:134][604]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:151][605]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:168][606]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:185][607]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:202][608]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:218][609]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:235][610]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:251][611]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:268][612]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:284][613]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:301][614]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:318][615]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:334][616]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:351][617]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:368][618]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:384][619]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:401][620]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:418][621]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:434][622]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:451][623]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:468][624]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:485][625]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:502][626]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:518][627]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:536][628]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:551][629]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:568][630]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:585][631]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:602][632]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:618][633]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:634][634]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:652][635]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:668][636]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:685][637]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:701][638]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:718][639]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:734][640]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:751][641]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:768][642]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:784][643]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:800][644]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:817][645]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:834][646]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:852][647]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:868][648]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:884][649]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:900][650]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:917][651]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:935][652]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:952][653]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:967][654]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.48:985][655]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:001][656]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:017][657]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:034][658]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:050][659]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:067][660]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:084][661]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:101][662]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:117][663]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:134][664]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:150][665]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:167][666]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:184][667]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:201][668]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:217][669]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:234][670]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:251][671]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:267][672]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:284][673]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:301][674]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:317][675]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:334][676]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:351][677]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:367][678]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:384][679]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:401][680]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:417][681]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:434][682]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:453][683]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:468][684]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:485][685]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:500][686]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:518][687]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:534][688]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:551][689]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:568][690]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:584][691]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:601][692]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:617][693]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:634][694]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:652][695]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:667][696]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:686][697]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:702][698]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:717][699]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:734][700]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:752][701]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:767][702]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:785][703]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:800][704]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:818][705]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:835][706]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:851][707]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:867][708]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:883][709]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:901][710]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:917][711]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:934][712]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:950][713]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:967][714]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.49:984][715]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:001][716]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:017][717]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:035][718]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:051][719]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:068][720]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:084][721]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:101][722]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:117][723]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:135][724]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:150][725]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:168][726]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:184][727]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:201][728]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:217][729]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:234][730]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:250][731]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:268][732]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:284][733]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:301][734]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:317][735]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:336][736]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:351][737]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:367][738]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:384][739]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:401][740]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:418][741]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:434][742]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:450][743]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:467][744]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:484][745]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:500][746]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:517][747]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:533][748]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:551][749]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:567][750]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:584][751]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:601][752]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:618][753]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:634][754]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:650][755]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:667][756]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:684][757]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:701][758]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:717][759]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:734][760]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:751][761]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:768][762]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:785][763]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:805][764]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:818][765]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:836][766]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:851][767]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:868][768]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:884][769]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:901][770]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:917][771]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:934][772]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:951][773]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:968][774]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.50:985][775]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:001][776]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:019][777]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:035][778]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:051][779]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:068][780]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:084][781]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:101][782]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:117][783]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:134][784]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:151][785]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:167][786]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:184][787]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:201][788]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:218][789]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:234][790]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:251][791]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:268][792]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:284][793]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:301][794]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:318][795]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:335][796]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:352][797]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:367][798]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:386][799]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:401][800]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:417][801]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:434][802]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:451][803]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:468][804]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:484][805]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:501][806]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:518][807]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:534][808]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:551][809]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:568][810]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:584][811]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:601][812]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:617][813]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:634][814]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:651][815]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:668][816]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:684][817]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:701][818]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:717][819]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:734][820]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:750][821]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:767][822]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:784][823]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:801][824]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:817][825]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:834][826]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:851][827]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:868][828]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:884][829]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:901][830]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:917][831]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:934][832]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:951][833]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:968][834]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.51:984][835]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:000][836]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:017][837]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:034][838]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:050][839]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:067][840]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:085][841]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:101][842]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:118][843]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:134][844]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:150][845]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:167][846]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:184][847]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:201][848]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:218][849]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:234][850]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:251][851]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:267][852]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:284][853]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:301][854]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:317][855]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:334][856]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:352][857]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:368][858]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:384][859]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:401][860]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:417][861]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:434][862]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:451][863]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:468][864]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:485][865]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:500][866]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:518][867]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:534][868]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:551][869]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:567][870]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:584][871]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:601][872]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:617][873]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:634][874]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:651][875]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:672][876]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:687][877]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:712][878]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:727][879]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:745][880]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:762][881]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:778][882]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:796][883]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:812][884]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:829][885]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:847][886]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:864][887]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:894][888]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:909][889]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:927][890]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:944][891]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:961][892]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:977][893]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.52:994][894]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:010][895]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:028][896]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:044][897]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:061][898]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:077][899]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:093][900]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:110][901]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:127][902]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:144][903]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:160][904]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:176][905]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:196][906]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:211][907]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:227][908]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:244][909]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:261][910]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:277][911]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:295][912]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:311][913]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:327][914]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:344][915]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:361][916]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:378][917]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:395][918]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:411][919]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:428][920]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:444][921]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:461][922]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:478][923]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:494][924]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:509][925]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:527][926]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:661][934]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FileNames' of length 3 in '/Game/Widgets/VRMenuWidget.VRMenuWidget_C'!
+[2021.05.19-18.40.53:706][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-18.40.53:706][934]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuWorld
+[2021.05.19-18.40.53:706][934]LogWorld: UWorld::CleanupWorld for MenuWorld, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-18.40.53:707][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-18.40.53:718][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-18.40.53:732][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-18.40.53:766][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-18.40.53:766][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-18.40.53:767][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-18.40.53:840][934]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.05.19-18.40.53:867][935]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.05.19-18.40.57:538][136]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-18.40.57:546][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-18.40.57:546][136]PIE: New page: PIE session: MenuWorld (May 19, 2021, 8:40:57 AM)
+[2021.05.19-18.40.57:546][136]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuWorld
+[2021.05.19-18.40.57:548][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001858s)
+[2021.05.19-18.40.57:549][136]LogAIModule: Creating AISystem for world MenuWorld
+[2021.05.19-18.40.57:550][136]LogPlayLevel: PIE: World Init took: (0.001565s)
+[2021.05.19-18.40.57:550][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuWorld.MenuWorld to /Game/Maps/UEDPIE_0_MenuWorld.MenuWorld (0.003581s)
+[2021.05.19-18.40.57:621][136]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.05.19-18.40.57:622][136]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.19-18.40.57:622][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-18.40.57:622][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-18.40.57:622][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-18.40.57:622][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-18.40.57:622][136]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-18.40.57:622][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-18.40.57:622][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-18.40.57:622][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-18.40.57:622][136]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-18.40.57:622][136]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-18.40.57:630][136]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-18.40.57:630][136]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-18.40.57:649][136]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2021.05.19-18.40.57:649][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-18.40.57:649][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-18.40.57:649][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-18.40.57:650][136]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-18.40.57:650][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-18.40.57:650][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-18.40.57:670][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-18.40.57:670][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-18.40.57:670][136]LogInit: FAudioDevice initialized.
+[2021.05.19-18.40.57:670][136]LogAudio: Display: Audio Device (ID: 3) registered with world 'MenuWorld'.
+[2021.05.19-18.40.57:702][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-18.40.57:702][136]LogLoad: Game class is 'GameModeBase'
+[2021.05.19-18.40.57:704][136]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuWorld.MenuWorld up for play (max tick rate 60) at 2021.05.19-13.40.57
+[2021.05.19-18.40.57:705][136]LogWorld: Bringing up level for play took: 0.001174
+[2021.05.19-18.40.57:705][136]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.05.19-18.40.57:707][136]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.19-18.40.57:712][136]PIE: Server logged in
+[2021.05.19-18.40.57:715][136]PIE: Play in editor total start time 0.169 seconds.
+[2021.05.19-18.41.02:985][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-18.41.02:985][410]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuWorld
+[2021.05.19-18.41.02:985][410]LogSlate: Window 'TestProject1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.19-18.41.02:990][410]LogWorld: UWorld::CleanupWorld for MenuWorld, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-18.41.02:990][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-18.41.03:004][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-18.41.03:021][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-18.41.03:063][410]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-18.41.03:063][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-18.41.03:065][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-18.41.03:098][410]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.05.19-18.41.03:121][411]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.05.19-18.41.09:553][763]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-18.41.09:561][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-18.41.09:561][763]PIE: New page: PIE session: MenuWorld (May 19, 2021, 8:41:09 AM)
+[2021.05.19-18.41.09:561][763]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuWorld
+[2021.05.19-18.41.09:564][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002489s)
+[2021.05.19-18.41.09:566][763]LogAIModule: Creating AISystem for world MenuWorld
+[2021.05.19-18.41.09:566][763]LogPlayLevel: PIE: World Init took: (0.002190s)
+[2021.05.19-18.41.09:566][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuWorld.MenuWorld to /Game/Maps/UEDPIE_0_MenuWorld.MenuWorld (0.004878s)
+[2021.05.19-18.41.09:605][763]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.05.19-18.41.09:606][763]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.19-18.41.09:606][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-18.41.09:606][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-18.41.09:606][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-18.41.09:606][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-18.41.09:606][763]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-18.41.09:606][763]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-18.41.09:606][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-18.41.09:606][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-18.41.09:607][763]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-18.41.09:607][763]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-18.41.09:616][763]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-18.41.09:616][763]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-18.41.09:635][763]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2021.05.19-18.41.09:635][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-18.41.09:635][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-18.41.09:635][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-18.41.09:636][763]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-18.41.09:636][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-18.41.09:636][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-18.41.09:656][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-18.41.09:656][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-18.41.09:656][763]LogInit: FAudioDevice initialized.
+[2021.05.19-18.41.09:656][763]LogAudio: Display: Audio Device (ID: 4) registered with world 'MenuWorld'.
+[2021.05.19-18.41.09:719][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-18.41.09:719][763]LogLoad: Game class is 'GameModeBase'
+[2021.05.19-18.41.09:721][763]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuWorld.MenuWorld up for play (max tick rate 60) at 2021.05.19-13.41.09
+[2021.05.19-18.41.09:721][763]LogWorld: Bringing up level for play took: 0.000913
+[2021.05.19-18.41.09:721][763]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.05.19-18.41.09:723][763]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.19-18.41.09:728][763]PIE: Server logged in
+[2021.05.19-18.41.09:730][763]PIE: Play in editor total start time 0.17 seconds.
+[2021.05.19-18.41.17:294][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-18.41.17:294][189]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuWorld
+[2021.05.19-18.41.17:294][189]LogSlate: Window 'TestProject1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.19-18.41.17:298][189]LogWorld: UWorld::CleanupWorld for MenuWorld, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-18.41.17:299][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-18.41.17:306][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-18.41.17:325][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-18.41.17:361][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-18.41.17:363][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-18.41.17:393][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.05.19-18.41.17:413][190]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.05.19-18.41.44:904][789]LogRHI: Error: Present Fail Count 1
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SyncInterval 0
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SwapChainDesc.BufferDesc.Width 304
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SwapChainDesc.BufferDesc.Height 59
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SwapChainDesc.OutputWindow 00000000007A0454
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.05.19-18.41.44:905][789]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.05.19-18.41.44:905][789]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:356 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2021.05.19-18.41.44:905][789]LogD3D11RHI: [Aftermath] GDynamicRHI=00000155B306CE80, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.05.19-18.41.44:905][789]LogWindows: Windows GetLastError: The operation completed successfully. (0)
