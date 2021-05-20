@@ -28,6 +28,10 @@
 			"Type": "Executable"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/BlueprintFileUtils/Binaries/Win64/UE4Editor-BlueprintFileUtils.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -2240,6 +2244,10 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/BlueprintFileUtils/Binaries/Win64/UE4Editor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
@@ -2671,6 +2679,10 @@
 	"RuntimeDependencies": [
 		{
 			"Path": "$(ProjectDir)/TestProject1.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/BlueprintFileUtils/BlueprintFileUtils.uplugin",
 			"Type": "UFS"
 		},
 		{
