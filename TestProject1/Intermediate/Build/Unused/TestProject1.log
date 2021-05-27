@@ -1,14 +1,10 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Projects\StutterSpeak).
-  Creating makefile for TestProject1 (no existing makefile)
-  PLATFORM_ANDROID_NDK_VERSION = 220200
-  NDK toolchain: r22b, NDK version: 30, GccVersion: 4.9, ClangVersion: 11.0.5
-  Compiling Native 32-bit code with NDK API 'android-30'
   Building TestProject1...
   Building 3 actions with 12 processes...
     [1/3] ReadWriter.cpp [armv7]
     [2/3] TestProject1-armv7.so
     [3/3] TestProject1.target
-  Total time in Parallel executor: 66.21 seconds
+  Total time in Parallel executor: 62.19 seconds
   Deploying TestProject1 Android Development...
   AndroidPlugin: Plugins\Online\Android\OnlineSubsystemGooglePlay\Source\OnlineSubsystemGooglePlay_UPL.xml
   AndroidPlugin: Plugins\Runtime\AndroidPermission\Source\AndroidPermission\AndroidPermission_APL.xml
@@ -28,7 +24,7 @@
   GotStoreVersion found v1. (bUseChangeListAsStoreVersion=False IsBuildMachine=False EngineChangeList=0)
   Writing packageInfo pkgName:com.StutterStudio.TestProject1 storeVersion:1 versionDisplayName:1.0 to C:\Projects\StutterSpeak\TestProject1\Binaries\Android\packageInfo.txt
   
-  ====5/26/2021 11:38:36 PM====PREPARING TO MAKE APK=================================================================
+  ====5/27/2021 1:04:51 PM====PREPARING TO MAKE APK=================================================================
   bBuildForES31: true
   bSupportsVulkan: false
   Building Java with SDK API level 'android-30'
@@ -65,7 +61,7 @@
   Disabling Show Launch Image for Oculus Mobile enabled application
   Disabling Show Launch Image for Oculus Mobile enabled application
   
-  ====5/26/2021 11:38:37 PM====PREPARING NATIVE CODE=====-armv7============================================================
+  ====5/27/2021 1:04:51 PM====PREPARING NATIVE CODE=====-armv7============================================================
   bPackageDataInsideApk = True
   Obb location C:\Projects\StutterSpeak\TestProject1/Saved/StagedBuilds/Android.obb
   Obb destination location C:\Projects\StutterSpeak\TestProject1\Intermediate\Android\armv7/assets
@@ -102,7 +98,7 @@
   
   File ..//Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/ExtLibs/SystemUtils.jar does not exist, not copied!
   
-  ====5/26/2021 11:38:37 PM====PERFORMING FINAL APK PACKAGE OPERATION=====-armv7===========================================
+  ====5/27/2021 1:04:52 PM====PERFORMING FINAL APK PACKAGE OPERATION=====-armv7===========================================
   Copying C:\Projects\StutterSpeak\TestProject1\Intermediate\Android\armv7\AndroidManifest.xml to C:\Projects\StutterSpeak\TestProject1\Intermediate\Android\armv7\gradle\app\src\main\AndroidManifest.xml
   Copied file C:\Projects\StutterSpeak\TestProject1\Intermediate\Android\armv7\gradle\app\src\main\jniLibs\armeabi-v7a\libUE4.so.
   Deleting unneeded file C:\Projects\StutterSpeak\TestProject1\Intermediate\Android\armv7\gradle\app\src\main\assets\UE4CommandLine.txt.
@@ -201,9 +197,9 @@
   > Task :app:assembleDebug
   > Task :app:ue4CompleteDebug
   
-  BUILD SUCCESSFUL in 31s
+  BUILD SUCCESSFUL in 28s
   58 actionable tasks: 8 executed, 50 up-to-date
   Writing symbols to C:\Projects\StutterSpeak\TestProject1\Binaries/Android\TestProject1_Symbols_v1/TestProject1-armv7\libUE4.so
   
-  ====5/26/2021 11:39:11 PM====COMPLETED MAKE APK=======================================================================
-  Total execution time: 103.65 seconds
+  ====5/27/2021 1:05:24 PM====COMPLETED MAKE APK=======================================================================
+  Total execution time: 96.14 seconds

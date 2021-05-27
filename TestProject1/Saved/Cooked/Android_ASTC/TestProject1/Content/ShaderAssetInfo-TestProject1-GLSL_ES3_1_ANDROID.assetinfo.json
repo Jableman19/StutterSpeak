@@ -54,12 +54,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3160789B35CDDCC35C006EDF45B265482310D652",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "D4B2EF1A26C5B0801EEFB102645F4A8F6E35303C",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
@@ -69,6 +63,12 @@
 			"ShaderMapHash": "32B815426115A67A48EA7114CA4EC9C5C2A03155",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3160789B35CDDCC35C006EDF45B265482310D652",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
 			]
 		},
 		{
@@ -217,15 +217,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "1FCEC8EEF512446FF2186922E8D69287F6459316",
-			"Assets": [
-				"C:/Projects/StutterSpeak/TestProject1/Content/Starter_Content/Geometry/Meshes/CubeMaterial.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "F465B9C4969F0C50C7C5A0D0EAB619DF443BC76C",
 			"Assets": [
 				"C:/Projects/StutterSpeak/TestProject1/Content/Starter_Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1FCEC8EEF512446FF2186922E8D69287F6459316",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Starter_Content/Geometry/Meshes/CubeMaterial.uasset"
 			]
 		},
 		{

@@ -16,12 +16,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define TestProject1_Source_TestProject1_ReadWriter_h_16_SPARSE_DATA
 #define TestProject1_Source_TestProject1_ReadWriter_h_16_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execRecordingDirectory); \
 	DECLARE_FUNCTION(execSaveStringToFile); \
 	DECLARE_FUNCTION(execLoadFileToString);
 
 
 #define TestProject1_Source_TestProject1_ReadWriter_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execRecordingDirectory); \
 	DECLARE_FUNCTION(execSaveStringToFile); \
 	DECLARE_FUNCTION(execLoadFileToString);
 

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from Z:\app\src\main\AndroidManifest.xml:1:1-61:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-61:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-61:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-61:12
+ADDED from Z:\app\src\main\AndroidManifest.xml:1:1-63:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-63:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-63:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-63:12
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\a5bfefc3390fe8242124503106abe28c\play-services-auth-11.8.0\AndroidManifest.xml:17:1-39:12
 MERGED from [com.google.android.gms:play-services-games:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\7757ebbb5eb2df33ec17bdee31a954bf\play-services-games-11.8.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-nearby:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\1b3128fc4c39ad319f19749ab0ed54b3\play-services-nearby-11.8.0\AndroidManifest.xml:2:1-11:12
@@ -41,9 +41,9 @@ MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\4333f26ee6584a628163811b2454d702\play-services-basement-license-11.8.0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\e77cf77a84e886f10662bff175966761\play-services-tasks-license-11.8.0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\2c9618a627c2f1aea559fece40d76b41\play-services-drive-license-11.8.0\AndroidManifest.xml:2:1-6:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-61:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-61:12
-INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-61:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-63:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-63:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-63:12
 	package
 		ADDED from Z:\app\src\main\AndroidManifest.xml:1:70-110
 		INJECTED from Z:\app\src\main\AndroidManifest.xml
@@ -370,26 +370,34 @@ MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\jonah\.gradle\cac
 MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\billing-3.0.0\AndroidManifest.xml:10:5-67
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:55:20-62
+uses-permission#Manifest.permission.WRITE_EXTERNAL_STORAGE
+ADDED from Z:\app\src\main\AndroidManifest.xml:56:3-80
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:56:20-77
 supports-gl-texture#GL_KHR_texture_compression_astc_ldr
-ADDED from Z:\app\src\main\AndroidManifest.xml:57:3-77
+ADDED from Z:\app\src\main\AndroidManifest.xml:58:3-77
 	android:name
-		ADDED from Z:\app\src\main\AndroidManifest.xml:57:24-74
+		ADDED from Z:\app\src\main\AndroidManifest.xml:58:24-74
 uses-feature#android.hardware.vr.headtracking
-ADDED from Z:\app\src\main\AndroidManifest.xml:58:3-111
+ADDED from Z:\app\src\main\AndroidManifest.xml:59:3-111
 	android:version
-		ADDED from Z:\app\src\main\AndroidManifest.xml:58:65-84
+		ADDED from Z:\app\src\main\AndroidManifest.xml:59:65-84
 	android:required
-		ADDED from Z:\app\src\main\AndroidManifest.xml:58:85-108
+		ADDED from Z:\app\src\main\AndroidManifest.xml:59:85-108
 	android:name
-		ADDED from Z:\app\src\main\AndroidManifest.xml:58:17-64
+		ADDED from Z:\app\src\main\AndroidManifest.xml:59:17-64
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from Z:\app\src\main\AndroidManifest.xml:59:3-78
+ADDED from Z:\app\src\main\AndroidManifest.xml:60:3-78
 	android:name
-		ADDED from Z:\app\src\main\AndroidManifest.xml:59:20-75
+		ADDED from Z:\app\src\main\AndroidManifest.xml:60:20-75
 uses-feature#android.hardware.usb.host
-ADDED from Z:\app\src\main\AndroidManifest.xml:60:3-60
+ADDED from Z:\app\src\main\AndroidManifest.xml:61:3-60
 	android:name
-		ADDED from Z:\app\src\main\AndroidManifest.xml:60:17-57
+		ADDED from Z:\app\src\main\AndroidManifest.xml:61:17-57
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from Z:\app\src\main\AndroidManifest.xml:62:3-69
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:62:20-66
 uses-sdk
 INJECTED from Z:\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from Z:\app\src\main\AndroidManifest.xml

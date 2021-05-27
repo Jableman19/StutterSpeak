@@ -20,5 +20,8 @@ class TESTPROJECT1_API UReadWriter : public UBlueprintFunctionLibrary
 
 		UFUNCTION(BlueprintCallable, Category = "File I/O")
 		static FString SaveStringToFile(FString Filename, FString Data);
+
+		UFUNCTION(BlueprintCallable, Category = "File I/O")
+		static FString RecordingDirectory(FString Filename);
 	
 };
