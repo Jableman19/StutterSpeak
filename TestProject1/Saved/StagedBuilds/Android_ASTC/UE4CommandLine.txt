@@ -1,0 +1,1 @@
+../../../TestProject1/TestProject1.uproject  /Game/Stutter_Speak_Content/Maps/MenuWorld -Messaging -SessionId=4C8D1EDB47D8B01A7254A58DD4453641 -SessionOwner="jonah" -SessionName="Launch On Device" -iterative

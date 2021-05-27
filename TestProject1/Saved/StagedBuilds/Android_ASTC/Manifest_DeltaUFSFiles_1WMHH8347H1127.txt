@@ -1,0 +1,14 @@
+Engine/GlobalShaderCache-GLSL_ES3_1_ANDROID.bin
+TestProject1/AssetRegistry.bin
+TestProject1/Content/ShaderArchive-Global-GLSL_ES3_1_ANDROID.ushaderbytecode
+TestProject1/Content/ShaderArchive-TestProject1-GLSL_ES3_1_ANDROID.ushaderbytecode
+TestProject1/Content/Stutter_Speak_Content/Maps/MenuWorld.uexp
+TestProject1/Content/Stutter_Speak_Content/Maps/MenuWorld.umap
+TestProject1/Content/Stutter_Speak_Content/Widgets/BPMenuWorld.uasset
+TestProject1/Content/Stutter_Speak_Content/Widgets/BPMenuWorld.uexp
+TestProject1/Content/Stutter_Speak_Content/Widgets/TextButton.uasset
+TestProject1/Content/Stutter_Speak_Content/Widgets/TextButton.uexp
+TestProject1/Content/Stutter_Speak_Content/Widgets/VRMenuWidget.uasset
+TestProject1/Content/Stutter_Speak_Content/Widgets/VRMenuWidget.uexp
+Manifest_NonUFSFiles_Android.txt
+Manifest_UFSFiles_Android.txt

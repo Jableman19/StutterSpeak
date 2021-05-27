@@ -5,7 +5,7 @@
 
 FString UReadWriter::LoadFileToString(FString Filename) {
 
-	FString directory = FPaths::GameSourceDir();
+	FString directory = FPaths::ConvertRelativePathToFull("/sdcard/UE4Game/TestProject1/TestProject1/Content/Stutter_Speak_Content/Texts");
 	FString result;
 	IPlatformFile& file = FPlatformFileManager::Get().GetPlatformFile();
 
@@ -20,7 +20,7 @@ FString UReadWriter::LoadFileToString(FString Filename) {
 
 FString UReadWriter::SaveStringToFile(FString Filename, FString Data) {
 
-	FString directory = FPaths::GameSourceDir();
+	FString directory = FPaths::ConvertRelativePathToFull("/sdcard/UE4Game/TestProject1/TestProject1/Content/Stutter_Speak_Content/Texts");
 	FString result;
 	IPlatformFile& file = FPlatformFileManager::Get().GetPlatformFile();
 

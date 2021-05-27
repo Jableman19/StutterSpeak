@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TestProject1.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{66626AA6-F250-4129-B9CA-D952C2DB199E}</UniqueIdentifier>
+      <UniqueIdentifier>{4186462B-D257-4605-AEED-76680E685968}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TestProject1.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{906FCC2E-2256-444E-8360-EE265EF849CC}</UniqueIdentifier>
+      <UniqueIdentifier>{75239700-574E-4F0D-8B10-4BE859BB0741}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
       <Filter>Config</Filter>
@@ -33,7 +33,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\SteamVRBindings">
-      <UniqueIdentifier>{524775BC-23C1-4285-BDE4-1478BF493334}</UniqueIdentifier>
+      <UniqueIdentifier>{18BB08E0-DB3E-4113-9762-10318E926DD0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\SteamVRBindings\gamepad.json">
       <Filter>Config\SteamVRBindings</Filter>
@@ -114,14 +114,8 @@
       <Filter>Config\SteamVRBindings</Filter>
     </None>
     <Filter Include="Source\TestProject1">
-      <UniqueIdentifier>{A8805475-9E20-4591-B7AA-743038174519}</UniqueIdentifier>
+      <UniqueIdentifier>{2B1BB550-286D-44A0-9C42-BEB0E1E556F4}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\TestProject1\IOFileSurfer.cpp">
-      <Filter>Source\TestProject1</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\TestProject1\IOFileSurfer.h">
-      <Filter>Source\TestProject1</Filter>
-    </ClInclude>
     <ClCompile Include="..\..\Source\TestProject1\ReadWriter.cpp">
       <Filter>Source\TestProject1</Filter>
     </ClCompile>

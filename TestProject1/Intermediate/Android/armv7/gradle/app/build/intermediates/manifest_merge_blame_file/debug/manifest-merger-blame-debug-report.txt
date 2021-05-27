@@ -1,0 +1,362 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.StutterStudio.TestProject1"
+4    android:installLocation="internalOnly"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->Z:\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="25" />
+10-->Z:\app\src\main\AndroidManifest.xml
+11    <!-- Requirements -->
+12    <uses-feature
+12-->Z:\app\src\main\AndroidManifest.xml:48:3-76
+13        android:glEsVersion="0x00030001"
+13-->Z:\app\src\main\AndroidManifest.xml:48:17-49
+14        android:required="true" />
+14-->Z:\app\src\main\AndroidManifest.xml:48:50-73
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->Z:\app\src\main\AndroidManifest.xml:49:3-65
+16-->Z:\app\src\main\AndroidManifest.xml:49:20-62
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->Z:\app\src\main\AndroidManifest.xml:50:3-79
+17-->Z:\app\src\main\AndroidManifest.xml:50:20-76
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->Z:\app\src\main\AndroidManifest.xml:51:3-77
+18-->Z:\app\src\main\AndroidManifest.xml:51:20-74
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->Z:\app\src\main\AndroidManifest.xml:52:3-66
+19-->Z:\app\src\main\AndroidManifest.xml:52:20-63
+20    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+20-->Z:\app\src\main\AndroidManifest.xml:53:3-71
+20-->Z:\app\src\main\AndroidManifest.xml:53:20-68
+21    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+21-->Z:\app\src\main\AndroidManifest.xml:54:3-74
+21-->Z:\app\src\main\AndroidManifest.xml:54:20-71
+22    <uses-permission android:name="com.android.vending.BILLING" />
+22-->Z:\app\src\main\AndroidManifest.xml:55:3-65
+22-->Z:\app\src\main\AndroidManifest.xml:55:20-62
+23    <!-- Supported texture compression formats (cooked) -->
+24    <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
+24-->Z:\app\src\main\AndroidManifest.xml:57:3-77
+24-->Z:\app\src\main\AndroidManifest.xml:57:24-74
+25
+26    <uses-feature
+26-->Z:\app\src\main\AndroidManifest.xml:58:3-111
+27        android:name="android.hardware.vr.headtracking"
+27-->Z:\app\src\main\AndroidManifest.xml:58:17-64
+28        android:required="true"
+28-->Z:\app\src\main\AndroidManifest.xml:58:85-108
+29        android:version="1" />
+29-->Z:\app\src\main\AndroidManifest.xml:58:65-84
+30
+31    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+31-->Z:\app\src\main\AndroidManifest.xml:59:3-78
+31-->Z:\app\src\main\AndroidManifest.xml:59:20-75
+32
+33    <uses-feature android:name="android.hardware.usb.host" />
+33-->Z:\app\src\main\AndroidManifest.xml:60:3-60
+33-->Z:\app\src\main\AndroidManifest.xml:60:17-57
+34    <!-- Application Definition -->
+35    <application
+35-->Z:\app\src\main\AndroidManifest.xml:3:3-46:17
+36        android:name="com.epicgames.ue4.GameApplication"
+36-->Z:\app\src\main\AndroidManifest.xml:3:147-195
+37        android:debuggable="true"
+38        android:extractNativeLibs="true"
+38-->Z:\app\src\main\AndroidManifest.xml:3:114-146
+39        android:hardwareAccelerated="true"
+39-->Z:\app\src\main\AndroidManifest.xml:3:79-113
+40        android:hasCode="true"
+40-->Z:\app\src\main\AndroidManifest.xml:3:240-262
+41        android:icon="@drawable/icon"
+41-->Z:\app\src\main\AndroidManifest.xml:3:49-78
+42        android:label="@string/app_name"
+42-->Z:\app\src\main\AndroidManifest.xml:3:16-48
+43        android:requestLegacyExternalStorage="true" >
+43-->Z:\app\src\main\AndroidManifest.xml:3:196-239
+44        <activity
+44-->Z:\app\src\main\AndroidManifest.xml:4:5-12:16
+45            android:name="com.epicgames.ue4.GameActivity"
+45-->Z:\app\src\main\AndroidManifest.xml:4:15-60
+46            android:configChanges="mcc|mnc|uiMode|density|screenSize|smallestScreenSize|screenLayout|orientation|keyboardHidden|keyboard"
+46-->Z:\app\src\main\AndroidManifest.xml:4:159-284
+47            android:debuggable="true"
+47-->Z:\app\src\main\AndroidManifest.xml:4:396-421
+48            android:label="@string/app_name"
+48-->Z:\app\src\main\AndroidManifest.xml:4:61-93
+49            android:launchMode="singleTask"
+49-->Z:\app\src\main\AndroidManifest.xml:4:320-351
+50            android:resizeableActivity="false"
+50-->Z:\app\src\main\AndroidManifest.xml:4:285-319
+51            android:screenOrientation="sensorLandscape"
+51-->Z:\app\src\main\AndroidManifest.xml:4:352-395
+52            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+52-->Z:\app\src\main\AndroidManifest.xml:4:94-158
+53            <meta-data
+53-->Z:\app\src\main\AndroidManifest.xml:5:7-76
+54                android:name="android.app.lib_name"
+54-->Z:\app\src\main\AndroidManifest.xml:5:18-53
+55                android:value="UE4" />
+55-->Z:\app\src\main\AndroidManifest.xml:5:54-73
+56
+57            <intent-filter>
+57-->Z:\app\src\main\AndroidManifest.xml:6:7-10:23
+58                <action android:name="android.intent.action.MAIN" />
+58-->Z:\app\src\main\AndroidManifest.xml:7:9-61
+58-->Z:\app\src\main\AndroidManifest.xml:7:17-58
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->Z:\app\src\main\AndroidManifest.xml:8:9-69
+60-->Z:\app\src\main\AndroidManifest.xml:8:19-66
+61                <category android:name="com.oculus.intent.category.VR" />
+61-->Z:\app\src\main\AndroidManifest.xml:9:9-66
+61-->Z:\app\src\main\AndroidManifest.xml:9:19-63
+62            </intent-filter>
+63
+64            <meta-data
+64-->Z:\app\src\main\AndroidManifest.xml:11:7-81
+65                android:name="com.oculus.vr.focusaware"
+65-->Z:\app\src\main\AndroidManifest.xml:11:18-57
+66                android:value="true" />
+66-->Z:\app\src\main\AndroidManifest.xml:11:58-78
+67        </activity>
+68        <activity android:name="com.StutterStudio.TestProject1.DownloaderActivity" />
+68-->Z:\app\src\main\AndroidManifest.xml:13:5-52
+68-->Z:\app\src\main\AndroidManifest.xml:13:15-49
+69
+70        <meta-data
+70-->Z:\app\src\main\AndroidManifest.xml:14:5-101
+71            android:name="com.epicgames.ue4.GameActivity.EngineVersion"
+71-->Z:\app\src\main\AndroidManifest.xml:14:16-75
+72            android:value="4.26.2" />
+72-->Z:\app\src\main\AndroidManifest.xml:14:76-98
+73        <meta-data
+73-->Z:\app\src\main\AndroidManifest.xml:15:5-112
+74            android:name="com.epicgames.ue4.GameActivity.EngineBranch"
+74-->Z:\app\src\main\AndroidManifest.xml:15:16-74
+75            android:value="++UE4+Release-4.26" />
+75-->Z:\app\src\main\AndroidManifest.xml:15:75-109
+76        <meta-data
+76-->Z:\app\src\main\AndroidManifest.xml:16:5-103
+77            android:name="com.epicgames.ue4.GameActivity.ProjectVersion"
+77-->Z:\app\src\main\AndroidManifest.xml:16:16-76
+78            android:value="1.0.0.0" />
+78-->Z:\app\src\main\AndroidManifest.xml:16:77-100
+79        <meta-data
+79-->Z:\app\src\main\AndroidManifest.xml:17:5-104
+80            android:name="com.epicgames.ue4.GameActivity.DepthBufferPreference"
+80-->Z:\app\src\main\AndroidManifest.xml:17:16-83
+81            android:value="0" />
+81-->Z:\app\src\main\AndroidManifest.xml:17:84-101
+82        <meta-data
+82-->Z:\app\src\main\AndroidManifest.xml:18:5-108
+83            android:name="com.epicgames.ue4.GameActivity.bPackageDataInsideApk"
+83-->Z:\app\src\main\AndroidManifest.xml:18:16-83
+84            android:value="false" />
+84-->Z:\app\src\main\AndroidManifest.xml:18:84-105
+85        <meta-data
+85-->Z:\app\src\main\AndroidManifest.xml:19:5-106
+86            android:name="com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp"
+86-->Z:\app\src\main\AndroidManifest.xml:19:16-81
+87            android:value="false" />
+87-->Z:\app\src\main\AndroidManifest.xml:19:82-103
+88        <meta-data
+88-->Z:\app\src\main\AndroidManifest.xml:20:5-99
+89            android:name="com.epicgames.ue4.GameActivity.bShouldHideUI"
+89-->Z:\app\src\main\AndroidManifest.xml:20:16-75
+90            android:value="true" />
+90-->Z:\app\src\main\AndroidManifest.xml:20:76-96
+91        <meta-data
+91-->Z:\app\src\main\AndroidManifest.xml:21:5-105
+92            android:name="com.epicgames.ue4.GameActivity.ProjectName"
+92-->Z:\app\src\main\AndroidManifest.xml:21:16-73
+93            android:value="TestProject1" />
+93-->Z:\app\src\main\AndroidManifest.xml:21:74-102
+94        <meta-data
+94-->Z:\app\src\main\AndroidManifest.xml:22:5-89
+95            android:name="com.epicgames.ue4.GameActivity.AppType"
+95-->Z:\app\src\main\AndroidManifest.xml:22:16-69
+96            android:value="" />
+96-->Z:\app\src\main\AndroidManifest.xml:22:70-86
+97        <meta-data
+97-->Z:\app\src\main\AndroidManifest.xml:23:5-99
+98            android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles"
+98-->Z:\app\src\main\AndroidManifest.xml:23:16-74
+99            android:value="false" />
+99-->Z:\app\src\main\AndroidManifest.xml:23:75-96
+100        <meta-data
+100-->Z:\app\src\main\AndroidManifest.xml:24:5-111
+101            android:name="com.epicgames.ue4.GameActivity.BuildConfiguration"
+101-->Z:\app\src\main\AndroidManifest.xml:24:16-80
+102            android:value="Development" />
+102-->Z:\app\src\main\AndroidManifest.xml:24:81-108
+103        <meta-data
+103-->Z:\app\src\main\AndroidManifest.xml:25:5-99
+104            android:name="com.epicgames.ue4.GameActivity.CookedFlavors"
+104-->Z:\app\src\main\AndroidManifest.xml:25:16-75
+105            android:value="ASTC" />
+105-->Z:\app\src\main\AndroidManifest.xml:25:76-96
+106        <meta-data
+106-->Z:\app\src\main\AndroidManifest.xml:26:5-109
+107            android:name="com.epicgames.ue4.GameActivity.bValidateTextureFormats"
+107-->Z:\app\src\main\AndroidManifest.xml:26:16-85
+108            android:value="true" />
+108-->Z:\app\src\main\AndroidManifest.xml:26:86-106
+109        <meta-data
+109-->Z:\app\src\main\AndroidManifest.xml:27:5-107
+110            android:name="com.epicgames.ue4.GameActivity.bUseExternalFilesDir"
+110-->Z:\app\src\main\AndroidManifest.xml:27:16-82
+111            android:value="false" />
+111-->Z:\app\src\main\AndroidManifest.xml:27:83-104
+112        <meta-data
+112-->Z:\app\src\main\AndroidManifest.xml:28:5-102
+113            android:name="com.epicgames.ue4.GameActivity.bPublicLogFiles"
+113-->Z:\app\src\main\AndroidManifest.xml:28:16-77
+114            android:value="false" />
+114-->Z:\app\src\main\AndroidManifest.xml:28:78-99
+115        <meta-data
+115-->Z:\app\src\main\AndroidManifest.xml:29:5-104
+116            android:name="com.epicgames.ue4.GameActivity.bUseDisplayCutout"
+116-->Z:\app\src\main\AndroidManifest.xml:29:16-79
+117            android:value="false" />
+117-->Z:\app\src\main\AndroidManifest.xml:29:80-101
+118        <meta-data
+118-->Z:\app\src\main\AndroidManifest.xml:30:5-95
+119            android:name="com.epicgames.ue4.GameActivity.bAllowIMU"
+119-->Z:\app\src\main\AndroidManifest.xml:30:16-71
+120            android:value="true" />
+120-->Z:\app\src\main\AndroidManifest.xml:30:72-92
+121        <meta-data
+121-->Z:\app\src\main\AndroidManifest.xml:31:5-102
+122            android:name="com.epicgames.ue4.GameActivity.bSupportsVulkan"
+122-->Z:\app\src\main\AndroidManifest.xml:31:16-77
+123            android:value="false" />
+123-->Z:\app\src\main\AndroidManifest.xml:31:78-99
+124        <meta-data
+124-->Z:\app\src\main\AndroidManifest.xml:32:5-141
+125            android:name="com.epicgames.ue4.GameActivity.StartupPermissions"
+125-->Z:\app\src\main\AndroidManifest.xml:32:16-80
+126            android:value="android.permission.WRITE_EXTERNAL_STORAGE" />
+126-->Z:\app\src\main\AndroidManifest.xml:32:81-138
+127        <meta-data
+127-->Z:\app\src\main\AndroidManifest.xml:33:5-100
+128            android:name="com.google.android.gms.games.APP_ID"
+128-->Z:\app\src\main\AndroidManifest.xml:33:16-66
+129            android:value="@string/app_id" />
+129-->Z:\app\src\main\AndroidManifest.xml:33:67-97
+130        <meta-data
+130-->Z:\app\src\main\AndroidManifest.xml:34:5-118
+131            android:name="com.google.android.gms.version"
+131-->Z:\app\src\main\AndroidManifest.xml:34:16-61
+132            android:value="@integer/google_play_services_version" />
+132-->Z:\app\src\main\AndroidManifest.xml:34:62-115
+133
+134        <activity
+134-->Z:\app\src\main\AndroidManifest.xml:35:5-180
+135            android:name="com.google.android.gms.ads.AdActivity"
+135-->Z:\app\src\main\AndroidManifest.xml:35:15-67
+136            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+136-->Z:\app\src\main\AndroidManifest.xml:35:68-177
+137
+138        <service android:name="com.StutterStudio.TestProject1.OBBDownloaderService" />
+138-->Z:\app\src\main\AndroidManifest.xml:36:5-52
+138-->Z:\app\src\main\AndroidManifest.xml:36:14-49
+139
+140        <receiver android:name="com.StutterStudio.TestProject1.AlarmReceiver" />
+140-->Z:\app\src\main\AndroidManifest.xml:37:5-46
+140-->Z:\app\src\main\AndroidManifest.xml:37:15-43
+141        <receiver android:name="com.epicgames.ue4.LocalNotificationReceiver" />
+141-->Z:\app\src\main\AndroidManifest.xml:38:5-76
+141-->Z:\app\src\main\AndroidManifest.xml:38:15-73
+142        <receiver
+142-->Z:\app\src\main\AndroidManifest.xml:39:5-43:16
+143            android:name="com.epicgames.ue4.MulticastBroadcastReceiver"
+143-->Z:\app\src\main\AndroidManifest.xml:39:15-74
+144            android:exported="true" >
+144-->Z:\app\src\main\AndroidManifest.xml:39:75-98
+145            <intent-filter>
+145-->Z:\app\src\main\AndroidManifest.xml:40:7-42:23
+146                <action android:name="com.android.vending.INSTALL_REFERRER" />
+146-->Z:\app\src\main\AndroidManifest.xml:41:9-71
+146-->Z:\app\src\main\AndroidManifest.xml:41:17-68
+147            </intent-filter>
+148        </receiver>
+149
+150        <meta-data
+150-->Z:\app\src\main\AndroidManifest.xml:44:5-73
+151            android:name="android.max_aspect"
+151-->Z:\app\src\main\AndroidManifest.xml:44:16-49
+152            android:value="2.10" />
+152-->Z:\app\src\main\AndroidManifest.xml:44:50-70
+153        <meta-data
+153-->Z:\app\src\main\AndroidManifest.xml:45:5-84
+154            android:name="com.oculus.supportedDevices"
+154-->Z:\app\src\main\AndroidManifest.xml:45:16-58
+155            android:value="delmar" />
+155-->Z:\app\src\main\AndroidManifest.xml:45:59-81
+156
+157        <activity
+157-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\a5bfefc3390fe8242124503106abe28c\play-services-auth-11.8.0\AndroidManifest.xml:23:9-27:75
+158            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+158-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\a5bfefc3390fe8242124503106abe28c\play-services-auth-11.8.0\AndroidManifest.xml:24:13-93
+159            android:excludeFromRecents="true"
+159-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\a5bfefc3390fe8242124503106abe28c\play-services-auth-11.8.0\AndroidManifest.xml:25:13-46
+160            android:exported="false"
+160-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\a5bfefc3390fe8242124503106abe28c\play-services-auth-11.8.0\AndroidManifest.xml:26:13-37
+161            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+161-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\a5bfefc3390fe8242124503106abe28c\play-services-auth-11.8.0\AndroidManifest.xml:27:13-72
+162        <!--
+163            Service handling Google Sign-In user revocation. For apps that do not integrate with
+164            Google Sign-In, this service will never be started.
+165        -->
+166        <service
+166-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\a5bfefc3390fe8242124503106abe28c\play-services-auth-11.8.0\AndroidManifest.xml:33:9-36:110
+167            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+167-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\a5bfefc3390fe8242124503106abe28c\play-services-auth-11.8.0\AndroidManifest.xml:34:13-89
+168            android:exported="true"
+168-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\a5bfefc3390fe8242124503106abe28c\play-services-auth-11.8.0\AndroidManifest.xml:35:13-36
+169            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+169-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\a5bfefc3390fe8242124503106abe28c\play-services-auth-11.8.0\AndroidManifest.xml:36:13-107
+170
+171        <meta-data
+171-->[com.android.billingclient:billing:3.0.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\billing-3.0.0\AndroidManifest.xml:13:9-15:37
+172            android:name="com.google.android.play.billingclient.version"
+172-->[com.android.billingclient:billing:3.0.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\billing-3.0.0\AndroidManifest.xml:14:13-73
+173            android:value="3.0.0" />
+173-->[com.android.billingclient:billing:3.0.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\billing-3.0.0\AndroidManifest.xml:15:13-34
+174
+175        <activity
+175-->[com.android.billingclient:billing:3.0.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\billing-3.0.0\AndroidManifest.xml:17:9-20:75
+176            android:name="com.android.billingclient.api.ProxyBillingActivity"
+176-->[com.android.billingclient:billing:3.0.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\billing-3.0.0\AndroidManifest.xml:18:13-78
+177            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+177-->[com.android.billingclient:billing:3.0.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\billing-3.0.0\AndroidManifest.xml:19:13-96
+178            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+178-->[com.android.billingclient:billing:3.0.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\billing-3.0.0\AndroidManifest.xml:20:13-72
+179
+180        <provider
+180-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\280574ab331d6899a7e8badab855b8e7\extensions-1.1.1\AndroidManifest.xml:23:9-27:43
+181            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+181-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\280574ab331d6899a7e8badab855b8e7\extensions-1.1.1\AndroidManifest.xml:24:13-83
+182            android:authorities="com.StutterStudio.TestProject1.lifecycle-trojan"
+182-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\280574ab331d6899a7e8badab855b8e7\extensions-1.1.1\AndroidManifest.xml:25:13-68
+183            android:exported="false"
+183-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\280574ab331d6899a7e8badab855b8e7\extensions-1.1.1\AndroidManifest.xml:26:13-37
+184            android:multiprocess="true" />
+184-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\280574ab331d6899a7e8badab855b8e7\extensions-1.1.1\AndroidManifest.xml:27:13-40
+185
+186        <activity
+186-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\5a9e64eaa775527212e8809063333fcd\play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
+187            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+187-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\5a9e64eaa775527212e8809063333fcd\play-services-base-11.8.0\AndroidManifest.xml:24:13-79
+188            android:exported="false"
+188-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\5a9e64eaa775527212e8809063333fcd\play-services-base-11.8.0\AndroidManifest.xml:25:13-37
+189            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+189-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\jonah\.gradle\caches\transforms-2\files-2.1\5a9e64eaa775527212e8809063333fcd\play-services-base-11.8.0\AndroidManifest.xml:26:13-72
+190    </application>
+191
+192</manifest>
