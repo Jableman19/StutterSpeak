@@ -7,10 +7,8 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\TestProject1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\GetFileDirectory.cpp.obj"
 "C:\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\ReadWriter.cpp.obj"
 "C:\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\TestProject1.cpp.obj"
-"C:\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\GetFileDirectory.gen.cpp.obj"
 "C:\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\ReadWriter.gen.cpp.obj"
 "C:\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\TestProject1.init.gen.cpp.obj"
 "C:\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\Default.rc2.res"
