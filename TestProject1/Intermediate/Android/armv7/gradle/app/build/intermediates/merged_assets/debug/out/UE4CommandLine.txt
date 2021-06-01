@@ -1,1 +1,1 @@
-../../../TestProject1/TestProject1.uproject  /Game/Stutter_Speak_Content/Maps/MenuWorld -Messaging -SessionId=601929C847BB0995EDD5DDBC55E3C668 -SessionOwner="jonah" -SessionName="Launch On Device" -iterative
+../../../TestProject1/TestProject1.uproject  /Game/Stutter_Speak_Content/Maps/MenuWorld -Messaging -SessionId=D6E2997C4B794B11DBA5EA84DB30FB19 -SessionOwner="jonah" -SessionName="Launch On Device" -iterative

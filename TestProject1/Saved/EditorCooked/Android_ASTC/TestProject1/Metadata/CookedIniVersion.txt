@@ -2148,7 +2148,7 @@ Windows.Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:MinWindowWidth:0=16
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:MinWindowHeight:0=16
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectID:0=F87CFBD6497CF51C6CF9F28D850193E2
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_DebugGame
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
@@ -2221,6 +2221,7 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:10=IniKey
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:11=IniSectionBlacklist
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:0=(FilePath="/Game/Stutter_Speak_Content/Maps/Test")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:1=(FilePath="/Game/Stutter_Speak_Content/Maps/MenuWorld")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:DirectoriesToAlwaysStageAsUFS:0=(Path="Stutter_Speak_Content/Texts")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:DirectoriesToAlwaysStageAsNonUFS:0=(Path="Stutter_Speak_Content/Texts")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:DirectoriesToAlwaysStageAsNonUFS:1=(Path="Stutter_Speak_Content/Audio")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:DirectoriesToAlwaysStageAsNonUFS:2=(Path="Recordings")
@@ -4561,8 +4562,8 @@ RecomputeTangentCustomVer:5579F886933A4C1F83BA087B6361B92F=2
 OverlappingVerticeDetectionVer:612FBE52DA53400B910D4F919FB1857C=1
 VisualLogger:A4237A36CAEA41C98FA218F858681BF3=4
 VirtualTextureBuiltDataVersion:804E3F7570884B49A4D68C063C7EB6DC=5
-VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=66
+VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 ChaosClothConfigVer:76A52329092345B598AED841CF2F6AD8=5
 ChaosClothSharedConfigVer:5FBC690755C840AE8E67F1845EFFF13F=1
 Paper2DVer:11310AED2E554D61AF679AA3C5A1082C=17

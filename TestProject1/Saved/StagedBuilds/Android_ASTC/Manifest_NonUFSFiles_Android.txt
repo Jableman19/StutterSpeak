@@ -46,4 +46,4 @@ TestProject1/Content/Stutter_Speak_Content/Texts/WolverineSoft Speech.txt	2021-0
 TestProject1/Content/Stutter_Speak_Content/Audio/SpeechCapture.uasset	2021-05-25T15:11:40.131Z
 TestProject1/Content/Stutter_Speak_Content/Audio/SpeechCapture.wav	2021-05-25T15:11:40.131Z
 TestProject1/Content/Movies/Mouse-Click-04-c-FesliyanStudios.com.wav	2021-05-28T19:00:21.084Z
-UE4CommandLine.txt	EE99ACECC58A1EA564801B4B48733346
+UE4CommandLine.txt	FD8D2F855080EC6DA1A70B7711788605

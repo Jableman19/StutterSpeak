@@ -28,6 +28,8 @@ TestProject1/Content/Stutter_Speak_Content/Pre-Fabs/StopSpeechButton.uasset
 TestProject1/Content/Stutter_Speak_Content/Pre-Fabs/StopSpeechButton.uexp
 TestProject1/Content/Stutter_Speak_Content/Pre-Fabs/StopStutterButton.uasset
 TestProject1/Content/Stutter_Speak_Content/Pre-Fabs/StopStutterButton.uexp
+TestProject1/Content/Stutter_Speak_Content/Pre-Fabs/TriggerBoxMainWorld.uasset
+TestProject1/Content/Stutter_Speak_Content/Pre-Fabs/TriggerBoxMainWorld.uexp
 TestProject1/Content/Stutter_Speak_Content/Widgets/BPMenuWorld.uasset
 TestProject1/Content/Stutter_Speak_Content/Widgets/BPMenuWorld.uexp
 TestProject1/Content/Stutter_Speak_Content/Widgets/BPPostSpeech.uasset

@@ -80,6 +80,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E4A8559615AD8F346F405A57E4E47A54ACF9B3F9",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "E60E81B39AC6072B29D909082A7F660DB953A43F",
 			"Assets": [
 				"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset"
@@ -361,6 +367,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3160789B35CDDCC35C006EDF45B265482310D652",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "D4B2EF1A26C5B0801EEFB102645F4A8F6E35303C",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
@@ -370,18 +382,6 @@
 			"ShaderMapHash": "32B815426115A67A48EA7114CA4EC9C5C2A03155",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "3160789B35CDDCC35C006EDF45B265482310D652",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "F7B3E717F71B01A4B900BF3E383A0E78396430DB",
-			"Assets": [
-				"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset"
 			]
 		},
 		{
@@ -400,6 +400,12 @@
 			"ShaderMapHash": "FDED6C206BEFD56B76E722745A40C68CE1A3D036",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F7B3E717F71B01A4B900BF3E383A0E78396430DB",
+			"Assets": [
+				"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset"
 			]
 		},
 		{
@@ -577,12 +583,6 @@
 			"ShaderMapHash": "F465B9C4969F0C50C7C5A0D0EAB619DF443BC76C",
 			"Assets": [
 				"C:/Projects/StutterSpeak/TestProject1/Content/Starter_Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "E4A8559615AD8F346F405A57E4E47A54ACF9B3F9",
-			"Assets": [
-				"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset"
 			]
 		},
 		{

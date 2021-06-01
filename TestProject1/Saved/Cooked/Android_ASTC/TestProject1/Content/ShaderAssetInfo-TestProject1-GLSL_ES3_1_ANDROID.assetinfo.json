@@ -217,15 +217,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F465B9C4969F0C50C7C5A0D0EAB619DF443BC76C",
+			"ShaderMapHash": "88ECF0B4436E42F43C713F075553C8F72E782287",
 			"Assets": [
-				"C:/Projects/StutterSpeak/TestProject1/Content/Starter_Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "1FCEC8EEF512446FF2186922E8D69287F6459316",
-			"Assets": [
-				"C:/Projects/StutterSpeak/TestProject1/Content/Starter_Content/Geometry/Meshes/CubeMaterial.uasset"
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Menu_Pointer.uasset"
 			]
 		},
 		{
@@ -241,13 +235,25 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1FCEC8EEF512446FF2186922E8D69287F6459316",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Starter_Content/Geometry/Meshes/CubeMaterial.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "6D4BB8D2848542FD41BEEC8DD43A583CEF4E71FA",
 			"Assets": [
 				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Button_Start.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "0571A82EA11C9C2559E1F90A57A03665C7097598",
+			"ShaderMapHash": "F465B9C4969F0C50C7C5A0D0EAB619DF443BC76C",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Starter_Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "466F316CDCB22E387A123CA3DCB09A51CC7AB010",
 			"Assets": [
 				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Podium.uasset"
 			]

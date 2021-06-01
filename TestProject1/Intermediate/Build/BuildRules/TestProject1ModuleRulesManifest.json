@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Robbi\\Documents\\GitHub\\StutterSpeak\\TestProject1\\Source\\TestProject1\\TestProject1.Build.cs",
-		"C:\\Users\\Robbi\\Documents\\GitHub\\StutterSpeak\\TestProject1\\Source\\TestProject1.Target.cs",
-		"C:\\Users\\Robbi\\Documents\\GitHub\\StutterSpeak\\TestProject1\\Source\\TestProject1Editor.Target.cs"
+		"C:\\Projects\\StutterSpeak\\TestProject1\\Source\\TestProject1\\TestProject1.Build.cs",
+		"C:\\Projects\\StutterSpeak\\TestProject1\\Source\\TestProject1.Target.cs",
+		"C:\\Projects\\StutterSpeak\\TestProject1\\Source\\TestProject1Editor.Target.cs"
 	],
 	"EngineVersion": "4.26.2"
 }
