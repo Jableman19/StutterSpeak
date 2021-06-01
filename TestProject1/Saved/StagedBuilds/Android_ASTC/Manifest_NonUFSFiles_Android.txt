@@ -29,21 +29,21 @@ TestProject1/Config/SteamVRBindings/vive_tracker_right_foot.json	2021-05-20T04:1
 TestProject1/Config/SteamVRBindings/vive_tracker_right_knee.json	2021-05-20T04:14:50.274Z
 TestProject1/Config/SteamVRBindings/vive_tracker_right_shoulder.json	2021-05-20T04:14:50.275Z
 TestProject1/Config/SteamVRBindings/vive_tracker_waist.json	2021-05-20T04:14:50.275Z
-TestProject1/Content/Stutter_Speak_Content/Texts/LoremForReal.txt	2021-05-25T15:11:02.666Z
-TestProject1/Content/Stutter_Speak_Content/Texts/LoremIpsum.txt	2021-05-25T15:11:02.667Z
-TestProject1/Content/Stutter_Speak_Content/Texts/morefakespeech.txt	2021-05-25T15:11:02.689Z
-TestProject1/Content/Stutter_Speak_Content/Texts/please.txt	2021-05-25T15:11:02.689Z
-TestProject1/Content/Stutter_Speak_Content/Texts/Test1.txt	2021-05-25T15:11:40.544Z
-TestProject1/Content/Stutter_Speak_Content/Texts/Test2.txt	2021-05-25T15:11:40.545Z
-TestProject1/Content/Stutter_Speak_Content/Texts/Test3.txt	2021-05-25T15:11:40.545Z
-TestProject1/Content/Stutter_Speak_Content/Texts/test4.txt	2021-05-25T15:11:40.549Z
-TestProject1/Content/Stutter_Speak_Content/Texts/Test5.txt	2021-05-25T15:11:40.546Z
-TestProject1/Content/Stutter_Speak_Content/Texts/Test6.txt	2021-05-25T15:11:40.546Z
-TestProject1/Content/Stutter_Speak_Content/Texts/Test7.txt	2021-05-25T15:11:40.547Z
-TestProject1/Content/Stutter_Speak_Content/Texts/Test8.txt	2021-05-25T15:11:40.547Z
-TestProject1/Content/Stutter_Speak_Content/Texts/Test9.txt	2021-05-25T15:11:40.547Z
-TestProject1/Content/Stutter_Speak_Content/Texts/WolverineSoft Speech.txt	2021-05-25T15:11:40.548Z
+TestProject1/Content/Stutter_Speak_Content/Texts/LoremForReal.txt	2021-05-28T19:00:21.194Z
+TestProject1/Content/Stutter_Speak_Content/Texts/LoremIpsum.txt	2021-05-28T19:00:21.194Z
+TestProject1/Content/Stutter_Speak_Content/Texts/morefakespeech.txt	2021-05-28T19:00:21.199Z
+TestProject1/Content/Stutter_Speak_Content/Texts/please.txt	2021-05-28T19:00:21.200Z
+TestProject1/Content/Stutter_Speak_Content/Texts/Test1.txt	2021-05-28T19:00:21.195Z
+TestProject1/Content/Stutter_Speak_Content/Texts/Test2.txt	2021-05-28T19:00:21.195Z
+TestProject1/Content/Stutter_Speak_Content/Texts/Test3.txt	2021-05-28T19:00:21.196Z
+TestProject1/Content/Stutter_Speak_Content/Texts/test4.txt	2021-05-28T19:00:21.200Z
+TestProject1/Content/Stutter_Speak_Content/Texts/Test5.txt	2021-05-28T19:00:21.197Z
+TestProject1/Content/Stutter_Speak_Content/Texts/Test6.txt	2021-05-28T19:00:21.197Z
+TestProject1/Content/Stutter_Speak_Content/Texts/Test7.txt	2021-05-28T19:00:21.197Z
+TestProject1/Content/Stutter_Speak_Content/Texts/Test8.txt	2021-05-28T19:00:21.198Z
+TestProject1/Content/Stutter_Speak_Content/Texts/Test9.txt	2021-05-28T19:00:21.198Z
+TestProject1/Content/Stutter_Speak_Content/Texts/WolverineSoft Speech.txt	2021-05-28T19:00:21.199Z
 TestProject1/Content/Stutter_Speak_Content/Audio/SpeechCapture.uasset	2021-05-25T15:11:40.131Z
 TestProject1/Content/Stutter_Speak_Content/Audio/SpeechCapture.wav	2021-05-25T15:11:40.131Z
-TestProject1/Content/Movies/Mouse-Click-04-c-FesliyanStudios.com.wav	2021-05-25T15:11:40.128Z
-UE4CommandLine.txt	DDDA24A4B225E7CFD8F457A441385452
+TestProject1/Content/Movies/Mouse-Click-04-c-FesliyanStudios.com.wav	2021-05-28T19:00:21.084Z
+UE4CommandLine.txt	EE99ACECC58A1EA564801B4B48733346
