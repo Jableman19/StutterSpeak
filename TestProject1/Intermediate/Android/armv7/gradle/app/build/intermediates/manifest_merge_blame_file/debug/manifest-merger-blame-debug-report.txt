@@ -160,11 +160,11 @@
 84            android:value="0" />
 84-->Z:\app\src\main\AndroidManifest.xml:17:84-101
 85        <meta-data
-85-->Z:\app\src\main\AndroidManifest.xml:18:5-108
+85-->Z:\app\src\main\AndroidManifest.xml:18:5-107
 86            android:name="com.epicgames.ue4.GameActivity.bPackageDataInsideApk"
 86-->Z:\app\src\main\AndroidManifest.xml:18:16-83
-87            android:value="false" />
-87-->Z:\app\src\main\AndroidManifest.xml:18:84-105
+87            android:value="true" />
+87-->Z:\app\src\main\AndroidManifest.xml:18:84-104
 88        <meta-data
 88-->Z:\app\src\main\AndroidManifest.xml:19:5-106
 89            android:name="com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp"
@@ -190,17 +190,17 @@
 99            android:value="" />
 99-->Z:\app\src\main\AndroidManifest.xml:22:70-86
 100        <meta-data
-100-->Z:\app\src\main\AndroidManifest.xml:23:5-99
+100-->Z:\app\src\main\AndroidManifest.xml:23:5-98
 101            android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles"
 101-->Z:\app\src\main\AndroidManifest.xml:23:16-74
-102            android:value="false" />
-102-->Z:\app\src\main\AndroidManifest.xml:23:75-96
+102            android:value="true" />
+102-->Z:\app\src\main\AndroidManifest.xml:23:75-95
 103        <meta-data
-103-->Z:\app\src\main\AndroidManifest.xml:24:5-111
+103-->Z:\app\src\main\AndroidManifest.xml:24:5-108
 104            android:name="com.epicgames.ue4.GameActivity.BuildConfiguration"
 104-->Z:\app\src\main\AndroidManifest.xml:24:16-80
-105            android:value="Development" />
-105-->Z:\app\src\main\AndroidManifest.xml:24:81-108
+105            android:value="Shipping" />
+105-->Z:\app\src\main\AndroidManifest.xml:24:81-105
 106        <meta-data
 106-->Z:\app\src\main\AndroidManifest.xml:25:5-99
 107            android:name="com.epicgames.ue4.GameActivity.CookedFlavors"

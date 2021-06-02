@@ -1,2 +1,0 @@
-Content/Stutter_Speak_Content/Widgets/BPRater.uexp
-TestProject1/Saved/Logs/TestProject1-backup-0001.01.01-00.00.00.log

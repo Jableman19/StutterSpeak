@@ -223,6 +223,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6D4BB8D2848542FD41BEEC8DD43A583CEF4E71FA",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Button_Start.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "BDA94D7DF50B23B8A1F1355A89C783545FB36A72",
 			"Assets": [
 				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Button_Top.uasset"
@@ -238,12 +244,6 @@
 			"ShaderMapHash": "1FCEC8EEF512446FF2186922E8D69287F6459316",
 			"Assets": [
 				"C:/Projects/StutterSpeak/TestProject1/Content/Starter_Content/Geometry/Meshes/CubeMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "6D4BB8D2848542FD41BEEC8DD43A583CEF4E71FA",
-			"Assets": [
-				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Button_Start.uasset"
 			]
 		},
 		{

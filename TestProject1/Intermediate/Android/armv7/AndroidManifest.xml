@@ -15,13 +15,13 @@
     <meta-data android:name="com.epicgames.ue4.GameActivity.EngineBranch" android:value="++UE4+Release-4.26" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.ProjectVersion" android:value="1.0.0.0" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.DepthBufferPreference" android:value="0" />
-    <meta-data android:name="com.epicgames.ue4.GameActivity.bPackageDataInsideApk" android:value="false" />
+    <meta-data android:name="com.epicgames.ue4.GameActivity.bPackageDataInsideApk" android:value="true" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp" android:value="false" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bShouldHideUI" android:value="true" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.ProjectName" android:value="TestProject1" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.AppType" android:value="" />
-    <meta-data android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles" android:value="false" />
-    <meta-data android:name="com.epicgames.ue4.GameActivity.BuildConfiguration" android:value="Development" />
+    <meta-data android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles" android:value="true" />
+    <meta-data android:name="com.epicgames.ue4.GameActivity.BuildConfiguration" android:value="Shipping" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.CookedFlavors" android:value="ASTC" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bValidateTextureFormats" android:value="true" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bUseExternalFilesDir" android:value="false" />

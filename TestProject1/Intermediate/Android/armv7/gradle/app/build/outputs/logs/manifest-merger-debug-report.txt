@@ -187,9 +187,9 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:17:5-104
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:17:16-83
 meta-data#com.epicgames.ue4.GameActivity.bPackageDataInsideApk
-ADDED from Z:\app\src\main\AndroidManifest.xml:18:5-108
+ADDED from Z:\app\src\main\AndroidManifest.xml:18:5-107
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:18:84-105
+		ADDED from Z:\app\src\main\AndroidManifest.xml:18:84-104
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:18:16-83
 meta-data#com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp
@@ -217,15 +217,15 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:22:5-89
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:22:16-69
 meta-data#com.epicgames.ue4.GameActivity.bHasOBBFiles
-ADDED from Z:\app\src\main\AndroidManifest.xml:23:5-99
+ADDED from Z:\app\src\main\AndroidManifest.xml:23:5-98
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:23:75-96
+		ADDED from Z:\app\src\main\AndroidManifest.xml:23:75-95
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:23:16-74
 meta-data#com.epicgames.ue4.GameActivity.BuildConfiguration
-ADDED from Z:\app\src\main\AndroidManifest.xml:24:5-111
+ADDED from Z:\app\src\main\AndroidManifest.xml:24:5-108
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:24:81-108
+		ADDED from Z:\app\src\main\AndroidManifest.xml:24:81-105
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:24:16-80
 meta-data#com.epicgames.ue4.GameActivity.CookedFlavors
