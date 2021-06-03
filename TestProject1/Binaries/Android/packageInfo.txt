@@ -1,0 +1,4 @@
+com.StutterStudio.TestProject1
+1
+1.0
+name='com.epicgames.ue4.GameActivity.AppType' value=''

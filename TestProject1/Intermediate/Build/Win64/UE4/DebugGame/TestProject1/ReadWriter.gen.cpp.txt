@@ -1,0 +1,5 @@
+C:\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4\DebugGame\TestProject1\Definitions.TestProject1.h
+D:\Unreal\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Projects\StutterSpeak\TestProject1\Source\TestProject1/ReadWriter.h
+C:\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4\Inc\TestProject1\ReadWriter.generated.h

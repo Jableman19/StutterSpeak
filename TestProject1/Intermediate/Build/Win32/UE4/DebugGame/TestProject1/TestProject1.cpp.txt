@@ -1,0 +1,2 @@
+C:\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win32\UE4\DebugGame\TestProject1\Definitions.TestProject1.h
+C:\Projects\StutterSpeak\TestProject1\Source\TestProject1\TestProject1.h

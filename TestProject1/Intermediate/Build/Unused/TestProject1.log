@@ -1,14 +1,205 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Projects\StutterSpeak).
-  Invalidating makefile for TestProject1 (source file removed)
-  Parsing headers for TestProject1
-    Running UnrealHeaderTool "C:\Projects\StutterSpeak\TestProject1\TestProject1.uproject" "C:\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win32\TestProject1\Development\TestProject1.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\jonah\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-  Reflection code generated for TestProject1 in 3.5862687 seconds
   Building TestProject1...
-  Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 3 actions with 12 processes...
-    [1/3] TestProject1.init.gen.cpp
-    [2/3] TestProject1.exe
-       Creating library C:\Projects\StutterSpeak\TestProject1\Binaries\Win32\TestProject1.lib and object C:\Projects\StutterSpeak\TestProject1\Binaries\Win32\TestProject1.exp
+    [1/3] ReadWriter.cpp [armv7]
+    [2/3] TestProject1-armv7.so
     [3/3] TestProject1.target
-  Total time in Parallel executor: 18.84 seconds
-  Total execution time: 24.43 seconds
+  Total time in Parallel executor: 62.19 seconds
+  Deploying TestProject1 Android Development...
+  AndroidPlugin: Plugins\Online\Android\OnlineSubsystemGooglePlay\Source\OnlineSubsystemGooglePlay_UPL.xml
+  AndroidPlugin: Plugins\Runtime\AndroidPermission\Source\AndroidPermission\AndroidPermission_APL.xml
+  AndroidPlugin: Plugins\Runtime\GoogleCloudMessaging\Source\GoogleCloudMessaging\GoogleCloudMessaging_UPL.xml
+  AndroidPlugin: Plugins\Runtime\GooglePAD\Source\GooglePAD\GooglePAD_APL.xml
+  AndroidPlugin: Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\OculusMobile_APL.xml
+  AndroidPlugin: Source\Runtime\Online\Voice\AndroidVoiceImpl_UPL.xml
+  AndroidPlugin: Source\ThirdParty\GoogleGameSDK\GoogleGameSDK_APL.xml
+  UPL: ..\Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/OnlineSubsystemGooglePlay_UPL.xml
+  UPL: ..\Plugins/Runtime/AndroidPermission/Source/AndroidPermission/AndroidPermission_APL.xml
+  UPL: ..\Plugins/Runtime/GoogleCloudMessaging/Source/GoogleCloudMessaging/GoogleCloudMessaging_UPL.xml
+  UPL: ..\Plugins/Runtime/GooglePAD/Source/GooglePAD/GooglePAD_APL.xml
+  UPL: ..\Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/OculusMobile_APL.xml
+  UPL: ..\Source/Runtime/Online/Voice/AndroidVoiceImpl_UPL.xml
+  UPL: ..\Source/ThirdParty/GoogleGameSDK/GoogleGameSDK_APL.xml
+  Using package name: 'com.StutterStudio.TestProject1'
+  GotStoreVersion found v1. (bUseChangeListAsStoreVersion=False IsBuildMachine=False EngineChangeList=0)
+  Writing packageInfo pkgName:com.StutterStudio.TestProject1 storeVersion:1 versionDisplayName:1.0 to C:\Projects\StutterSpeak\TestProject1\Binaries\Android\packageInfo.txt
+  
+  ====5/27/2021 1:04:51 PM====PREPARING TO MAKE APK=================================================================
+  bBuildForES31: true
+  bSupportsVulkan: false
+  Building Java with SDK API level 'android-30'
+  Building with Build Tools version '31.0.0 rc4'
+  
+  ==== Writing to shim file C:\Projects\StutterSpeak\TestProject1\Build\Android\src\com\epicgames\ue4\DownloadShim.java ====
+  
+  ==== Shim data file up to date so not writing. ====
+  
+  ==== Writing to template target file C:\Projects\StutterSpeak\TestProject1\Build\Android\src\com\StutterStudio\TestProject1\AlarmReceiver.java ====
+  
+  ==== Template target file up to date so not writing. ====
+  
+  ==== Writing to template target file C:\Projects\StutterSpeak\TestProject1\Build\Android\src\com\StutterStudio\TestProject1\DownloaderActivity.java ====
+  
+  ==== Template target file up to date so not writing. ====
+  
+  ==== Writing to template target file C:\Projects\StutterSpeak\TestProject1\Build\Android\src\com\StutterStudio\TestProject1\OBBDownloaderService.java ====
+  
+  ==== Template target file up to date so not writing. ====
+  Cleaning up files based on template dir C:\Projects\StutterSpeak\TestProject1\Build\Android\src\com\StutterStudio\TestProject1
+  Previous .apk file(s) were made with different build settings, forcing repackage.
+  UPL Init: armeabi-v7a
+  Subsystem Google Play SDK Android init
+  Android Permission Plugin Init
+  Google Cloud Messaging init
+  GCMClientSenderID set: false
+  GooglePAD Plugin Init
+  GooglePAD enabled: false
+  Oculus mobile init
+  Android Voice init
+  GoogleGameSDK Android init
+  Looking for OBB.
+  Disabling Show Launch Image for Oculus Mobile enabled application
+  Disabling Show Launch Image for Oculus Mobile enabled application
+  
+  ====5/27/2021 1:04:51 PM====PREPARING NATIVE CODE=====-armv7============================================================
+  bPackageDataInsideApk = True
+  Obb location C:\Projects\StutterSpeak\TestProject1/Saved/StagedBuilds/Android.obb
+  Obb destination location C:\Projects\StutterSpeak\TestProject1\Intermediate\Android\armv7/assets
+  AddRepositories: Directory C:\Users\jonah\AppData\Local\Android\Sdk\extras not found; ignored
+  Added repository: ..\Source\ThirdParty\Android\extras\google\m2repository
+  Added repository: ..\Source\ThirdParty\Android\extras\android\m2repository
+  AARImports: com.google.android.gms, play-services-auth, 11.8.0
+  AARImports: com.google.android.gms, play-services-games, 11.8.0
+  AARImports: com.google.android.gms, play-services-nearby, 11.8.0
+  AARImports: com.google.android.gms, play-services-plus, 11.8.0
+  Copying Google Play BillingApiV2 java files
+  
+  Directory ../Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Java/BillingApiV2 copied to C:/Projects/StutterSpeak/TestProject1/Intermediate/Android/armv7/src
+  Copying permission_library directory to staging before build
+  
+  Directory ..//Source/ThirdParty/AndroidPermission/permission_library copied to C:/Projects/StutterSpeak/TestProject1/Intermediate/Android/armv7/JavaLibs/permission_library
+  
+  ==== Writing to OBB data file C:\Projects\StutterSpeak\TestProject1\Intermediate\Android\armv7\src\com\StutterStudio\TestProject1\OBBData.java ====
+  
+  ==== OBB data file up to date so not writing. ====
+  
+  Copying new .so C:\Projects\StutterSpeak\TestProject1\Binaries\Android\TestProject1-armv7.so file to jni folder...
+  Copying libplaycore.so and proguard files
+  
+  File D:/Unreal/UE_4.26/Engine/Plugins/Runtime/GooglePAD/Source/GooglePAD/../ThirdParty/play-core-native-sdk/libs/armeabi-v7a/ndk21.4.7075529/c++_shared/libplaycore.so copied to C:/Projects/StutterSpeak/TestProject1/Intermediate/Android/armv7/libs/armeabi-v7a/libplaycore.so
+  Copying libvrapi.so
+  
+  File ..//Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/ExtLibs/armeabi-v7a/libvrapi.so copied to C:/Projects/StutterSpeak/TestProject1/Intermediate/Android/armv7/libs/armeabi-v7a/libvrapi.so
+  Copying libOVRPlugin.so
+  
+  File ..//Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Lib/armeabi-v7a/libOVRPlugin.so copied to C:/Projects/StutterSpeak/TestProject1/Intermediate/Android/armv7/libs/armeabi-v7a/libOVRPlugin.so
+  
+  File ..//Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/ExtLibs/VrApi.jar does not exist, not copied!
+  
+  File ..//Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/ExtLibs/SystemUtils.jar does not exist, not copied!
+  
+  ====5/27/2021 1:04:52 PM====PERFORMING FINAL APK PACKAGE OPERATION=====-armv7===========================================
+  Copying C:\Projects\StutterSpeak\TestProject1\Intermediate\Android\armv7\AndroidManifest.xml to C:\Projects\StutterSpeak\TestProject1\Intermediate\Android\armv7\gradle\app\src\main\AndroidManifest.xml
+  Copied file C:\Projects\StutterSpeak\TestProject1\Intermediate\Android\armv7\gradle\app\src\main\jniLibs\armeabi-v7a\libUE4.so.
+  Deleting unneeded file C:\Projects\StutterSpeak\TestProject1\Intermediate\Android\armv7\gradle\app\src\main\assets\UE4CommandLine.txt.
+  
+  Creating rungradle.bat to work around commandline length limit (using unused drive letter Z:)
+  Making .apk with Gradle...
+  To honour the JVM settings for this build a new JVM will be forked. Please consider using the daemon: https://docs.gradle.org/6.1.1/userguide/gradle_daemon.html.
+  Daemon will be stopped at the end of the build stopping after processing
+  > Task :app:preBuild UP-TO-DATE
+  > Task :app:preDebugBuild UP-TO-DATE
+  > Task :downloader_library:preBuild UP-TO-DATE
+  > Task :downloader_library:preDebugBuild UP-TO-DATE
+  > Task :downloader_library:compileDebugAidl NO-SOURCE
+  > Task :permission_library:preBuild UP-TO-DATE
+  > Task :permission_library:preDebugBuild UP-TO-DATE
+  > Task :permission_library:compileDebugAidl NO-SOURCE
+  > Task :app:compileDebugAidl UP-TO-DATE
+  > Task :downloader_library:packageDebugRenderscript NO-SOURCE
+  > Task :permission_library:packageDebugRenderscript NO-SOURCE
+  > Task :app:compileDebugRenderscript NO-SOURCE
+  > Task :app:generateDebugBuildConfig UP-TO-DATE
+  > Task :app:javaPreCompileDebug UP-TO-DATE
+  > Task :app:generateDebugResValues UP-TO-DATE
+  > Task :app:generateDebugResources UP-TO-DATE
+  > Task :downloader_library:compileDebugRenderscript NO-SOURCE
+  > Task :downloader_library:generateDebugResValues UP-TO-DATE
+  > Task :downloader_library:generateDebugResources UP-TO-DATE
+  > Task :downloader_library:packageDebugResources UP-TO-DATE
+  > Task :permission_library:compileDebugRenderscript NO-SOURCE
+  > Task :permission_library:generateDebugResValues UP-TO-DATE
+  > Task :permission_library:generateDebugResources UP-TO-DATE
+  > Task :permission_library:packageDebugResources UP-TO-DATE
+  > Task :app:mergeDebugResources UP-TO-DATE
+  > Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+  > Task :app:extractDeepLinksDebug UP-TO-DATE
+  > Task :downloader_library:extractDeepLinksDebug UP-TO-DATE
+  > Task :downloader_library:processDebugManifest UP-TO-DATE
+  > Task :permission_library:extractDeepLinksDebug UP-TO-DATE
+  > Task :permission_library:processDebugManifest UP-TO-DATE
+  > Task :app:processDebugManifest
+  > Task :downloader_library:compileDebugLibraryResources UP-TO-DATE
+  > Task :downloader_library:parseDebugLocalResources UP-TO-DATE
+  > Task :downloader_library:generateDebugRFile UP-TO-DATE
+  > Task :permission_library:compileDebugLibraryResources UP-TO-DATE
+  > Task :permission_library:parseDebugLocalResources UP-TO-DATE
+  > Task :permission_library:generateDebugRFile UP-TO-DATE
+  > Task :app:processDebugResources
+  > Task :downloader_library:generateDebugBuildConfig UP-TO-DATE
+  > Task :downloader_library:javaPreCompileDebug UP-TO-DATE
+  > Task :downloader_library:compileDebugJavaWithJavac UP-TO-DATE
+  > Task :downloader_library:bundleLibCompileToJarDebug UP-TO-DATE
+  > Task :permission_library:generateDebugBuildConfig UP-TO-DATE
+  > Task :permission_library:javaPreCompileDebug UP-TO-DATE
+  > Task :permission_library:compileDebugJavaWithJavac UP-TO-DATE
+  > Task :permission_library:bundleLibCompileToJarDebug UP-TO-DATE
+  > Task :app:compileDebugJavaWithJavac UP-TO-DATE
+  > Task :app:compileDebugSources UP-TO-DATE
+  > Task :app:mergeDebugShaders UP-TO-DATE
+  > Task :app:compileDebugShaders NO-SOURCE
+  > Task :app:generateDebugAssets UP-TO-DATE
+  > Task :downloader_library:mergeDebugShaders UP-TO-DATE
+  > Task :downloader_library:compileDebugShaders NO-SOURCE
+  > Task :downloader_library:generateDebugAssets UP-TO-DATE
+  > Task :downloader_library:packageDebugAssets UP-TO-DATE
+  > Task :permission_library:mergeDebugShaders UP-TO-DATE
+  > Task :permission_library:compileDebugShaders NO-SOURCE
+  > Task :permission_library:generateDebugAssets UP-TO-DATE
+  > Task :permission_library:packageDebugAssets UP-TO-DATE
+  > Task :app:mergeDebugAssets
+  > Task :app:processDebugJavaRes NO-SOURCE
+  > Task :downloader_library:processDebugJavaRes NO-SOURCE
+  > Task :downloader_library:bundleLibResDebug NO-SOURCE
+  > Task :permission_library:processDebugJavaRes NO-SOURCE
+  > Task :permission_library:bundleLibResDebug NO-SOURCE
+  > Task :app:mergeDebugJavaResource UP-TO-DATE
+  > Task :app:checkDebugDuplicateClasses UP-TO-DATE
+  > Task :app:mergeExtDexDebug UP-TO-DATE
+  > Task :downloader_library:bundleLibRuntimeToJarDebug UP-TO-DATE
+  > Task :permission_library:bundleLibRuntimeToJarDebug UP-TO-DATE
+  > Task :app:dexBuilderDebug UP-TO-DATE
+  > Task :app:mergeLibDexDebug UP-TO-DATE
+  > Task :app:mergeProjectDexDebug UP-TO-DATE
+  > Task :app:mergeDebugJniLibFolders
+  > Task :downloader_library:mergeDebugJniLibFolders UP-TO-DATE
+  > Task :downloader_library:mergeDebugNativeLibs UP-TO-DATE
+  > Task :downloader_library:stripDebugDebugSymbols NO-SOURCE
+  > Task :downloader_library:copyDebugJniLibsProjectOnly UP-TO-DATE
+  > Task :permission_library:mergeDebugJniLibFolders UP-TO-DATE
+  > Task :permission_library:mergeDebugNativeLibs UP-TO-DATE
+  > Task :permission_library:stripDebugDebugSymbols NO-SOURCE
+  > Task :permission_library:copyDebugJniLibsProjectOnly UP-TO-DATE
+  > Task :app:validateSigningDebug UP-TO-DATE
+  > Task :app:mergeDebugNativeLibs
+  > Task :app:stripDebugDebugSymbols
+  > Task :app:packageDebug
+  > Task :app:assembleDebug
+  > Task :app:ue4CompleteDebug
+  
+  BUILD SUCCESSFUL in 28s
+  58 actionable tasks: 8 executed, 50 up-to-date
+  Writing symbols to C:\Projects\StutterSpeak\TestProject1\Binaries/Android\TestProject1_Symbols_v1/TestProject1-armv7\libUE4.so
+  
+  ====5/27/2021 1:05:24 PM====COMPLETED MAKE APK=======================================================================
+  Total execution time: 96.14 seconds

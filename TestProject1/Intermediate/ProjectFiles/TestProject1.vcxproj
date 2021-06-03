@@ -33,6 +33,14 @@
       <Configuration>IOS_DebugGame</Configuration>
       <Platform>x64</Platform>
     </ProjectConfiguration>
+    <ProjectConfiguration Include="Android_DebugGame|Win32">
+      <Configuration>Android_DebugGame</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Android_DebugGame|x64">
+      <Configuration>Android_DebugGame</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
     <ProjectConfiguration Include="Development|Win32">
       <Configuration>Development</Configuration>
       <Platform>Win32</Platform>
@@ -57,6 +65,14 @@
       <Configuration>IOS_Development</Configuration>
       <Platform>x64</Platform>
     </ProjectConfiguration>
+    <ProjectConfiguration Include="Android_Development|Win32">
+      <Configuration>Android_Development</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Android_Development|x64">
+      <Configuration>Android_Development</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
     <ProjectConfiguration Include="Shipping|Win32">
       <Configuration>Shipping</Configuration>
       <Platform>Win32</Platform>
@@ -71,6 +87,14 @@
     </ProjectConfiguration>
     <ProjectConfiguration Include="IOS_Shipping|x64">
       <Configuration>IOS_Shipping</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Android_Shipping|Win32">
+      <Configuration>Android_Shipping</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Android_Shipping|x64">
+      <Configuration>Android_Shipping</Configuration>
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
@@ -125,6 +149,16 @@
     <PlatformToolset>v142</PlatformToolset>
     <PlatformToolset Condition="'$(VisualStudioVersion)' == '15.0'">v141</PlatformToolset>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_DebugGame|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '15.0'">v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_DebugGame|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '15.0'">v141</PlatformToolset>
+  </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|Win32'" Label="Configuration">
     <ConfigurationType>Makefile</ConfigurationType>
     <PlatformToolset>v142</PlatformToolset>
@@ -155,6 +189,16 @@
     <PlatformToolset>v142</PlatformToolset>
     <PlatformToolset Condition="'$(VisualStudioVersion)' == '15.0'">v141</PlatformToolset>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_Development|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '15.0'">v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_Development|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '15.0'">v141</PlatformToolset>
+  </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|Win32'" Label="Configuration">
     <ConfigurationType>Makefile</ConfigurationType>
     <PlatformToolset>v142</PlatformToolset>
@@ -171,6 +215,16 @@
     <PlatformToolset Condition="'$(VisualStudioVersion)' == '15.0'">v141</PlatformToolset>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IOS_Shipping|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '15.0'">v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_Shipping|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset Condition="'$(VisualStudioVersion)' == '15.0'">v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_Shipping|x64'" Label="Configuration">
     <ConfigurationType>Makefile</ConfigurationType>
     <PlatformToolset>v142</PlatformToolset>
     <PlatformToolset Condition="'$(VisualStudioVersion)' == '15.0'">v141</PlatformToolset>
@@ -262,6 +316,23 @@
     <NMakeCleanCommandLine>D:\Unreal\UE_4.26\Engine\Build\BatchFiles\Clean.bat TestProject1 IOS DebugGame -Project="$(SolutionDir)TestProject1.uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
     <NMakeOutput>..\..\Binaries\IOS\TestProject1-IOS-DebugGame</NMakeOutput>
   </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Android_DebugGame|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_DebugGame|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\Unreal\UE_4.26\Engine\Build\BatchFiles\Build.bat TestProject1 Android DebugGame -Project="$(SolutionDir)TestProject1.uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\Unreal\UE_4.26\Engine\Build\BatchFiles\Rebuild.bat TestProject1 Android DebugGame -Project="$(SolutionDir)TestProject1.uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\Unreal\UE_4.26\Engine\Build\BatchFiles\Clean.bat TestProject1 Android DebugGame -Project="$(SolutionDir)TestProject1.uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\Android\TestProject1-Android-DebugGame.so</NMakeOutput>
+  </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Development|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
   </ImportGroup>
@@ -330,6 +401,23 @@
     <NMakeCleanCommandLine>D:\Unreal\UE_4.26\Engine\Build\BatchFiles\Clean.bat TestProject1 IOS Development -Project="$(SolutionDir)TestProject1.uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
     <NMakeOutput>..\..\Binaries\IOS\TestProject1</NMakeOutput>
   </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Android_Development|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_Development|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\Unreal\UE_4.26\Engine\Build\BatchFiles\Build.bat TestProject1 Android Development -Project="$(SolutionDir)TestProject1.uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\Unreal\UE_4.26\Engine\Build\BatchFiles\Rebuild.bat TestProject1 Android Development -Project="$(SolutionDir)TestProject1.uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\Unreal\UE_4.26\Engine\Build\BatchFiles\Clean.bat TestProject1 Android Development -Project="$(SolutionDir)TestProject1.uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\Android\TestProject1.so</NMakeOutput>
+  </PropertyGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
   </ImportGroup>
@@ -381,6 +469,23 @@
     <NMakeCleanCommandLine>D:\Unreal\UE_4.26\Engine\Build\BatchFiles\Clean.bat TestProject1 IOS Shipping -Project="$(SolutionDir)TestProject1.uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
     <NMakeOutput>..\..\Binaries\IOS\TestProject1-IOS-Shipping</NMakeOutput>
   </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Android_Shipping|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_Shipping|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\Unreal\UE_4.26\Engine\Build\BatchFiles\Build.bat TestProject1 Android Shipping -Project="$(SolutionDir)TestProject1.uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\Unreal\UE_4.26\Engine\Build\BatchFiles\Rebuild.bat TestProject1 Android Shipping -Project="$(SolutionDir)TestProject1.uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\Unreal\UE_4.26\Engine\Build\BatchFiles\Clean.bat TestProject1 Android Shipping -Project="$(SolutionDir)TestProject1.uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\Android\TestProject1-Android-Shipping.so</NMakeOutput>
+  </PropertyGroup>
   <PropertyGroup>
     <NMakePreprocessorDefinitions>$(NMakePreprocessorDefinitions)</NMakePreprocessorDefinitions>
     <IncludePath>$(IncludePath);D:\Unreal\UE_4.26\Engine\Source;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine;D:\Unreal\UE_4.26\Engine\Source\Runtime;D:\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Classes;D:\Unreal\UE_4.26\Engine\Source\Runtime\Engine\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Core;D:\Unreal\UE_4.26\Engine\Source\Runtime\TraceLog\Public;D:\Unreal\UE_4.26\Engine\Source\Runtime\Core\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\TraceLog;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject;D:\Unreal\UE_4.26\Engine\Source\Runtime\CoreUObject\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NetCore;D:\Unreal\UE_4.26\Engine\Source\Runtime\Net;D:\Unreal\UE_4.26\Engine\Source\Runtime\Net\Core\Classes;D:\Unreal\UE_4.26\Engine\Source\Runtime\Net\Core\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ApplicationCore;D:\Unreal\UE_4.26\Engine\Source\Runtime\ApplicationCore\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\RHI;D:\Unreal\UE_4.26\Engine\Source\Runtime\RHI\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Json;D:\Unreal\UE_4.26\Engine\Source\Runtime\Json\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore;D:\Unreal\UE_4.26\Engine\Source\Runtime\SlateCore\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\InputCore;D:\Unreal\UE_4.26\Engine\Source\Runtime\InputCore\Classes;D:\Unreal\UE_4.26\Engine\Source\Runtime\InputCore\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate;D:\Unreal\UE_4.26\Engine\Source\Runtime\Slate\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ImageWrapper;D:\Unreal\UE_4.26\Engine\Source\Runtime\ImageWrapper\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Messaging;D:\Unreal\UE_4.26\Engine\Source\Runtime\Messaging\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MessagingCommon;D:\Unreal\UE_4.26\Engine\Source\Runtime\MessagingCommon\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\RenderCore;D:\Unreal\UE_4.26\Engine\Source\Runtime\RenderCore\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnalyticsET;D:\Unreal\UE_4.26\Engine\Source\Runtime\Analytics;D:\Unreal\UE_4.26\Engine\Source\Runtime\Analytics\AnalyticsET\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Analytics;D:\Unreal\UE_4.26\Engine\Source\Runtime\Analytics\Analytics\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Sockets;D:\Unreal\UE_4.26\Engine\Source\Runtime\Sockets\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NetCommon;D:\Unreal\UE_4.26\Engine\Source\Runtime\Net\Common\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry;D:\Unreal\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EngineMessages;D:\Unreal\UE_4.26\Engine\Source\Runtime\EngineMessages\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EngineSettings;D:\Unreal\UE_4.26\Engine\Source\Runtime\EngineSettings\Classes;D:\Unreal\UE_4.26\Engine\Source\Runtime\EngineSettings\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SynthBenchmark;D:\Unreal\UE_4.26\Engine\Source\Runtime\SynthBenchmark\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Renderer;D:\Unreal\UE_4.26\Engine\Source\Runtime\Renderer\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags;D:\Unreal\UE_4.26\Engine\Source\Runtime\GameplayTags\Classes;D:\Unreal\UE_4.26\Engine\Source\Runtime\GameplayTags\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PacketHandler;D:\Unreal\UE_4.26\Engine\Source\Runtime\PacketHandlers;D:\Unreal\UE_4.26\Engine\Source\Runtime\PacketHandlers\PacketHandler\Classes;D:\Unreal\UE_4.26\Engine\Source\Runtime\PacketHandlers\PacketHandler\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ReliabilityHandlerComponent;D:\Unreal\UE_4.26\Engine\Source\Runtime\PacketHandlers\ReliabilityHandlerComponent\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioPlatformConfiguration;D:\Unreal\UE_4.26\Engine\Source\Runtime\AudioPlatformConfiguration\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescription;D:\Unreal\UE_4.26\Engine\Source\Runtime\MeshDescription\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\StaticMeshDescription;D:\Unreal\UE_4.26\Engine\Source\Runtime\StaticMeshDescription\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PakFile;D:\Unreal\UE_4.26\Engine\Source\Runtime\PakFile\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\RSA;D:\Unreal\UE_4.26\Engine\Source\Runtime\RSA\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NetworkReplayStreaming;D:\Unreal\UE_4.26\Engine\Source\Runtime\NetworkReplayStreaming;D:\Unreal\UE_4.26\Engine\Source\Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore;D:\Unreal\UE_4.26\Engine\Source\Runtime\PhysicsCore\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\DeveloperSettings;D:\Unreal\UE_4.26\Engine\Source\Runtime\DeveloperSettings\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Chaos;D:\Unreal\UE_4.26\Engine\Source\Runtime\Experimental;D:\Unreal\UE_4.26\Engine\Source\Runtime\Experimental\Chaos\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ChaosCore;D:\Unreal\UE_4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\Intel;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Voronoi;D:\Unreal\UE_4.26\Engine\Source\Runtime\Experimental\Voronoi\Public;D:\Unreal\UE_4.26\Engine\Source\ThirdParty;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SignalProcessing;D:\Unreal\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioExtensions;D:\Unreal\UE_4.26\Engine\Source\Runtime\AudioExtensions\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixerCore;D:\Unreal\UE_4.26\Engine\Source\Runtime\AudioMixerCore\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyAccess;D:\Unreal\UE_4.26\Engine\Source\Runtime\PropertyAccess\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd;D:\Unreal\UE_4.26\Engine\Source\Editor;D:\Unreal\UE_4.26\Engine\Source\Programs\UnrealLightmass\Public;D:\Unreal\UE_4.26\Engine\Source\Developer\Android\AndroidDeviceDetection\Public\Interfaces;D:\Unreal\UE_4.26\Engine\Source\Editor\UnrealEd\Classes;D:\Unreal\UE_4.26\Engine\Source\Editor\UnrealEd\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\DirectoryWatcher;D:\Unreal\UE_4.26\Engine\Source\Developer;D:\Unreal\UE_4.26\Engine\Source\Developer\DirectoryWatcher\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Documentation;D:\Unreal\UE_4.26\Engine\Source\Editor\Documentation\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Projects;D:\Unreal\UE_4.26\Engine\Source\Runtime\Projects\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SandboxFile;D:\Unreal\UE_4.26\Engine\Source\Runtime\SandboxFile\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EditorStyle;D:\Unreal\UE_4.26\Engine\Source\Editor\EditorStyle\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SourceControl;D:\Unreal\UE_4.26\Engine\Source\Developer\SourceControl\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEdMessages;D:\Unreal\UE_4.26\Engine\Source\Editor\UnrealEdMessages\Classes;D:\Unreal\UE_4.26\Engine\Source\Editor\UnrealEdMessages\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayDebugger;D:\Unreal\UE_4.26\Engine\Source\Developer\GameplayDebugger\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph;D:\Unreal\UE_4.26\Engine\Source\Editor\BlueprintGraph\Classes;D:\Unreal\UE_4.26\Engine\Source\Editor\BlueprintGraph\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EditorSubsystem;D:\Unreal\UE_4.26\Engine\Source\Editor\EditorSubsystem\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HTTP;D:\Unreal\UE_4.26\Engine\Source\Runtime\Online;D:\Unreal\UE_4.26\Engine\Source\Runtime\Online\HTTP\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealAudio;D:\Unreal\UE_4.26\Engine\Source\Runtime\UnrealAudio\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\FunctionalTesting;D:\Unreal\UE_4.26\Engine\Source\Developer\FunctionalTesting\Classes;D:\Unreal\UE_4.26\Engine\Source\Developer\FunctionalTesting\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AutomationController;D:\Unreal\UE_4.26\Engine\Source\Developer\AutomationController\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Localization;D:\Unreal\UE_4.26\Engine\Source\Developer\Localization\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioEditor;D:\Unreal\UE_4.26\Engine\Source\Editor\AudioEditor\Classes;D:\Unreal\UE_4.26\Engine\Source\Editor\AudioEditor\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer;D:\Unreal\UE_4.26\Engine\Source\Runtime\AudioMixer\Classes;D:\Unreal\UE_4.26\Engine\Source\Runtime\AudioMixer\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\TargetPlatform;D:\Unreal\UE_4.26\Engine\Source\Developer\TargetPlatform\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\LevelEditor;D:\Unreal\UE_4.26\Engine\Source\Editor\LevelEditor\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Settings;D:\Unreal\UE_4.26\Engine\Source\Developer\Settings\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\IntroTutorials;D:\Unreal\UE_4.26\Engine\Source\Editor\IntroTutorials\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay;D:\Unreal\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\VREditor;D:\Unreal\UE_4.26\Engine\Source\Editor\VREditor;D:\Unreal\UE_4.26\Engine\Source\Editor\VREditor\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CommonMenuExtensions;D:\Unreal\UE_4.26\Engine\Source\Editor\CommonMenuExtensions\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Landscape;D:\Unreal\UE_4.26\Engine\Source\Runtime\Landscape\Classes;D:\Unreal\UE_4.26\Engine\Source\Runtime\Landscape\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyEditor;D:\Unreal\UE_4.26\Engine\Source\Editor\PropertyEditor\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ActorPickerMode;D:\Unreal\UE_4.26\Engine\Source\Editor\ActorPickerMode\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SceneDepthPickerMode;D:\Unreal\UE_4.26\Engine\Source\Editor\SceneDepthPickerMode\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\DetailCustomizations;D:\Unreal\UE_4.26\Engine\Source\Editor\DetailCustomizations\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ClassViewer;D:\Unreal\UE_4.26\Engine\Source\Editor\ClassViewer\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GraphEditor;D:\Unreal\UE_4.26\Engine\Source\Editor\GraphEditor\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\StructViewer;D:\Unreal\UE_4.26\Engine\Source\Editor\StructViewer\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowser;D:\Unreal\UE_4.26\Engine\Source\Editor\ContentBrowser\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData;D:\Unreal\UE_4.26\Engine\Source\Editor\ContentBrowserData\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CollectionManager;D:\Unreal\UE_4.26\Engine\Source\Developer\CollectionManager\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UELibSampleRate;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\libSampleRate\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NetworkFileSystem;D:\Unreal\UE_4.26\Engine\Source\Runtime\NetworkFileSystem\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG;D:\Unreal\UE_4.26\Engine\Source\Runtime\UMG\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene;D:\Unreal\UE_4.26\Engine\Source\Runtime\MovieScene\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\TimeManagement;D:\Unreal\UE_4.26\Engine\Source\Runtime\TimeManagement\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks;D:\Unreal\UE_4.26\Engine\Source\Runtime\MovieSceneTracks\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimationCore;D:\Unreal\UE_4.26\Engine\Source\Runtime\AnimationCore\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath;D:\Unreal\UE_4.26\Engine\Source\Runtime\PropertyPath\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem;D:\Unreal\UE_4.26\Engine\Source\Runtime\NavigationSystem\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshBuilder;D:\Unreal\UE_4.26\Engine\Source\Developer\MeshBuilder\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MaterialShaderQualitySettings;D:\Unreal\UE_4.26\Engine\Source\Runtime\MaterialShaderQualitySettings\Classes;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\InteractiveToolsFramework;D:\Unreal\UE_4.26\Engine\Source\Runtime\Experimental\InteractiveToolsFramework\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenusEditor;D:\Unreal\UE_4.26\Engine\Source\Editor\ToolMenusEditor\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus;D:\Unreal\UE_4.26\Engine\Source\Developer\ToolMenus\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\XAudio2;D:\Unreal\UE_4.26\Engine\Source\Runtime\Windows;D:\Unreal\UE_4.26\Engine\Source\Runtime\Windows\XAudio2\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixerXAudio2;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetTagsEditor;D:\Unreal\UE_4.26\Engine\Source\Editor\AssetTagsEditor\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AddContentDialog;D:\Unreal\UE_4.26\Engine\Source\Editor\AddContentDialog\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshUtilities;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\Intel\Embree\Embree2140\Win64\include;D:\Unreal\UE_4.26\Engine\Source\Developer\MeshUtilities\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshMergeUtilities;D:\Unreal\UE_4.26\Engine\Source\Developer\MeshMergeUtilities\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HierarchicalLODUtilities;D:\Unreal\UE_4.26\Engine\Source\Developer\HierarchicalLODUtilities\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshReductionInterface;D:\Unreal\UE_4.26\Engine\Source\Developer\MeshReductionInterface\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetTools;D:\Unreal\UE_4.26\Engine\Source\Developer\AssetTools\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\KismetCompiler;D:\Unreal\UE_4.26\Engine\Source\Editor\KismetCompiler\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks;D:\Unreal\UE_4.26\Engine\Source\Runtime\GameplayTasks\Classes;D:\Unreal\UE_4.26\Engine\Source\Runtime\GameplayTasks\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule;D:\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Public;D:\Unreal\UE_4.26\Engine\Source\Runtime\AIModule\Classes;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Kismet;D:\Unreal\UE_4.26\Engine\Source\Editor\Kismet\Classes;D:\Unreal\UE_4.26\Engine\Source\Editor\Kismet\Public;D:\Unreal\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface;D:\Unreal\UE_4.26\Engine\Source\Runtime\ClothingSystemRuntimeInterface\Public;..\Build\Win64\UE4Editor\Inc\TestProject1;..\..\Source;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;;</IncludePath>
@@ -424,11 +529,11 @@
     <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_knee.json"/>
     <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_shoulder.json"/>
     <None Include="..\..\Config\SteamVRBindings\vive_tracker_waist.json"/>
-    <ClCompile Include="..\..\Source\TestProject1\IOFileSurfer.cpp">
+    <ClCompile Include="..\..\Source\TestProject1\GetFileDirectory.cpp">
       <AdditionalIncludeDirectories>$(NMakeIncludeSearchPath);D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\filebuf;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\pvd;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\task;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\legacy;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\PhysX3;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\common\include;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\common\include\autogen;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\framework\include;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\framework\include\autogen;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\shared\internal\include;</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>$(NMakeForcedIncludes);$(SolutionDir)Intermediate\Build\Win64\UE4Editor\Development\TestProject1\Definitions.TestProject1.h;$(SolutionDir)Intermediate\Build\Win64\TestProject1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h</ForcedIncludeFiles>
     </ClCompile>
-    <ClInclude Include="..\..\Source\TestProject1\IOFileSurfer.h"/>
+    <ClInclude Include="..\..\Source\TestProject1\GetFileDirectory.h"/>
     <ClCompile Include="..\..\Source\TestProject1\ReadWriter.cpp">
       <AdditionalIncludeDirectories>$(NMakeIncludeSearchPath);D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\filebuf;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\pvd;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PxShared\include\task;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\legacy;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\PhysX3;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\common\include;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\common\include\autogen;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\framework\include;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\framework\include\autogen;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include;D:\Unreal\UE_4.26\Engine\Source\ThirdParty\PhysX3\APEX_1.4\shared\internal\include;</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>$(NMakeForcedIncludes);$(SolutionDir)Intermediate\Build\Win64\UE4Editor\Development\TestProject1\Definitions.TestProject1.h;$(SolutionDir)Intermediate\Build\Win64\TestProject1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h</ForcedIncludeFiles>
