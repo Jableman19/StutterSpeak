@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TestProject1.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{BBA98B1C-4960-41F4-A5E3-7326CCB21A5B}</UniqueIdentifier>
+      <UniqueIdentifier>{45C9A5A4-859B-4AB9-A4A9-4E41D68B96BB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TestProject1.Target.cs">
       <Filter>Source</Filter>
@@ -12,8 +12,11 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{B4440294-1ECC-4334-824B-95A29A86BA00}</UniqueIdentifier>
+      <UniqueIdentifier>{E4B12DEF-7BEC-4171-8714-EA1CA6C7BFC7}</UniqueIdentifier>
     </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
       <Filter>Config</Filter>
     </None>
@@ -33,7 +36,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\SteamVRBindings">
-      <UniqueIdentifier>{EFFB7299-B321-4945-9C22-36A9B5CAC8F1}</UniqueIdentifier>
+      <UniqueIdentifier>{9418A43A-967A-45A0-B450-AE525D6B2313}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\SteamVRBindings\gamepad.json">
       <Filter>Config\SteamVRBindings</Filter>
@@ -114,14 +117,8 @@
       <Filter>Config\SteamVRBindings</Filter>
     </None>
     <Filter Include="Source\TestProject1">
-      <UniqueIdentifier>{AD74B91A-A251-4031-80BA-6832A1CAFA18}</UniqueIdentifier>
+      <UniqueIdentifier>{58FCF6F6-692D-4352-B04D-711535671E3A}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\TestProject1\GetFileDirectory.cpp">
-      <Filter>Source\TestProject1</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\TestProject1\GetFileDirectory.h">
-      <Filter>Source\TestProject1</Filter>
-    </ClInclude>
     <ClCompile Include="..\..\Source\TestProject1\ReadWriter.cpp">
       <Filter>Source\TestProject1</Filter>
     </ClCompile>
@@ -135,6 +132,12 @@
       <Filter>Source\TestProject1</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\TestProject1\TestProject1.h">
+      <Filter>Source\TestProject1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject1\TextScrollingWhileLoop.cpp">
+      <Filter>Source\TestProject1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject1\TextScrollingWhileLoop.h">
       <Filter>Source\TestProject1</Filter>
     </ClInclude>
   </ItemGroup>
