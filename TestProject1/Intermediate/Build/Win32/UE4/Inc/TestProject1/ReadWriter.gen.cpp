@@ -18,6 +18,14 @@ void EmptyLinkFunctionForGeneratedCodeReadWriter() {}
 	ENGINE_API UClass* Z_Construct_UClass_UBlueprintFunctionLibrary();
 	UPackage* Z_Construct_UPackage__Script_TestProject1();
 // End Cross Module References
+	DEFINE_FUNCTION(UReadWriter::execRecordingDirectory)
+	{
+		P_GET_PROPERTY(FStrProperty,Z_Param_Filename);
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		*(FString*)Z_Param__Result=UReadWriter::RecordingDirectory(Z_Param_Filename);
+		P_NATIVE_END;
+	}
 	DEFINE_FUNCTION(UReadWriter::execSaveStringToFile)
 	{
 		P_GET_PROPERTY(FStrProperty,Z_Param_Filename);
@@ -40,6 +48,7 @@ void EmptyLinkFunctionForGeneratedCodeReadWriter() {}
 		UClass* Class = UReadWriter::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "LoadFileToString", &UReadWriter::execLoadFileToString },
+			{ "RecordingDirectory", &UReadWriter::execRecordingDirectory },
 			{ "SaveStringToFile", &UReadWriter::execSaveStringToFile },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
@@ -78,6 +87,43 @@ void EmptyLinkFunctionForGeneratedCodeReadWriter() {}
 		if (!ReturnFunction)
 		{
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_UReadWriter_LoadFileToString_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_UReadWriter_RecordingDirectory_Statics
+	{
+		struct ReadWriter_eventRecordingDirectory_Parms
+		{
+			FString Filename;
+			FString ReturnValue;
+		};
+		static const UE4CodeGen_Private::FStrPropertyParams NewProp_Filename;
+		static const UE4CodeGen_Private::FStrPropertyParams NewProp_ReturnValue;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FStrPropertyParams Z_Construct_UFunction_UReadWriter_RecordingDirectory_Statics::NewProp_Filename = { "Filename", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ReadWriter_eventRecordingDirectory_Parms, Filename), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FStrPropertyParams Z_Construct_UFunction_UReadWriter_RecordingDirectory_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UE4CodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ReadWriter_eventRecordingDirectory_Parms, ReturnValue), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_UReadWriter_RecordingDirectory_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UReadWriter_RecordingDirectory_Statics::NewProp_Filename,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UReadWriter_RecordingDirectory_Statics::NewProp_ReturnValue,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UReadWriter_RecordingDirectory_Statics::Function_MetaDataParams[] = {
+		{ "Category", "File I/O" },
+		{ "ModuleRelativePath", "ReadWriter.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UReadWriter_RecordingDirectory_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UReadWriter, nullptr, "RecordingDirectory", nullptr, nullptr, sizeof(ReadWriter_eventRecordingDirectory_Parms), Z_Construct_UFunction_UReadWriter_RecordingDirectory_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UReadWriter_RecordingDirectory_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04042401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UReadWriter_RecordingDirectory_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UReadWriter_RecordingDirectory_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_UReadWriter_RecordingDirectory()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_UReadWriter_RecordingDirectory_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -142,6 +188,7 @@ void EmptyLinkFunctionForGeneratedCodeReadWriter() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_UReadWriter_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_UReadWriter_LoadFileToString, "LoadFileToString" }, // 1781987335
+		{ &Z_Construct_UFunction_UReadWriter_RecordingDirectory, "RecordingDirectory" }, // 2695705503
 		{ &Z_Construct_UFunction_UReadWriter_SaveStringToFile, "SaveStringToFile" }, // 4085362507
 	};
 #if WITH_METADATA
@@ -179,7 +226,7 @@ void EmptyLinkFunctionForGeneratedCodeReadWriter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UReadWriter, 2983643713);
+	IMPLEMENT_CLASS(UReadWriter, 144665338);
 	template<> TESTPROJECT1_API UClass* StaticClass<UReadWriter>()
 	{
 		return UReadWriter::StaticClass();
