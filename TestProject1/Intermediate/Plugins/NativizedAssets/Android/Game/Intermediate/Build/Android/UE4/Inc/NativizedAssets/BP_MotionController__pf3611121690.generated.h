@@ -1,0 +1,154 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class AActor;
+struct FKey;
+class UPrimitiveComponent;
+struct FHitResult;
+#ifdef NATIVIZEDASSETS_BP_MotionController__pf3611121690_generated_h
+#error "BP_MotionController__pf3611121690.generated.h already included, missing '#pragma once' in BP_MotionController__pf3611121690.h"
+#endif
+#define NATIVIZEDASSETS_BP_MotionController__pf3611121690_generated_h
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_SPARSE_DATA
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execbpf__DropActor__pf); \
+	DECLARE_FUNCTION(execbpf__UpdateRoomScaleOutline__pf); \
+	DECLARE_FUNCTION(execbpf__SetupRoomScaleOutline__pf); \
+	DECLARE_FUNCTION(execbpf__GrabActor__pf); \
+	DECLARE_FUNCTION(execbpf__ReleaseActor__pf); \
+	DECLARE_FUNCTION(execbpf__GetActorNearHand__pf); \
+	DECLARE_FUNCTION(execbpf__UserConstructionScript__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_TrackingxStutterxinxSpeechxwxxController_K2Node_InputActionEvent_1__pfTTTTET); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_TrackingxStutterxinxSpeechxwxxController_K2Node_InputActionEvent_0__pfTTTTET); \
+	DECLARE_FUNCTION(execbpf__ReceiveTick__pf); \
+	DECLARE_FUNCTION(execbpf__RumbleController__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveBeginPlay__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__BP_MotionController_HandHit_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature__pf); \
+	DECLARE_FUNCTION(execbpf__ExecuteUbergraph_BP_MotionController__pf_3); \
+	DECLARE_FUNCTION(execbpf__ExecuteUbergraph_BP_MotionController__pf_2);
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execbpf__DropActor__pf); \
+	DECLARE_FUNCTION(execbpf__UpdateRoomScaleOutline__pf); \
+	DECLARE_FUNCTION(execbpf__SetupRoomScaleOutline__pf); \
+	DECLARE_FUNCTION(execbpf__GrabActor__pf); \
+	DECLARE_FUNCTION(execbpf__ReleaseActor__pf); \
+	DECLARE_FUNCTION(execbpf__GetActorNearHand__pf); \
+	DECLARE_FUNCTION(execbpf__UserConstructionScript__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_TrackingxStutterxinxSpeechxwxxController_K2Node_InputActionEvent_1__pfTTTTET); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_TrackingxStutterxinxSpeechxwxxController_K2Node_InputActionEvent_0__pfTTTTET); \
+	DECLARE_FUNCTION(execbpf__ReceiveTick__pf); \
+	DECLARE_FUNCTION(execbpf__RumbleController__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveBeginPlay__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__BP_MotionController_HandHit_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature__pf); \
+	DECLARE_FUNCTION(execbpf__ExecuteUbergraph_BP_MotionController__pf_3); \
+	DECLARE_FUNCTION(execbpf__ExecuteUbergraph_BP_MotionController__pf_2);
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_EVENT_PARMS \
+	struct BP_MotionController_C__pf3611121690_eventbpf__ReceiveTick__pf_Parms \
+	{ \
+		float bpp__DeltaSeconds__pf; \
+	};
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_CALLBACK_WRAPPERS \
+	void eventbpf__ReceiveBeginPlay__pf(); \
+ \
+	void eventbpf__ReceiveTick__pf(float bpp__DeltaSeconds__pf); \
+ \
+	void eventbpf__UserConstructionScript__pf(); \
+
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesABP_MotionController_C__pf3611121690(); \
+	friend struct Z_Construct_UClass_ABP_MotionController_C__pf3611121690_Statics; \
+public: \
+	DECLARE_CLASS(ABP_MotionController_C__pf3611121690, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Game/Starter_Content/VirtualRealityBP/Blueprints/BP_MotionController"), NO_API) \
+	DECLARE_SERIALIZER(ABP_MotionController_C__pf3611121690)
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_INCLASS \
+private: \
+	static void StaticRegisterNativesABP_MotionController_C__pf3611121690(); \
+	friend struct Z_Construct_UClass_ABP_MotionController_C__pf3611121690_Statics; \
+public: \
+	DECLARE_CLASS(ABP_MotionController_C__pf3611121690, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Game/Starter_Content/VirtualRealityBP/Blueprints/BP_MotionController"), NO_API) \
+	DECLARE_SERIALIZER(ABP_MotionController_C__pf3611121690)
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ABP_MotionController_C__pf3611121690(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ABP_MotionController_C__pf3611121690) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ABP_MotionController_C__pf3611121690); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABP_MotionController_C__pf3611121690); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ABP_MotionController_C__pf3611121690(ABP_MotionController_C__pf3611121690&&); \
+	NO_API ABP_MotionController_C__pf3611121690(const ABP_MotionController_C__pf3611121690&); \
+public:
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ABP_MotionController_C__pf3611121690(ABP_MotionController_C__pf3611121690&&); \
+	NO_API ABP_MotionController_C__pf3611121690(const ABP_MotionController_C__pf3611121690&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ABP_MotionController_C__pf3611121690); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABP_MotionController_C__pf3611121690); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ABP_MotionController_C__pf3611121690)
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_PRIVATE_PROPERTY_OFFSET
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_23_PROLOG \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_EVENT_PARMS
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_PRIVATE_PROPERTY_OFFSET \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_SPARSE_DATA \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_RPC_WRAPPERS \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_CALLBACK_WRAPPERS \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_INCLASS \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_PRIVATE_PROPERTY_OFFSET \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_SPARSE_DATA \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_CALLBACK_WRAPPERS \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_INCLASS_NO_PURE_DECLS \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h_27_ENHANCED_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> NATIVIZEDASSETS_API UClass* StaticClass<class ABP_MotionController_C__pf3611121690>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BP_MotionController__pf3611121690_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

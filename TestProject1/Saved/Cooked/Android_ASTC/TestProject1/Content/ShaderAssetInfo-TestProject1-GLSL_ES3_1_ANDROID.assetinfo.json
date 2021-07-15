@@ -2,276 +2,406 @@
 	"AssetInfoVersion": 1,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "E1D7A7CC887135727187772BD517DF7408433EE7",
+			"ShaderMapHash": "B2914CCF9AC4613299A3D910D79F5D5A6D131A7F",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "0F66F176EACB31BCFC0124AECAF14A9B2391059D",
+			"ShaderMapHash": "F23B12B8EAE566B3A17C7CD825BB9D38E60099C2",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "0992E76E0AA39EA7A0C386D6E9182EB108EF8F42",
+			"ShaderMapHash": "6511A2843839F1D25C7078D87F4449A099C84DE6",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "607E46ED199945ED9C98549785F103FEE501ACB4",
+			"ShaderMapHash": "11F7376F16FE4127D77A5E283A6997D865A7569C",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "90A30554A9184908295357452BC7160BD598A856",
+			"ShaderMapHash": "53CE27BF12D4E67D42FC8F099C5B11D4830C1988",
 			"Assets": [
 				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
 				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "3E8B0D35B04A2518EFD6C4ED103F0A54EEF96564",
+			"ShaderMapHash": "13C3F54BF5797C860F8C60038662A61E247E674C",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
-				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset",
-				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "E9D79747EC6B4BE6895D24E02860B007D4221595",
+			"ShaderMapHash": "3ABD1AF6BC3B3F34CCE0FC8D443F0C0CD3490A3F",
 			"Assets": [
 				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset",
 				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "E63F6886A5C898EC363C2A11520F3EC291037476",
+			"ShaderMapHash": "4B757167D7F7A262D7B82F4C03B85E6C2FB6D1CC",
 			"Assets": [
 				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "D4B2EF1A26C5B0801EEFB102645F4A8F6E35303C",
-			"Assets": [
-				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "32B815426115A67A48EA7114CA4EC9C5C2A03155",
-			"Assets": [
-				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "3160789B35CDDCC35C006EDF45B265482310D652",
+			"ShaderMapHash": "8BE8784DBE1E1AAB97454E28EC3BF7A8DF484E40",
 			"Assets": [
 				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "A6292A21E3A1E1035DA36873B04ED773B3D488E7",
+			"ShaderMapHash": "71F16B8BC0190A246AAC533A6D2995D23011DFDD",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "82EB970A4E10D9E45062CD562DC813E914E1ADEE",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "122BD76F689E710F1891B5A91116DA640ECB270E",
 			"Assets": [
 				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "4258904290D4078ED4138D271E6C09FBB8DFB33A",
+			"ShaderMapHash": "D652977482425BBC8703D5EFA315FE755788420B",
 			"Assets": [
 				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "FDED6C206BEFD56B76E722745A40C68CE1A3D036",
+			"ShaderMapHash": "1E32B03DB0EBDBFC593623A1A4462428989FB6A6",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "D48B0D6B52B17699BB9A04EA69BA67039D5A6313",
+			"ShaderMapHash": "F503BAA11311BBF55BFF6D65B6B6394B026F7A58",
 			"Assets": [
 				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "E88BFDC9C9D7BAA5EB790CA8B2CBC20F6D0EBDA8",
+			"ShaderMapHash": "2B96C6C2B525AB89BF2E0B0CFDA4C1B008EC2D7F",
 			"Assets": [
 				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "AA66FE97932BCAC8592CA4CAD5A468EFFE8F9DAE",
-			"Assets": [
-				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A2F8062C844449393EE223009ECC6257FD1D9C9F",
-			"Assets": [
-				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "1018E93C2CA3E08AC57B7F0C24476F29B1FA08BF",
-			"Assets": [
-				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "AE308CD232B7C1527DFB421E81A11D713BAC49DC",
+			"ShaderMapHash": "9DD71B7946F755A32E22B281CB3F3B9D4E2C4FF0",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "86F3F4458409CFF8AE77C07C1E4DB69AE7A922E7",
+			"ShaderMapHash": "4F7D657F6511DFDF1F1CE2079FD9B82D2532F030",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "0C0C5211DD19F923AB39A7DE890F19875375E042",
+			"ShaderMapHash": "C3F04A7AB85677BE5896304F624988680AC33C08",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "688647CBF34DC8414CB08E513B0F4B889950798E",
+			"ShaderMapHash": "87D7E975ADEA0DB781465CF55650C89786FABA0B",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "8A0AB7F6578127AB2C403AEBBF2FB77FC9B492B5",
+			"ShaderMapHash": "FCFAC9A927F8EC0AC18D508AD2147E7627C9AA50",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
 				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "90FA0DB0AB5410EEF45CF5CBD7F32FDF4070BAC3",
+			"ShaderMapHash": "9B767B9979F5105CB2F72B21B6118769BDCB3C2E",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "A2C3AFC3F324736CDBB7185E69CD720B9D70177E",
-			"Assets": [
-				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "6A8AE92D89125CE39F14CC1638DE012014D60FA2",
-			"Assets": [
-				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "46822B0DF273EF59278069F23E29006A2758E9AF",
+			"ShaderMapHash": "79181BB458D4F910F2C352281958F4AC05BBE02B",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "D7DE54BDF3CDDA129863F15A9CE8F6BCC11676BF",
+			"ShaderMapHash": "57FD78DE5A18350CB38007B41EF0EC7482A4DE4C",
 			"Assets": [
 				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "5D338D797C679BA23FD007888A75850ED6E79C15",
+			"ShaderMapHash": "B3C2F306084BAE47DE5505AA9BB122A7BF7A7FFF",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "5174A9F1E5A8B4AF1996358ADFF76605F6445E51",
+			"ShaderMapHash": "05204E6874F11E7B98FBCDD4DD917CB5C776F470",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "52CA91409B9CA2F186AA894289193DFE1EB19208",
+			"ShaderMapHash": "210D6429D088EADA9C4E8D1C192CF29E20461A2F",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "D5333EA2BF0D1BCD435CDA434E38170105A9850C",
+			"ShaderMapHash": "228400923F4F12F5DA1A1350B997ACB18C8E4A57",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "B12E5FAAFDCA214B1C2A5ECA747CDFBBE8DF3493",
+			"ShaderMapHash": "80736868CF0040584357156F9C891FC031885271",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "7C6FBD161B8B19B27BDFEC6FA32D1DDB4E0524F4",
+			"ShaderMapHash": "C9096E999E42A3BBE421E9DD6A90336BB03AF86A",
 			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ProjectorMaterials/Screen/Projector_Screen_Secondary.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "88ECF0B4436E42F43C713F075553C8F72E782287",
+			"ShaderMapHash": "027BC54876C60056F8890611C02538C621B5B96C",
 			"Assets": [
-				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Menu_Pointer.uasset"
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ProjectorMaterials/Screen/Projector_Screen_Main.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "6D4BB8D2848542FD41BEEC8DD43A583CEF4E71FA",
+			"ShaderMapHash": "90C52416672113953F8E254520FEBCA5550722DF",
 			"Assets": [
-				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Button_Start.uasset"
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ProjectorMaterials/Screen/Projector_Screen_Holder.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ProjectorMaterials/Projector/Projector_Body.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "BDA94D7DF50B23B8A1F1355A89C783545FB36A72",
-			"Assets": [
-				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Button_Top.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "50CCD5B1BBCFB6577E82F164BF0A8D56A377793A",
-			"Assets": [
-				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Button_Bottom.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "1FCEC8EEF512446FF2186922E8D69287F6459316",
-			"Assets": [
-				"C:/Projects/StutterSpeak/TestProject1/Content/Starter_Content/Geometry/Meshes/CubeMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "F465B9C4969F0C50C7C5A0D0EAB619DF443BC76C",
-			"Assets": [
-				"C:/Projects/StutterSpeak/TestProject1/Content/Starter_Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "466F316CDCB22E387A123CA3DCB09A51CC7AB010",
-			"Assets": [
-				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Podium.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "FE4F57CEACE5EA4DC0106B649FA7EC5F2C1181D2",
-			"Assets": [
-				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Stage_Wood.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "0B9F1FE114E5B876955A3399A71DF28559D201E3",
+			"ShaderMapHash": "A9873FA32E7013277F45565878FF11E79EE5DF46",
 			"Assets": [
 				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Microphone.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "FC466FECC5E606B3E0920CBE4B26A462603B2690",
+			"ShaderMapHash": "5D488A68B0340A729CAEBAD74B44072D4E146FA9",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Stage_Wood.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Mic_Ring.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0D724772EC76BA4EA64436A81A93316A0B7A7469",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/FaderMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C2219C3B127D18A4CA59EF0178558E5D1BDCAF21",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Hand.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "755FFED9B35551095F44F8896A9D483E02948D12",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Starter_Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8D604BD623875AB3815D18991D91C4FB95C913B4",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ButtonMaterials/Button_Bottom.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9CA6122ADBBFC7C16D1CCD343826C7898CC0AB75",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/FloppyDiskMaterials/Floppy_White.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/FloppyDiskMaterials/Floppy_Silver.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/FloppyDiskMaterials/Default_Floppy_Base.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ProjectorMaterials/Projector/Projector_Ring.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/MenuWorldMiscMaterials/Table/TableTop.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/MenuWorldMiscMaterials/Table/TableLeg.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2372613454D3AAFD1A00B306D8F38570A6E25151",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/FloppyDiskMaterials/Floppy_Black.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CA03E3624D303D2EC0F6C75668293F5266DE8006",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ButtonMaterials/Button_Start.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B8495F7099BAF82A70463C10A81104A5BB34BDAD",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ButtonMaterials/Button_Top.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "44199909C802E2928F76DE2A5CF31B6176DDC00F",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Starter_Content/Geometry/Meshes/CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D439862B5A2BFA970F8351D9D5B5E1DF4AAC5248",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/MicOn.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9ACAF83942E4A8FC4B55E982028798E2EBA4BA8A",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9F9FF333000BF5EAA4D5CF0FE51BF2D13C694672",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Starter_Content/VirtualReality/Materials/M_BaseMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EE52C43D9CFAFDF5F75C80491383EF97D2D7B35C",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/MenuWorldMiscMaterials/LED_On.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C9C91276A0DBD604636D07D61B3B410E38FB8404",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/MenuWorldMiscMaterials/LED_Off.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B9641AD950C9C59C9142D9C924CACC9E364FD0D3",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/MenuWorldMiscMaterials/SettingsBox.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AFF3598D96F194982E3141DDEA9CDD2F0F4CD69C",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ButtonMaterials/ResetButtonTop.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AFBD5CDBFB3467D9F23112EB9394705DFE403D61",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ProjectorMaterials/Projector/Projector_Glass_Lens.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "70DD3F191C7AF9D236BA3C636906F178BCFC24DA",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/FloppyDiskMaterials/Custom_Floppy_Base.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F74F721B84D762B4B86EFBB89D0A432530386AA5",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ButtonMaterials/ArrowButton_Enabled.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "998492326E641E2E15883B6C32270FFD6AB61C34",
+			"Assets": [
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "490F38119DD1A405954F2CE93EA1AD1B89D46FD8",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Podium.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D709067B3F7448DBCA11C3E2BC84DCC748888124",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/MenuWorldMiscMaterials/SettPlaque.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/MenuWorldMiscMaterials/Plaque.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Big_Plaque.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/MenuBG.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7216CCB3C8A9FFD739419C1258DF550CE213C3B2",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/MenuWorldMiscMaterials/LampShade.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F0C0C5E9DD2654572310B274537AA18AA2227DEB",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/FloppyDiskMaterials/Special_Floppy_Base.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F0B4E3AF412D28EAA2C92F966192DF4A5CE8E7FB",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/FloppyDiskMaterials/Floppy_White_Holographic.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B8C8563F7A5D46ABF2B5F29370C2ED8FD13936B9",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/FloppyDiskMaterials/Floppy_Silver_Holographic.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/FloppyDiskMaterials/Floppy_Black_Holographic.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/FloppyDiskMaterials/Default_Floppy_Holographic.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F578AF6CB729C39049D43BB6972E1CEE7235BA15",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/SettingsSign.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/Curtains.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/DoorFrame.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C2A03E0BF11E020C572E00B4B8624C2960DC1183",
+			"Assets": [
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ButtonMaterials/Rating_Button_Top_Materials/Button_9.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ButtonMaterials/Rating_Button_Top_Materials/Button_8.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ButtonMaterials/Rating_Button_Top_Materials/Button_7.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ButtonMaterials/Rating_Button_Top_Materials/Button_6.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ButtonMaterials/Rating_Button_Top_Materials/Button_5.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ButtonMaterials/Rating_Button_Top_Materials/Button_4.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ButtonMaterials/Rating_Button_Top_Materials/Button_3.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ButtonMaterials/Rating_Button_Top_Materials/Button_2.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ButtonMaterials/Rating_Button_Top_Materials/Button_10.uasset",
+				"C:/Projects/StutterSpeak/TestProject1/Content/Stutter_Speak_Content/Materials/ButtonMaterials/Rating_Button_Top_Materials/Button_1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4F07CA3FD7EF73668271870CB6FF73E8FC8C29F0",
 			"Assets": [
 				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
 			]

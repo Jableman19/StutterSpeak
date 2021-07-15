@@ -21,8 +21,6 @@
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="com.android.vending.BILLING" />
     <uses-permission android:name="Manifest.permission.WRITE_EXTERNAL_STORAGE" />
-    <!-- Supported texture compression formats (cooked) -->
-    <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
 
     <uses-feature
         android:name="android.hardware.vr.headtracking"
@@ -105,7 +103,7 @@
             android:value="Shipping" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.CookedFlavors"
-            android:value="ASTC" />
+            android:value="ETC2,DXT,ASTC" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.bValidateTextureFormats"
             android:value="true" />
