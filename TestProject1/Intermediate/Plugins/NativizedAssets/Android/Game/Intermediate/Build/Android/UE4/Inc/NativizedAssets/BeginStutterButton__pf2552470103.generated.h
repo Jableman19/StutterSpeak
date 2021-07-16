@@ -1,0 +1,129 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UPrimitiveComponent;
+class AActor;
+struct FHitResult;
+#ifdef NATIVIZEDASSETS_BeginStutterButton__pf2552470103_generated_h
+#error "BeginStutterButton__pf2552470103.generated.h already included, missing '#pragma once' in BeginStutterButton__pf2552470103.h"
+#endif
+#define NATIVIZEDASSETS_BeginStutterButton__pf2552470103_generated_h
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_SPARSE_DATA
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execbpf__ReceiveBeginPlay__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveTick__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__BeginStutterButton_ButtonxTop_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature__pfT); \
+	DECLARE_FUNCTION(execbpf__ExecuteUbergraph_BeginStutterButton__pf_0);
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execbpf__ReceiveBeginPlay__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveTick__pf); \
+	DECLARE_FUNCTION(execbpf__BndEvt__BeginStutterButton_ButtonxTop_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature__pfT); \
+	DECLARE_FUNCTION(execbpf__ExecuteUbergraph_BeginStutterButton__pf_0);
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_EVENT_PARMS \
+	struct BeginStutterButton_C__pf2552470103_eventbpf__ReceiveTick__pf_Parms \
+	{ \
+		float bpp__DeltaSeconds__pf; \
+	};
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_CALLBACK_WRAPPERS \
+	void eventbpf__ReceiveBeginPlay__pf(); \
+ \
+	void eventbpf__ReceiveTick__pf(float bpp__DeltaSeconds__pf); \
+
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesABeginStutterButton_C__pf2552470103(); \
+	friend struct Z_Construct_UClass_ABeginStutterButton_C__pf2552470103_Statics; \
+public: \
+	DECLARE_CLASS(ABeginStutterButton_C__pf2552470103, AStaticMeshActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Game/Stutter_Speak_Content/Pre-Fabs/BeginStutterButton"), NO_API) \
+	DECLARE_SERIALIZER(ABeginStutterButton_C__pf2552470103)
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_INCLASS \
+private: \
+	static void StaticRegisterNativesABeginStutterButton_C__pf2552470103(); \
+	friend struct Z_Construct_UClass_ABeginStutterButton_C__pf2552470103_Statics; \
+public: \
+	DECLARE_CLASS(ABeginStutterButton_C__pf2552470103, AStaticMeshActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Game/Stutter_Speak_Content/Pre-Fabs/BeginStutterButton"), NO_API) \
+	DECLARE_SERIALIZER(ABeginStutterButton_C__pf2552470103)
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ABeginStutterButton_C__pf2552470103(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ABeginStutterButton_C__pf2552470103) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ABeginStutterButton_C__pf2552470103); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABeginStutterButton_C__pf2552470103); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ABeginStutterButton_C__pf2552470103(ABeginStutterButton_C__pf2552470103&&); \
+	NO_API ABeginStutterButton_C__pf2552470103(const ABeginStutterButton_C__pf2552470103&); \
+public:
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ABeginStutterButton_C__pf2552470103(ABeginStutterButton_C__pf2552470103&&); \
+	NO_API ABeginStutterButton_C__pf2552470103(const ABeginStutterButton_C__pf2552470103&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ABeginStutterButton_C__pf2552470103); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABeginStutterButton_C__pf2552470103); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ABeginStutterButton_C__pf2552470103)
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_PRIVATE_PROPERTY_OFFSET
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_14_PROLOG \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_EVENT_PARMS
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_PRIVATE_PROPERTY_OFFSET \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_SPARSE_DATA \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_RPC_WRAPPERS \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_CALLBACK_WRAPPERS \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_INCLASS \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_PRIVATE_PROPERTY_OFFSET \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_SPARSE_DATA \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_CALLBACK_WRAPPERS \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_INCLASS_NO_PURE_DECLS \
+	TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h_18_ENHANCED_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> NATIVIZEDASSETS_API UClass* StaticClass<class ABeginStutterButton_C__pf2552470103>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID TestProject1_Intermediate_Plugins_NativizedAssets_Android_Game_Source_NativizedAssets_Public_BeginStutterButton__pf2552470103_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

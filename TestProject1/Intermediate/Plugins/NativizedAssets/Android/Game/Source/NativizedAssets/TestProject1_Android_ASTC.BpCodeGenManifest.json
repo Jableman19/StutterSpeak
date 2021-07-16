@@ -1,0 +1,647 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/UMG'",
+		"Package'/Script/NavigationSystem'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/AudioCapture'",
+		"Package'/Script/AudioMixer'",
+		"Package'/Script/AnimGraphRuntime'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/ClothingSystemRuntimeNv'",
+		"Package'/Script/HeadMountedDisplay'",
+		"Package'/Script/TestProject1'",
+		"Package'/Script/BlueprintFileUtils'",
+		"Package'/Script/MediaAssets'",
+		"Package'/Script/PhysicsCore'",
+		"Package'/Script/Landscape'",
+		"Package'/Script/StaticMeshDescription'",
+		"Package'/Script/MeshDescription'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/GameplayTags'",
+		"Package'/Script/ClothingSystemRuntimeInterface'",
+		"Package'/Script/PropertyAccess'",
+		"Package'/Script/PropertyPath'",
+		"Package'/Script/MovieScene'",
+		"Package'/Script/Slate'",
+		"Package'/Script/AudioExtensions'",
+		"Package'/Script/AudioPlatformConfiguration'",
+		"Package'/Script/MediaUtils'"
+	],
+	"convertedAssets":
+	{
+		"/Game/Starter_Content/VirtualRealityBP/Blueprints/GripEnum.GripEnum":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/Starter_Content/VirtualRealityBP/Blueprints/GripEnum.GripEnum",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/GripEnum__pf3611121690.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/GripEnum__pf3611121690.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Structs/Attempt_Struct.Attempt_Struct":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Structs/Attempt_Struct.Attempt_Struct",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Attempt_Struct__pf3774553483.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Attempt_Struct__pf3774553483.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Structs/Stutter_Struct.Stutter_Struct":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Structs/Stutter_Struct.Stutter_Struct",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Stutter_Struct__pf3774553483.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Stutter_Struct__pf3774553483.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Structs/Data_For_Each_Speech_Struct.Data_For_Each_Speech_Struct":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Structs/Data_For_Each_Speech_Struct.Data_For_Each_Speech_Struct",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Data_For_Each_Speech_Struct__pf3774553483.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Data_For_Each_Speech_Struct__pf3774553483.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/Total_Time_Graph.Total_Time_Graph_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/Total_Time_Graph.Total_Time_Graph_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Total_Time_Graph__pf517162645.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Total_Time_Graph__pf517162645.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/TriggerBox_Blueprint__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/TriggerBox_Blueprint__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/Time_Stuttering_Graph.Time_Stuttering_Graph_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/Time_Stuttering_Graph.Time_Stuttering_Graph_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Time_Stuttering_Graph__pf517162645.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Time_Stuttering_Graph__pf517162645.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/ResultsForSwitcher.ResultsForSwitcher_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/ResultsForSwitcher.ResultsForSwitcher_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/ResultsForSwitcher__pf517162645.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/ResultsForSwitcher__pf517162645.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/Percentage_Stuttering_Graph.Percentage_Stuttering_Graph_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/Percentage_Stuttering_Graph.Percentage_Stuttering_Graph_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Percentage_Stuttering_Graph__pf517162645.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Percentage_Stuttering_Graph__pf517162645.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/DataStructureForList.DataStructureForList_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/DataStructureForList.DataStructureForList_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/DataStructureForList__pf517162645.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/DataStructureForList__pf517162645.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/ListViewData.ListViewData_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/ListViewData.ListViewData_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/ListViewData__pf517162645.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/ListViewData__pf517162645.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/Fluency_Graph.Fluency_Graph_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/Fluency_Graph.Fluency_Graph_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Fluency_Graph__pf517162645.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Fluency_Graph__pf517162645.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/Eye_Contact_Graph.Eye_Contact_Graph_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/Eye_Contact_Graph.Eye_Contact_Graph_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Eye_Contact_Graph__pf517162645.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Eye_Contact_Graph__pf517162645.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/Effectiveness_Graph.Effectiveness_Graph_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/Effectiveness_Graph.Effectiveness_Graph_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Effectiveness_Graph__pf517162645.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Effectiveness_Graph__pf517162645.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Menu_World_Widgets/Credits.Credits_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Menu_World_Widgets/Credits.Credits_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Credits__pf4267528607.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Credits__pf4267528607.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Menu_World_Widgets/Confirm_Begin_Speech.Confirm_Begin_Speech_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Menu_World_Widgets/Confirm_Begin_Speech.Confirm_Begin_Speech_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Confirm_Begin_Speech__pf4267528607.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Confirm_Begin_Speech__pf4267528607.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/ProjectorScreen_Blueprint.ProjectorScreen_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/ProjectorScreen_Blueprint.ProjectorScreen_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/ProjectorScreen_Blueprint__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/ProjectorScreen_Blueprint__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/Switcher.Switcher_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Graphing_Widgets/Switcher.Switcher_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Switcher__pf517162645.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Switcher__pf517162645.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Menu_World_Widgets/Speech_Details_Pannel.Speech_Details_Pannel_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Menu_World_Widgets/Speech_Details_Pannel.Speech_Details_Pannel_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Speech_Details_Pannel__pf4267528607.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Speech_Details_Pannel__pf4267528607.cpp"
+		},
+		"/Game/Stutter_Speak_Content/SaveData/SettingsSavaData.SettingsSavaData_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/SaveData/SettingsSavaData.SettingsSavaData_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/SettingsSavaData__pf1234790197.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/SettingsSavaData__pf1234790197.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Speech_World/SpeechPageW.SpeechPageW_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Speech_World/SpeechPageW.SpeechPageW_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/SpeechPageW__pf1694860710.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/SpeechPageW__pf1694860710.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/BPSpeechWorld.BPSpeechWorld_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/BPSpeechWorld.BPSpeechWorld_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/BPSpeechWorld__pf2075166221.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/BPSpeechWorld__pf2075166221.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Managers/Recording_Test_1.Recording_Test_1_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Managers/Recording_Test_1.Recording_Test_1_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Recording_Test_1__pf1711902218.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Recording_Test_1__pf1711902218.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Pre-Fabs/BeginStutterButton.BeginStutterButton_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Pre-Fabs/BeginStutterButton.BeginStutterButton_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/BeginStutterButton__pf2552470103.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/BeginStutterButton__pf2552470103.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Menu_World_Widgets/Reset_Button_Display.Reset_Button_Display_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Menu_World_Widgets/Reset_Button_Display.Reset_Button_Display_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Reset_Button_Display__pf4267528607.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Reset_Button_Display__pf4267528607.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Reset_Data_Base2_Blueprint.Reset_Data_Base2_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Reset_Data_Base2_Blueprint.Reset_Data_Base2_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Reset_Data_Base2_Blueprint__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Reset_Data_Base2_Blueprint__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Floppy_Text.Floppy_Text_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Floppy_Text.Floppy_Text_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Floppy_Text__pf2075166221.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Floppy_Text__pf2075166221.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/FloppyResetBox_Blueprint.FloppyResetBox_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/FloppyResetBox_Blueprint.FloppyResetBox_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/FloppyResetBox_Blueprint__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/FloppyResetBox_Blueprint__pf3730827578.cpp"
+		},
+		"/Game/Starter_Content/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Starter_Content/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/PickupActorInterface__pf3611121690.h",
+			"generatedCppPath": ""
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Floppy.Floppy_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Floppy.Floppy_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Floppy__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Floppy__pf3730827578.cpp"
+		},
+		"/Game/Starter_Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C":
+		{
+			"assetType": "Class'/Script/Engine.AnimBlueprint'",
+			"targetObjPath": "/Game/Starter_Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/RightHand_AnimBP__pf2908282278.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/RightHand_AnimBP__pf2908282278.cpp"
+		},
+		"/Game/Starter_Content/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Starter_Content/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/BP_MotionController__pf3611121690.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/BP_MotionController__pf3611121690.cpp"
+		},
+		"/Game/Starter_Content/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Starter_Content/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/MotionControllerPawn__pf3611121690.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/MotionControllerPawn__pf3611121690.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Microphone_MainMic_Blueprint.Microphone_MainMic_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Microphone_MainMic_Blueprint.Microphone_MainMic_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Microphone_MainMic_Blueprint__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Microphone_MainMic_Blueprint__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Managers/Stutter_Timer__Empty_Object__Blueprint.Stutter_Timer__Empty_Object__Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Managers/Stutter_Timer__Empty_Object__Blueprint.Stutter_Timer__Empty_Object__Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Stutter_Timer__Empty_Object__Blueprint__pf1711902218.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Stutter_Timer__Empty_Object__Blueprint__pf1711902218.cpp"
+		},
+		"/Game/Stutter_Speak_Content/SaveData/SaveData.SaveData_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/SaveData/SaveData.SaveData_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/SaveData__pf1234790197.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/SaveData__pf1234790197.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/MenuGI.MenuGI_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/MenuGI.MenuGI_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/MenuGI__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/MenuGI__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Managers/LevelDatabaseActor.LevelDatabaseActor_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Managers/LevelDatabaseActor.LevelDatabaseActor_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/LevelDatabaseActor__pf1711902218.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/LevelDatabaseActor__pf1711902218.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Managers/MusicManager_Blueprint.MusicManager_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Managers/MusicManager_Blueprint.MusicManager_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/MusicManager_Blueprint__pf1711902218.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/MusicManager_Blueprint__pf1711902218.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/SettingsBox.SettingsBox_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/SettingsBox.SettingsBox_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/SettingsBox__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/SettingsBox__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Text_Size_Slider.Text_Size_Slider_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Text_Size_Slider.Text_Size_Slider_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Text_Size_Slider__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Text_Size_Slider__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/SliderBP.SliderBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/SliderBP.SliderBP_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/SliderBP__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/SliderBP__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Pre-Fabs/CompleteModels/RightButton.RightButton_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Pre-Fabs/CompleteModels/RightButton.RightButton_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/RightButton__pf2198246146.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/RightButton__pf2198246146.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Pre-Fabs/CompleteModels/LeftButton.LeftButton_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Pre-Fabs/CompleteModels/LeftButton.LeftButton_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/LeftButton__pf2198246146.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/LeftButton__pf2198246146.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/ButtonPad_Blueprint.ButtonPad_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/ButtonPad_Blueprint.ButtonPad_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/ButtonPad_Blueprint__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/ButtonPad_Blueprint__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Cancel_BP.Cancel_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Cancel_BP.Cancel_BP_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Cancel_BP__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Cancel_BP__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Pre-Fabs/TriggerBox_MenuWorld.TriggerBox_MenuWorld_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Pre-Fabs/TriggerBox_MenuWorld.TriggerBox_MenuWorld_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/TriggerBox_MenuWorld__pf2552470103.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/TriggerBox_MenuWorld__pf2552470103.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Managers/MenuWorldLevelHolder.MenuWorldLevelHolder_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Managers/MenuWorldLevelHolder.MenuWorldLevelHolder_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/MenuWorldLevelHolder__pf1711902218.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/MenuWorldLevelHolder__pf1711902218.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/CheckMark_BP.CheckMark_BP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/CheckMark_BP.CheckMark_BP_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/CheckMark_BP__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/CheckMark_BP__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Pre-Fabs/CompleteModels/BeginButton.BeginButton_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Pre-Fabs/CompleteModels/BeginButton.BeginButton_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/BeginButton__pf2198246146.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/BeginButton__pf2198246146.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Projector_Blueprint.Projector_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Projector_Blueprint.Projector_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Projector_Blueprint__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Projector_Blueprint__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/ResetButton2_Button_Blueprint.ResetButton2_Button_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/ResetButton2_Button_Blueprint.ResetButton2_Button_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/ResetButton2_Button_Blueprint__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/ResetButton2_Button_Blueprint__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Pre-Fabs/ResetButton2_Top_Blueprint.ResetButton2_Top_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Pre-Fabs/ResetButton2_Top_Blueprint.ResetButton2_Top_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/ResetButton2_Top_Blueprint__pf2552470103.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/ResetButton2_Top_Blueprint__pf2552470103.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/HalfCircleTable_Menu_Blueprint.HalfCircleTable_Menu_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/HalfCircleTable_Menu_Blueprint.HalfCircleTable_Menu_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/HalfCircleTable_Menu_Blueprint__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/HalfCircleTable_Menu_Blueprint__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/FloppyHolder_Blueprint.FloppyHolder_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/FloppyHolder_Blueprint.FloppyHolder_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/FloppyHolder_Blueprint__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/FloppyHolder_Blueprint__pf3730827578.cpp"
+		},
+		"/Game/Starter_Content/VirtualRealityBP/Blueprints/Actor_Blueprint.Actor_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Starter_Content/VirtualRealityBP/Blueprints/Actor_Blueprint.Actor_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Actor_Blueprint__pf3611121690.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Actor_Blueprint__pf3611121690.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Active_Choice_Ring.Active_Choice_Ring_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Active_Choice_Ring.Active_Choice_Ring_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Active_Choice_Ring__pf3041421614.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Active_Choice_Ring__pf3041421614.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Speech_World/ResultsDataBP.ResultsDataBP_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Speech_World/ResultsDataBP.ResultsDataBP_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/ResultsDataBP__pf1694860710.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/ResultsDataBP__pf1694860710.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Speech_World/RaterBP.RaterBP_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Speech_World/RaterBP.RaterBP_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/RaterBP__pf1694860710.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/RaterBP__pf1694860710.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Speech_World/FluencyRaterBP1.FluencyRaterBP1_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Speech_World/FluencyRaterBP1.FluencyRaterBP1_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/FluencyRaterBP1__pf1694860710.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/FluencyRaterBP1__pf1694860710.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Hanging_Projector_Screen_Blueprint.Hanging_Projector_Screen_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Hanging_Projector_Screen_Blueprint.Hanging_Projector_Screen_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Hanging_Projector_Screen_Blueprint__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Hanging_Projector_Screen_Blueprint__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Confirm_Rating_Button.Confirm_Rating_Button_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Confirm_Rating_Button.Confirm_Rating_Button_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Confirm_Rating_Button__pf3041421614.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Confirm_Rating_Button__pf3041421614.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_9.Rating_Button_9_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_9.Rating_Button_9_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Rating_Button_9__pf3041421614.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Rating_Button_9__pf3041421614.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_8.Rating_Button_8_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_8.Rating_Button_8_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Rating_Button_8__pf3041421614.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Rating_Button_8__pf3041421614.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_7.Rating_Button_7_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_7.Rating_Button_7_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Rating_Button_7__pf3041421614.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Rating_Button_7__pf3041421614.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_6.Rating_Button_6_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_6.Rating_Button_6_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Rating_Button_6__pf3041421614.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Rating_Button_6__pf3041421614.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_5.Rating_Button_5_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_5.Rating_Button_5_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Rating_Button_5__pf3041421614.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Rating_Button_5__pf3041421614.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_4.Rating_Button_4_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_4.Rating_Button_4_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Rating_Button_4__pf3041421614.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Rating_Button_4__pf3041421614.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_3.Rating_Button_3_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_3.Rating_Button_3_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Rating_Button_3__pf3041421614.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Rating_Button_3__pf3041421614.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_2.Rating_Button_2_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_2.Rating_Button_2_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Rating_Button_2__pf3041421614.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Rating_Button_2__pf3041421614.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_10.Rating_Button_10_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_10.Rating_Button_10_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Rating_Button_10__pf3041421614.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Rating_Button_10__pf3041421614.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_1.Rating_Button_1_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Rating_Buttons/Rating_Button_1.Rating_Button_1_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Rating_Button_1__pf3041421614.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Rating_Button_1__pf3041421614.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Retry_Button.Retry_Button_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Retry_Button.Retry_Button_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Retry_Button__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Retry_Button__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/BPPostSpeech.BPPostSpeech_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/BPPostSpeech.BPPostSpeech_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/BPPostSpeech__pf2075166221.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/BPPostSpeech__pf2075166221.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Playback_Actor.Playback_Actor_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Playback_Actor.Playback_Actor_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Playback_Actor__pf3621867267.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Playback_Actor__pf3621867267.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Managers/Recording_Test.Recording_Test_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Managers/Recording_Test.Recording_Test_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Recording_Test__pf1711902218.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Recording_Test__pf1711902218.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Pre-Fabs/CompleteModels/StopSpeechButton.StopSpeechButton_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Pre-Fabs/CompleteModels/StopSpeechButton.StopSpeechButton_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/StopSpeechButton__pf2198246146.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/StopSpeechButton__pf2198246146.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Pre-Fabs/TriggerBoxMainWorld.TriggerBoxMainWorld_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Pre-Fabs/TriggerBoxMainWorld.TriggerBoxMainWorld_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/TriggerBoxMainWorld__pf2552470103.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/TriggerBoxMainWorld__pf2552470103.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Pre-Fabs/CompleteModels/BeginSpeechButton.BeginSpeechButton_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Pre-Fabs/CompleteModels/BeginSpeechButton.BeginSpeechButton_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/BeginSpeechButton__pf2198246146.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/BeginSpeechButton__pf2198246146.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Podium_Blueprint.Podium_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Podium_Blueprint.Podium_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Podium_Blueprint__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Podium_Blueprint__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Page_Change_Button.Page_Change_Button_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Page_Change_Button.Page_Change_Button_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Page_Change_Button__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Page_Change_Button__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Widgets/Speech_World/LevelHandler_Blueprint.LevelHandler_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Widgets/Speech_World/LevelHandler_Blueprint.LevelHandler_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/LevelHandler_Blueprint__pf1694860710.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/LevelHandler_Blueprint__pf1694860710.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/Menu_Button.Menu_Button_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/Menu_Button.Menu_Button_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/Menu_Button__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/Menu_Button__pf3730827578.cpp"
+		},
+		"/Game/Stutter_Speak_Content/Blueprints/HalfCircleTable_Speech_Blueprint.HalfCircleTable_Speech_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Stutter_Speak_Content/Blueprints/HalfCircleTable_Speech_Blueprint.HalfCircleTable_Speech_Blueprint_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/HalfCircleTable_Speech_Blueprint__pf3730827578.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/HalfCircleTable_Speech_Blueprint__pf3730827578.cpp"
+		},
+		"/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C",
+			"generatedHeaderPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Public/BP_Sky_Sphere__pf1379775596.h",
+			"generatedCppPath": "C:/Projects/StutterSpeak/TestProject1/Intermediate/Plugins/NativizedAssets/Android/Game/Source/NativizedAssets/Private/BP_Sky_Sphere__pf1379775596.cpp"
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "Android_ASTC",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"bExcludeMonolithicHeaders": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}

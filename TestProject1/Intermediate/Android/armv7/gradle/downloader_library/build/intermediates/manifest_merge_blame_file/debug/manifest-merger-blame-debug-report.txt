@@ -6,8 +6,8 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="4"
-8-->Z:\downloader_library\src\main\AndroidManifest.xml
+8-->Y:\downloader_library\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="15" />
-9-->Z:\downloader_library\src\main\AndroidManifest.xml
+9-->Y:\downloader_library\src\main\AndroidManifest.xml
 10
 11</manifest>

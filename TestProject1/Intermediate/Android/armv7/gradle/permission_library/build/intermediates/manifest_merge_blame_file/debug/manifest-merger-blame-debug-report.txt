@@ -4,8 +4,8 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="13"
-6-->Z:\permission_library\src\main\AndroidManifest.xml
+6-->Y:\permission_library\src\main\AndroidManifest.xml
 7        android:targetSdkVersion="23" />
-7-->Z:\permission_library\src\main\AndroidManifest.xml
+7-->Y:\permission_library\src\main\AndroidManifest.xml
 8
 9</manifest>

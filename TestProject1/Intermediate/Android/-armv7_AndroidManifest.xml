@@ -22,7 +22,7 @@
     <meta-data android:name="com.epicgames.ue4.GameActivity.AppType" android:value="" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles" android:value="true" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.BuildConfiguration" android:value="Shipping" />
-    <meta-data android:name="com.epicgames.ue4.GameActivity.CookedFlavors" android:value="ASTC" />
+    <meta-data android:name="com.epicgames.ue4.GameActivity.CookedFlavors" android:value="ETC2,DXT,ASTC" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bValidateTextureFormats" android:value="true" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bUseExternalFilesDir" android:value="false" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bPublicLogFiles" android:value="false" />
@@ -54,8 +54,6 @@
   <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
   <uses-permission android:name="com.android.vending.BILLING" />
   <uses-permission android:name="Manifest.permission.WRITE_EXTERNAL_STORAGE" />
-  <!-- Supported texture compression formats (cooked) -->
-  <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
   <uses-feature android:name="android.hardware.vr.headtracking" android:version="1" android:required="true" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-feature android:name="android.hardware.usb.host" />
