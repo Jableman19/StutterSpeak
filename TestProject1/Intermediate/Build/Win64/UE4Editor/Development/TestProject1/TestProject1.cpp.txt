@@ -1,2 +1,2 @@
-C:\Projects\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\Definitions.TestProject1.h
-C:\Projects\StutterSpeak\TestProject1\Source\TestProject1\TestProject1.h
+C:\Users\Robbi\Documents\GitHub\StutterSpeak\TestProject1\Intermediate\Build\Win64\UE4Editor\Development\TestProject1\Definitions.TestProject1.h
+C:\Users\Robbi\Documents\GitHub\StutterSpeak\TestProject1\Source\TestProject1\TestProject1.h
