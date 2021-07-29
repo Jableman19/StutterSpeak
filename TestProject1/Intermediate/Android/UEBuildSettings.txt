@@ -121,5 +121,5 @@ NDKPath=(Path="C:/Projects/android-ndk-r22b")
 JavaPath=(Path="")
 Arch=-armv7
 GPUArch=
-GameDefaultMap=/Game/Stutter_Speak_Content/Maps/MenuWorld.MenuWorld
+GameDefaultMap=/Game/Stutter_Speak_Content/Maps/Warning.Warning
 GlobalDefaultGameMode=/Script/FunctionalTesting.FunctionalTestGameMode

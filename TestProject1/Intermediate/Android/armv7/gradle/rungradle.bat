@@ -9,10 +9,10 @@ shift
 goto setupArgs
 
 :doneStart
-subst Z: "%CD%"
-pushd Z:
+subst Y: "%CD%"
+pushd Y:
 call "%GRADLEPATH%\gradlew.bat" %GRADLE_CMD_LINE_ARGS%
 set GRADLEERROR=%ERRORLEVEL%
 popd
-subst Z: /d
+subst Y: /d
 exit /b %GRADLEERROR%
